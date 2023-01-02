@@ -2,9 +2,11 @@
 ---
 # 01.01.2023 Agile Foundations: Agile Teams
 - Should be able to Ask tough questions about the way they work and be open to continuous improvement. 
-- First Step: Focus on the Why:
+- First Step: Focus on the **Why**:
+- When you look at agile practices, don't think about mastering them, instead think about the **reasoning behind them**.
 - Why does shorter sprints improve our team‘s agility? This questions will help us so much more when we’r trying to change our team’s mindset. 
 - Why we’re doing things differtly,  then we’ll be much better off as an Agile Team. 
+- Be open to continuous improvement
 # 01.01.2023 Agile Foundations: Agile Principle
 - first rumblings of common Agile roles and practices (P1)
 - Welcoming changes when we’re working in our cone of uncertainty (P2) 
@@ -40,13 +42,36 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 - Welcome changeing requirments, even late in development. Agile processes harness change for the customer‘s competetive advantage
 # 01.01.2023 Agile Foundations: Principle 4, 5, 11
 Agile teams should be Motivated and self-organized. They should also work closely without business people when delivering the product.
-
+# 01.01.2023 Agile Foundations: Principle 6,7
+CDE
+# 01.01.2023 Agile Foundations: Principle 9,10
+VFR
+# 01.01.2023 Agile Foundations: Principle 12
+ABC
 # 01.01.2023 Agile Foundations: Waterfall Model
 - Plan --> Analyze -- > Design -- >  Code -- >  Test -- >  Deploy
 - Agile is a Mindset. It’s a way to think about your work.
 - Waterfall is concrete process. It’s strict guidelines for how you should do your work.
-
-
+# 01.01.2023 Agile Foundations: The Agile Mindset
+- Many organizations that try to use Agile to improve thier product delivery. They might 
+  - Rename Project Manegers into Scrum Masters.
+  - They'll break down the requirments into Agile-style user stories.
+- To get real benifit from agile, you have to start by adderssing your team's mindset. 
+- If you see agile is just an updated set of project management tools, then you'll probebly be disappointed.
+- You don't want your team to be focused on agile practices, instead you want to be focused on thinking like an agile team.
+- 
+# 01.01.2023 Agile Foundations: Challenges with software manufacturing
+- Plan the work, then work to plan. 
+- Traditional Planning
+  - Plan the Project
+  - Execute the Project
+  - Test the Project
+- **When you're developing software, you're doing a mixture of building and learning**.
+- Most software products have to deal with something called the **Cone of Uncertainty**
+  - The best way of to think about The Cone of Uncertainty is to imagine the relationship between time, knowledge and cost.
+  - The Corner of Uncertainty is the widest a few days before landfall. Then the cone narrows as the meteorologists gain more knowledge and time passes.
+  -  The problem is that the meteorologists (Refer to Example) know the most about the storm when it's too late. This is also one of the biggest challenges with delivering software products. You know the most about what it takes to deliver the product only when you're nearly finished.
+ 
 
 
 
