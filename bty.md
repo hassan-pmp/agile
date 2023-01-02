@@ -29,25 +29,28 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 - Finishing work on a task and then giving it to another person or department for processing.
 - Challenge: is that encourages large batches of work to go through the system. This is usually called Queue Size.
 - So, it’s almost like an expressway where a few lanes of traffic are backed up and others are empty. Some cars would be crawling forward, while others would be speeding along. So at some point, everyone’s either speeding or crawling. This relationship between how these batches of work decrease your overall efficiency is not always easy to show. If you can keep your batch sizes smaller, it will make it easier to limit your handoffs. 
-# 01.01.2023 Agile Foundations: Principle 8
-- Agile Processus promote sustainable Developern. The sponsors, developers, and users should be able to Maintain a constant pace indefinitely. 
-- Predictable = Sustainable –and-Constant
-# 01.01.2023 Agile Foundations: Principle 5 & 11
-- Small, Motivated self-organized team of generalists
+
 # 01.01.2023 Agile Foundations: Principle 1
-- Our highest Priority is to satisfy the customer through early and continous delivery of Valuab software![image](https://user-
-# 01.01.2023 Agile Foundations: Principle 3
-- Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale
+- Our highest Priority is to satisfy the customer through early and continous delivery of Valuab software
 # 01.01.2023 Agile Foundations: Principle 2
+# 01.01.2023 Agile Foundations: Principle 3,7 
+- Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+- refer to continuous software delivery in weeks as a measure of progress. That's why most Agile teams deliver in short iterations called sprints.
 - Welcome changeing requirments, even late in development. Agile processes harness change for the customer‘s competetive advantage
-# 01.01.2023 Agile Foundations: Principle 4, 5, 11
-Agile teams should be Motivated and self-organized. They should also work closely without business people when delivering the product.
-# 01.01.2023 Agile Foundations: Principle 6,7
-CDE
-# 01.01.2023 Agile Foundations: Principle 9,10
-VFR
+# 01.01.2023 Agile Foundations: Principle 4
+- describes how customers should work closely with the development team. Later on, you'll see a role called the Product Owner. This is commonly a customer representative who sits with the team and guides them as they deliver the product.
+# 01.01.2023 Agile Foundations: Principle 5, 11
+- Agile teams should be Motivated and self-organized. They should also work closely without business people when delivering the product.
+- Small, Motivated self-organized team of generalists
+- Describes how customers should work closely with the development team. Later on, you'll see a role called the Product Owner. This is commonly a customer representative who sits with the team and guides them as they deliver the product.
+- Principles 5 and 11 talk about motivated self-organized teams. That's why most Agile teams are cross-functional and self-organized, they should be small teams of generalists that work together to deliver the product.
+# 01.01.2023 Agile Foundations: Principle 6
+- Describes the importance of face-to-face conversations. That's why many Agile teams write user stories. Instead of writing out long requirements documents.
+# 01.01.2023 Agile Foundations: Principle 1,8,9,10
+- Start to introduce you to the idea of prioritizing high value work. And Agile team will use something like a product backlog it's here, where the product owner will identify what the customer values the most. The product owner will work with the team to simplify this functionality. And as something that can be delivered in a short sprint.
+- Predictable = Sustainable –and-Constant
 # 01.01.2023 Agile Foundations: Principle 12
-ABC
+- Encourages the team to meet frequently to discuss process improvement. That's why most Agile teams have a retrospective. Typically it's at the end of every sprint. This is when the team has a face-to-face meeting to think of ways to improve their collaboration.
 # 01.01.2023 Agile Foundations: Waterfall Model
 - Plan --> Analyze -- > Design -- >  Code -- >  Test -- >  Deploy
 - Agile is a Mindset. It’s a way to think about your work.
@@ -71,6 +74,8 @@ ABC
   - The best way of to think about The Cone of Uncertainty is to imagine the relationship between time, knowledge and cost.
   - The Corner of Uncertainty is the widest a few days before landfall. Then the cone narrows as the meteorologists gain more knowledge and time passes.
   -  The problem is that the meteorologists (Refer to Example) know the most about the storm when it's too late. This is also one of the biggest challenges with delivering software products. You know the most about what it takes to deliver the product only when you're nearly finished.
+  -  So many of the decisions that you make at the start of your project will be the ones that need to change. Unfortunately, as you get closer to the end of your project, it also gets more expensive to make changes. 
+  -  So you need to find the balance between making the minimum amount of decisions to get started, but still give yourself enough flexibility to make changes. This **balance between making decisions and having a flexibility to make changes is one of the key parts of the agile mindset**. That way you can help make lasting decisions, even when you're working within a cone of uncertainty.
  
 
 
