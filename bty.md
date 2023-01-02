@@ -1,4 +1,4 @@
-# Betther Than Yesterday
+# Better Than Yesterday
 ---
 # 01.01.2023 Agile Foundations: Agile Teams
 - Should be able to Ask tough questions about the way they work and be open to continuous improvement. 
