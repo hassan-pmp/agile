@@ -133,8 +133,5 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
   -  So many of the decisions that you make at the start of your project will be the ones that need to change. Unfortunately, as you get closer to the end of your project, it also gets more expensive to make changes. 
   -  So you need to find the balance between making the minimum amount of decisions to get started, but still give yourself enough flexibility to make changes. This **balance between making decisions and having a flexibility to make changes is one of the key parts of the agile mindset**. That way you can help make lasting decisions, even when you're working within a cone of uncertainty.
  
-
-
-
-
-
+# 01.01.2023 Agile Foundations: Parking lots
+- Pareto principle
