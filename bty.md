@@ -1,6 +1,35 @@
 # Better Than Yesterday
 ---
- ## 05.02.2023 Agile Foundations: Kanban Overview
+# 05.02.2023 Agile Foundations: Major agile challenges
+
+# 05.02.2023 Agile Foundations: Planning Poker
+ - This is a consensus building technique that was adapted from a group decision-making tool called **Wideband Delphi**.
+ -  Planning poker helps groups of people estimate how much effort it would take for the whole team to finish a user story.
+ -  It's a way to get a shared understanding about all the development and design challenges to deliver that small batch of work.
+# 05.02.2023 Agile Foundations: Combat groupthink
+ - Agile Value: One of the most important ideas in the Agile Manifesto is that teams should favor **individuals** and **interactions** over **processes** and **tools**.
+ - Everyone on an Agile team should always be **teaching** and **learning**.
+ - They could end up doing something called groupthink. That's when a few experts make a convincing argument and the rest of the team just follows along. 
+# 05.02.2023 Agile Foundations: Scrum Master
+- SM closer to being a trainer or a coach.
+- They can even be an administrator.
+- Scrum Master as both a **bulldozer** and a **shield**. They bulldoze through **obstacles**, but they also **protect the team from outside interference**. These obstacles can be **contacting someone**, **setting up meetings** or even **ordering software**. 
+-  The Scrum Master might not have the authority to stop the manager, but they can let them know how their actions will interfere with the product delivery. This type of confrontation can be very political, so the Scrum Master should be able to manage conflict. They might just call them a **servant leader** or an **Agile coach**.
+# 05.02.2023 Agile Foundations: Improve Customer Collaboration
+  - Dangers of Equaing Agile and traditional Roles
+   -  This way of thinking can lead to a lot of problems. For one, it can move people into these roles when they may not be the best fit. 
+   -  And two, it plays into a stereotype that organizational changes are always step-by-step.
+  - Agile mindset is a big change and radically different from how most organizations operate.
+  -  A Scrum Master is a completely different role. Here you'll act as a coach. Instead of having authority over the team, you'll be encouraging them to take on greater responsibilities. Remember that Agile teams are cross-functional and self-organized. So instead of being a manager, you don't want to encourage the team to self-manage.
+  -  A Business Analyst will typically create project requirements for the team.
+  -  Product Owner works with the team to deliver the product.
+  -  There's a shared responsibility between the Product Owner and the Development Team.
+  -  The product owner owns the product.
+  -  They're responsible for setting the direction and prioritizing the work.
+  -  They (PO) own the product and have the authority to make real-time decisions.
+  -  A **product manager** works on the long-term strategy for a product. They'll create the budget and look at competing products.
+  -  A product backlog is a ranked list of different features that the product owner would like included in the product.
+# 05.02.2023 Agile Foundations: Kanban Overview
  - Kanban is a scheduling system that was used in Lean manufacturing.
  -  The Kanban system is actually a popular way to apply **lean thinking** to software development. 
  -  **Lean thinking** is about focusing on **what's valuable to the customer** and then continuously improving the product over time.
@@ -9,7 +38,7 @@
  -  A Kanban board is a swimlane diagram with four more columns. These columns typically have the labels Stories, To-Do, Doing, and Done. Scrum teams will call this the task board because they use yellow sticky notes to keep track of their tasks.
  -  Remember that agile teams should avoid multitasking
  -  Scrum calls itself in "empirical process control framework." It's a framework for the team to run small experiments and get feedback from the customer on how to improve the product. So you can use the Scrum framework to help your team embrace a more agile mindset. But Scrum isn't agile and agile isn't Scrum. It's just that Scrum is still the most popular way for teams to embrace the mindset when delivering products.
-## 05.02.2023 Agile Foundations: XP Practicing
+# 05.02.2023 Agile Foundations: XP Practicing
 - A few of these practices, are **Agile planning**, **continuous integration**, **software Re-factoring**, and **test driven development**.
 - Most Agile teams already use some form of XP's Agile planning. One of the most popular are Agile user stories.
 - XP also encourages something called continuous integration.
