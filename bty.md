@@ -1,5 +1,19 @@
 # Better Than Yesterday
 ---
+ ## 05.02.2023 Agile Foundations: Kanban Overview
+ - Kanban is a scheduling system that was used in Lean manufacturing.
+ -  The Kanban system is actually a popular way to apply **lean thinking** to software development. 
+ -  **Lean thinking** is about focusing on **what's valuable to the customer** and then continuously improving the product over time.
+ -  Remember that **agile teams** focused on **continuous delivery of valuable software**, but **lean** also emphasizes people over **process**.
+ -  Summarize lean thinking into **two** core values. You should have **respect for people** and **continuously improve**.
+ -  A Kanban board is a swimlane diagram with four more columns. These columns typically have the labels Stories, To-Do, Doing, and Done. Scrum teams will call this the task board because they use yellow sticky notes to keep track of their tasks.
+ -  Remember that agile teams should avoid multitasking
+ -  Scrum calls itself in "empirical process control framework." It's a framework for the team to run small experiments and get feedback from the customer on how to improve the product. So you can use the Scrum framework to help your team embrace a more agile mindset. But Scrum isn't agile and agile isn't Scrum. It's just that Scrum is still the most popular way for teams to embrace the mindset when delivering products.
+## 05.02.2023 Agile Foundations: XP Practicing
+- A few of these practices, are **Agile planning**, **continuous integration**, **software Re-factoring**, and **test driven development**.
+- Most Agile teams already use some form of XP's Agile planning. One of the most popular are Agile user stories.
+- XP also encourages something called continuous integration.
+- Finally, XP teams try to create tests for their software before they actually start development. This is called **test-driven development** (**TDD**), and it helps developers understand how the software will work before they actually start coding.
 # 01.01.2023 Agile Foundations: Agile Teams
 - Should be able to Ask tough questions about the way they work and be open to continuous improvement. 
 - First Step: Focus on the **Why**:
