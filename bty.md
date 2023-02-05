@@ -1,7 +1,20 @@
 # Better Than Yesterday
 ---
+# 05.02.2023 Agile Foundations: Start an agile transformation
+- With any large organizational change, it's difficult to see where to start. 
+ - Up to Bottom
+  - Starting from the top down could get you a lot of executive support, but the teams might not know much about the agile mindset
+ - Bottom to Up
+  -  Starting from the bottom up will get you going pretty quickly, but you might run into trouble with executive support. 
+ - You might be surprised to hear that a lot of agile transformations fail before they even get started. That's because a lot of organizations have a **culture** which has a hard time embracing big changes.
+ - An organizational culture is an unseen and unspoken way of working. 
+ - One of the most common types of organizational culture is the **control culture**.
+ - This is a culture that's based on a hierarchy of different supervisors, directors, and executives. Everyone in these organizations knows exactly who they work for and knows who works for them.
 # 05.02.2023 Agile Foundations: Major agile challenges
-
+- Biggest challenge in large organizations is underestimating how radical this transformation can be.
+- If you want to embrace a more agile mindset, then you have to change your whole relationship with uncertainty.
+- Eliminating handoffs
+- Working Software as status updates 
 # 05.02.2023 Agile Foundations: Planning Poker
  - This is a consensus building technique that was adapted from a group decision-making tool called **Wideband Delphi**.
  -  Planning poker helps groups of people estimate how much effort it would take for the whole team to finish a user story.
