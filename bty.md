@@ -1,5 +1,46 @@
 # Better Than Yesterday
 ---
+# 12.02.2023 Public Speaking Foundations: Lesson 9: Develop vocal variety
+- Volume, tone, and pace, these are three key areas for you to practice your vocal variety.
+ - The most fundamental way to gain anyone's attention is to break a pattern.
+ - The second key area to consider for vocal variety is in your emotional tone.
+ - The third key area is with your pace.
+# 12.02.2023 Public Speaking Foundations: Lesson 8: Avoid common opening mistakes
+- Common Opening Mistakes
+ - Starting with something trite
+ - Clearing your throat
+ - Highliting technical insecurities
+ - Bad practice is to draw attention to your own personal insecurities. 
+# 12.02.2023 Public Speaking Foundations: Lesson 7: Introduce your agenda
+- Agenda usually includes the **purpose of the presentation**, **what will be discussed**, **who will be participating**, and **how long your presentation will last**. 
+- During your presentation, it's a good idea to briefly remind your audience about where you're going with your speech. This is called the **Teaser** approach.
+- The goal of a teaser isn't to lay out your entire program. Instead, you set expectations and build interest in only one to three upcoming agenda items.
+- **Teaser** approach: You do this by giving the audience only a tiny bit of information that makes them want to know more.
+# 12.02.2023 Public Speaking Foundations: Lesson 6: Explore five strong openings
+- How can you use your words to grab the attention of your audience right away? Five techniques that exploit the power of what's called the cold open
+ - Number one, I often like to start with a presentation by asking an open-ended question.
+ - Second, you can effectively start a presentation with a story that illustrates a key point of your presentation.
+  -  Number one, people really perk up and pay attention whenever someone mentions a story. 
+  -  Further, a well-told story often creates that sense of mystery.
+ - Third, you can start your presentation with a bold statement.
+ - Fourth, tell your audience to imagine something.
+ - Fifth, you can start with hard evidence, usually in the form of a quote or a documented fact.
+# 12.02.2023 Public Speaking Foundations: Lesson 5: Develop credibility
+- How do you develop personal credibility quickly? **confidence** and **competence**
+- confidence 
+ - First, dress to inspire confidence. 
+ - Second, use nonverbal skills to build confidence.
+ - Third, sound confident.
+- Your look, your nonverbals, and your vocal quality are three ways to quickly demonstrate confidence, but to develop personal credibility, you're also going to have to demonstrate competence. 
+-   
+# 12.02.2023 Public Speaking Foundations: Lesson 4: Rehearse
+- First, make sure your rehearsal is as close to the real thing as you can get. 
+- Second, remember they don't call it dress rehearsal for nothing.
+- Third, get an audience for your rehearsal. Ideally, rehearse your presentation with people in the room.
+- Fourth, record yourself on video during your rehearsal. Play it back and watch for areas where you do well and look for areas where you can improve.
+- Fifth, listen to yourself. I like recording my speech and putting it on a portable device then I'll listen to it while taking a walk or exercising. 
+- Sixth, rehearse in real time. If you're giving a one hour presentation, record a one hour video of yourself, not five minutes here, 10 minutes there.
+- And finally, rehearse at the same time you'll give your presentation. 
 # 12.02.2023 Public Speaking Foundations: Lesson 3: Warm up
 - three quick vocal warm-ups for early **morning** presentations:
  - Number one, get up early and get moving.
