@@ -1,5 +1,16 @@
 # Better Than Yesterday
 ---
+# 12.02.2023 Public Speaking Foundations: Lesson 2: Outline your speech
+-  four different types of outlines. **Descriptive**, **problem/solution**, **chronological**, and **regional**.
+-  In a **descriptive** presentation, you break down your topic into key informational categories. This can be a great choice for informational presentations.
+-  This type of outline (**problem/solution**) focuses first on audience pain points then pivots to easing the pain. The problem/solution outline is a great choice for many persuasive presentations. 
+-  A **chronological** outline either goes forward or backward in time. This can be a great choice for informational presentations. The chronological approach can also be a good choice for an inspirational address. If you're using a motivational story as the basis of an address, use the chronological what happens next approach, to make sure you cover all the major plot points.  
+- **Regional** is frequently used for informational presentations as well.
+# 12.02.2023 Public Speaking Foundations: Lesson 1: Know why you're talking
+- audience will be falls into one of three main categories. You'll want to **persuade**, **inform**, or **inspire** your audience.
+- In a **persuasive presentation**, your aim is to change audience behavior.
+- But in an **informational presentation**, your main purpose is to educate.
+- In an **inspirational** or entertaining presentation, you'll want to emotionally move your audience.
 # 05.02.2023 Agile Foundations: Start an agile transformation
 - With any large organizational change, it's difficult to see where to start. 
  - Up to Bottom
