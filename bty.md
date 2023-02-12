@@ -1,5 +1,16 @@
 # Better Than Yesterday
 ---
+# 12.02.2023 Public Speaking Foundations: Lesson 11: Practice great body language
+- **Emotionally connect** with the words you're saying, your body naturally knows what to do.
+- Develop professional body language:
+ - First, warm up your body before you speak.
+ - Second, when you hit the stage, you definitely don't want to keep this power pose posture.
+ - Third, avoid doing anything with your body that's distracting.
+ - Fourth, whether you're a novice presenter or a seasoned pro, record and watch your rehearsals or performance. 
+# 12.02.2023 Public Speaking Foundations: Lesson 10: Reduce the use of crutch words
+- speak with more clarity:
+ - First, review a recording of yourself talking. Make a point of listening for filler words ( Awareness of my specific problem is the first step to getting it under control.)
+ - Use **Pause technique** to collect yourself. 
 # 12.02.2023 Public Speaking Foundations: Lesson 9: Develop vocal variety
 - Volume, tone, and pace, these are three key areas for you to practice your vocal variety.
  - The most fundamental way to gain anyone's attention is to break a pattern.
