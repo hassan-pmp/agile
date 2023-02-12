@@ -1,12 +1,42 @@
 # Better Than Yesterday
 ---
+# 12.02.2023 Public Speaking Foundations: Lesson 15: Get Feedback
+- There are two indicators of a helpful review: **truthfulness** and **specificity**.
+- Indicator of worthwhile feedback:
+ - Truthfulness
+ - Specificity 
+# 12.02.2023 Public Speaking Foundations: Lesson 14: Explore strong ways to close
+- Five different **closing** techniques
+ - First, the speaker might choose a simple title close. In this approach the presenter restates or reframes the title.
+ - Second, the speaker might choose to close with a short summary of the speech.
+ - Third, a speaker can try closing with a quote. An effective closing quotation summarizes the main thrust of a presentation. Imagine closing "One Team, One Dream" speech with something like this.
+ - Fourth, ending with a personal tagline can be effective if you often present to the same audience.
+ - Lastly, a speaker can try closing with a call to action. In the call to action close you'll tell the audience what to do as well as when and how to do it.
+# 12.02.2023 Public Speaking Foundations: Lesson 13: Handle Q&A
+- If you're planning a question and answer portion of your presentation, keep these two tips in mind:
+ - One, start by letting your audience know how you'll handle your Q&A.
+ - Second, hold your Q&A session near the end, but not at the end. 
+ - This near the end (Q&A), not at the end approach, it does two things:
+  - Number one, in the unlikely event that no one has any questions for you, you can smoothly pivot to your closing statement. The last words the audience hears needs to be your voice and your wrap-up message.
+  - 
+# 12.02.2023 Public Speaking Foundations: Lesson 12: Use props and visual aids
+- There are three great reasons why you might wanna use a prop:
+ - The number one reason is **demonstration**. For most demos, showing is far more effective than telling.
+ - The second reason you might wanna use a prop is to provide a **concrete metaphor** for an abstract concept.
+ - The third reason you might wanna use a prop is for **dramatic effect**.
+ - As you work with your props, keep three important tips in mind. 
+  - Number one, rehearse with your prop.
+  - Number two, remember, every slide in your presentation, it's actually a prop.
+  - Number three, the way you present your prop can enhance its overall effectiveness. 
+  - 
 # 12.02.2023 Public Speaking Foundations: Lesson 11: Practice great body language
 - **Emotionally connect** with the words you're saying, your body naturally knows what to do.
 - Develop professional body language:
  - First, warm up your body before you speak.
  - Second, when you hit the stage, you definitely don't want to keep this power pose posture.
  - Third, avoid doing anything with your body that's distracting.
- - Fourth, whether you're a novice presenter or a seasoned pro, record and watch your rehearsals or performance. 
+ - Fourth, whether you're a novice presenter or a seasoned pro, record and watch your rehearsals or performance.
+ - Fifth, write content you believe. Authentic body language tends to flow from great content.
 # 12.02.2023 Public Speaking Foundations: Lesson 10: Reduce the use of crutch words
 - speak with more clarity:
  - First, review a recording of yourself talking. Make a point of listening for filler words ( Awareness of my specific problem is the first step to getting it under control.)
