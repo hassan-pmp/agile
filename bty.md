@@ -1,5 +1,18 @@
 # Better Than Yesterday
 ---
+# 12.02.2023 Public Speaking Foundations: Lesson 3: Warm up
+- three quick vocal warm-ups for early **morning** presentations:
+ - Number one, get up early and get moving.
+ - Two, avoid cold drinks. Remember, you want to warm up, not cool down
+ - Three, make sure to use your voice before you deliver your speech.
+- If you're presenting in the late **afternoon** or evening keep two vocal basics in mind.
+ - Number one, save your voice. Talk, sing, or hum a little throughout the day to keep your voice warm, but try not to talk too much during the day.
+ - Two, room temperature water is still your best friend. Avoid drinking more caffeine than normal.
+ - Avoid cold beverages, especially carbonated ones.
+ - If you have a solitary job where you don't speak or interact with others for hours at a time try warming up your face before you talk.
+ - Stretching your face muscles lets you display emotional range. One facial warm-up I like to do is brutally ugly. It's called small as a raisin, big as a pumpkin.
+ - And because it's so ugly I do it privately. I wrinkle my face to try to make it as small as I can, as small as a raisin, and then I stretch my face to make it as large as I can, think of that open mouth, bulging eyes of a jack o'lantern. I'll go back and forth from small to large to warm up my face and emotional range. 
+ - Finally, warm up your body before you speak. Before you present go somewhere private and try striking a few over the top, widely expansive postures.
 # 12.02.2023 Public Speaking Foundations: Lesson 2: Outline your speech
 -  four different types of outlines. **Descriptive**, **problem/solution**, **chronological**, and **regional**.
 -  In a **descriptive** presentation, you break down your topic into key informational categories. This can be a great choice for informational presentations.
