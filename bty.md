@@ -193,7 +193,7 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 - So, it’s almost like an expressway where a few lanes of traffic are backed up and others are empty. Some cars would be crawling forward, while others would be speeding along. So at some point, everyone’s either speeding or crawling. This relationship between how these batches of work decrease your overall efficiency is not always easy to show. If you can keep your batch sizes smaller, it will make it easier to limit your handoffs. 
 
 # 01.01.2023 Agile Foundations: Principle 1
-- Our highest Priority is to satisfy the customer through early and continous delivery of Valuab software
+- Our highest Priority is to satisfy the customer through early and continous delivery of Valuable software
 # 01.01.2023 Agile Foundations: Principle 2
 # 01.01.2023 Agile Foundations: Principle 3,7 
 - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
