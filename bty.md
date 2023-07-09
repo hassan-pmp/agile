@@ -192,8 +192,6 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 - Challenge: is that encourages large batches of work to go through the system. This is usually called Queue Size.
 - So, it’s almost like an expressway where a few lanes of traffic are backed up and others are empty. Some cars would be crawling forward, while others would be speeding along. So at some point, everyone’s either speeding or crawling. This relationship between how these batches of work decrease your overall efficiency is not always easy to show. If you can keep your batch sizes smaller, it will make it easier to limit your handoffs. 
 
-# 01.01.2023 Agile Foundations: Principle 1
-- Our highest Priority is to satisfy the customer through early and continous delivery of Valuable software
 # 01.01.2023 Agile Foundations: Principle 2
 - Welcoming changes.
 # 01.01.2023 Agile Foundations: Principle 3,7 
@@ -210,6 +208,7 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 # 01.01.2023 Agile Foundations: Principle 6
 - Describes the importance of face-to-face conversations. That's why many Agile teams write user stories. Instead of writing out long requirements documents.
 # 01.01.2023 Agile Foundations: Principle 1,8,9,10
+- Our highest Priority is to satisfy the customer through early and continous delivery of Valuable software
 - Start to introduce you to the idea of prioritizing high value work. And Agile team will use something like a product backlog it's here, where the product owner will identify what the customer values the most. The product owner will work with the team to simplify this functionality. And as something that can be delivered in a short sprint.
 - Predictable = Sustainable –and-Constant
 # 01.01.2023 Agile Foundations: Principle 12
