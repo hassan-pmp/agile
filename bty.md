@@ -195,6 +195,7 @@ Encourage the team to meet frequently to discuss process improvement (P12). That
 # 01.01.2023 Agile Foundations: Principle 1
 - Our highest Priority is to satisfy the customer through early and continous delivery of Valuable software
 # 01.01.2023 Agile Foundations: Principle 2
+- Welcoming changes.
 # 01.01.2023 Agile Foundations: Principle 3,7 
 - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 - refer to continuous software delivery in weeks as a measure of progress. That's why most Agile teams deliver in short iterations called sprints.
