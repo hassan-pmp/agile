@@ -1,5 +1,51 @@
 # Better Than Yesterday
 ---
+# 06.08.2023 Agile Software Development: Lesson 5: Transformation Your Organization
+
+# 06.08.2023 Agile Software Development: Lesson 4: Drive Change with Value
+- 
+
+# 06.08.2023 Agile Software Development: Lesson 3: External Customer Guidance
+- Start by understanding how external customers are currently being engaged.
+- While there's no standard playbook across all industries for customer engagement, some elements are needed universally. Start by understanding your company's current strategies in the areas of opportunity assessment and solution exploration.
+- In the area of opportunity assessment, it will be helpful for IT to understand the process being used to **identify new products**  or **identify new feature** or **Solution Exploration** or **product enhancements**.
+- Opportunity Assessment
+ - Identify new products and enhancements
+ - Ensure external customers are part of the process
+- Some techniques you can suggest to your product partners are things like **social media engagement**, **webinars** to help your customers use your products, and **ask for volunteers to help solve some problem** or **design a new product**.
+- Solution Expöoration
+ - Assess feasibility before project begins
+ - Share risk between IT and product
+- The goal is to experiment with prototypes that will prove or disprove the feasibility of the opportunity idea. Make sure you have customer feedback on prototypes. This can ensure value in the market as well.
+- At this point, you've effectively shared the risk between IT and product and done so in a cost and time effective manner. You're investing less upfront in order to justify greater expenditure later. As an IT leader, engaging your external customers usually involves other departments in your organization. Use your influence and these steps to create a customer-focused organization.   
+# 06.08.2023 Agile Software Development: Lesson 2: Internal Customer Engagement
+- Identifying your key customer groups and understanding how your transformation will affect them
+ - A simple technique to use in i**dentifying your stakeholders is to look at data related to development and support requests**.
+ - The goal here is to understand who the heaviest users of your IT services are.What's important is knowing their department or area, and getting a rough count of how many projects or services have been provided. In other words, undestand Request History.
+# 06.08.2023 Agile Software Development: Lesson 1: Transformation Your Organization
+- There are several approaches you can take for your transformation. However, there are critical steps that must be accomplished no matter which approach you choose. If you miss one or more of these steps, you'll face challenges in your transformation.
+ - First, you must have a vision for what you're transforming and why.
+ - Next, you need to create a team of individuals who believe in your vision and are dedicated to getting the organization to the place you envision.
+ - Next, with this core group, you will build a roadmap for your transformation.
+  - who will be affected by the transformation you're planning?
+  - Are these changes restricted to IT-only projects?
+  - Will your business partners be affected?
+   -  Understand your customers and look for partnerships
+ - Examine how your existing portfolio will need to change.
+  - Portfolio  
+   - Portfolio: Lightweight intake
+   - Simplyfy tracking
+  - Practices
+   - Guardrails
+   - Consistent
+   - Frameworks 
+  - Mangement
+   - New role definition
+   - Clear expectations
+ - You'll need to tackle your overall IT organizational structure.
+  - will the hierarchy change, and will the reporting and team structures be altered?
+  - Make sure you're addressing the technical foundations throughout your transformation.
+  - You'll need to transform your metrics so you have visibility of your projects, as well as the health of your transformation.
 # 12.02.2023 Public Speaking Foundations: Lesson 15: Get Feedback
 - There are two indicators of a helpful review: **truthfulness** and **specificity**.
 - Indicator of worthwhile feedback:
