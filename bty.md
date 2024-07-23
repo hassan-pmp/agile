@@ -19,10 +19,25 @@
 - The ScrumDataMaster focuses on removing obstacles and sharing team insights across the organization.
 -  the ScrumDataMaster needs to democratize the system. They'll need to make sure that the stores can use this new system. Plus, they'll have to find a way to get feedback from the stores if the system's not working correctly. This new ScrumDataMaster will also be in charge of removing obstacles. If the research lead can't access the data sources, the ScrumDataMaster will help the team get the data they need. If you've worked on a data product, then you know that this is one of the largest impediments to training the system. This role will also help with some of the updated events. There'll be newer brainstorming meetings to help the data scientists come up with interesting questions. They'll also still be meetings for the team to reflect down on ways they can improve their work.
 -  The ScrumDataMaster will help the team transition to working on intelligence systems that rely on data. At first, there'll be uncertainty, but new ideas will emerge as AI systems overtake product development.
-# 06.08.2023 Agile Software Development: Lesson 5: Transformation Your Organization
-
-# 06.08.2023 Agile Software Development: Lesson 4: Drive Change with Value
-- 
+-  Some of the clues you'll see on your team when they're burned out. First is that **quality goes down**. You'll begin to see that your team's defect numbers are going up. This is usually because the team is tired. Second is that your **team members are becoming cranky and short with each other**. Working too hard for too long is bound to make anyone short-tempered. And the third clue is that your **team members start complaining**.
+-  **Solutions**:
+   - You can suggest that one sprint per release, the team only commits to half their velocity. They can use the other portion of their normal velocity for whatever they choose. I call these **walking sprints**.  That means each individual gets to decide how they want to handle the extra time in the sprint. They can work on techdat or self-learning, or experiments that will help produce better designs. The important thing is to give them the breathing room they clearly need.
+   - Another option is to tie these walking sprints to national holidays or planned time off
+-  In fact, one of the agile principles says that the best architectures, requirements, and designs emerge from self organizing teams.
+-  How does a scrum team make sure they stay in alignment with the bigger picture?
+-  The architectural constraints. These come in the form of **nonfunctional requirements** or **NFRs**.  These NFRs are things like **response times**, **coding languages**, and **server specifications**. 
+-  Make sure this group is represented in your sprint reviews. You can also include them in design sessions. In fact, the release boundaries are a great time to hold informal reviews with them.
+-   Agile architecture is emergent, meaning that teams are defining the design locally. At the same time, they are intentional, meaning that all stakeholders, including architects, are consulted. Their requirements are also solicited to ensure that teams' intentions match the enterprise intention.
+-   **Sprint Zero**: The goal here is to solidify the product vision, assemble the team, and setup the environment they need to succeed. = One of the principles states we should build our teams around motivated individuals, give them the environment and support they need. That's exactly what I do in my sprint zeros.
+-   **Estimate Inflation**: It can be mistaken for greater value delivery.
+   - First is Mike Cohn's triangulation method. In this case, the story being estimated will be compared to two prior backlog items the team has completed. One of the done stories will be larger than this one, and the other will be smaller. For example, if the team is negotiating whether a story should be a three or a five point story, you'll ask them to compare this story to a one or two they've already completed. You'll also find an eight or 13 point story they finished before. By comparing the current story against two others, you'll get an estimate that's in alignment with their previous estimates.
+   - Next, you can pull out your baseline story from when your team first began. When you did your initial estimates with the team, you found a relatively small story in the backlog that everyone agreed was about a two. You called that story a two, and it became your baseline.
+- **Preventing Overcommitment**:
+   - First, make sure that every story is fully understood by everyone. Make sure each story is fully reviewed in Sprint planning.
+   - Second, make sure your stories are ready to be included in the Sprint.
+   - Third, start every Sprint planning event with an open dialogue about team members' availability for the Sprint.
+   - Fourth, focus on the capacity for work in progress, or WIP, during Sprint execution.
+   - Last, Fourth, focus on the capacity for work in progress, or WIP, during Sprint execution.   
 
 # 06.08.2023 Agile Software Development: Lesson 3: External Customer Guidance
 - Start by understanding how external customers are currently being engaged.
