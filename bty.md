@@ -1,5 +1,24 @@
 # Better Than Yesterday
 ---
+# 23.07.2024 Agile Team in the Age of AI: Lesson 1: challenges
+- Four major challenges with their product development.
+   - The first was that the project's requirements were not well understood before the work began.
+   - The second was that the users only know what they want after they see the software.
+   - The third is that requirements almost always change during development.
+   - Finally, they found that newer technologies made their strategies unpredictable. 
+- To deal with these problems, the manager at Chrysler invented something called extreme programming, while the manager at the other company created the Scrum framework.
+- Then it balanced those against an anti-value or something they were trying to avoid on the right. Then they scratched out these four values and their anti-values on the whiteboard. They were
+   - individuals and interactions over processes and tools,
+   - working software over comprehensive documentation,
+   - customer collaboration over contract negotiation,
+   - responding to change over following a plan.
+-  The Agile Manifesto begins with the words, "We are discovering improved methods for software development."
+-  Artificial intelligence will likely be one of the biggest achievements in the last few centuries. It will have an impact on almost every part of the world. AI will likely change many jobs and hopefully create many new jobs. The Agile mindset is a terrific way to work, but it'll have much less of a long-term impact. The best way to think of Agile is like a fly on the back of an AI elephant.
+-  AI will cause this level of Agile shake up. So Agile needs to shake up with it. In the next part, you're going to start seeing the impact AI will have on Agile teams. Some of these changes will happen immediately, while others might happen over time. It's like that old Danish saying that it's not easy to make predictions, especially about the future.
+- In the past, Scrum teams have always separated the **what** from the **how**. This is what the customer wants and how it will be delivered. But now, AI teams will balance **what the customer wants** and **why it's happening**. So user stories become questions on figuring out the what and the why. When data creates your product, then software development is much less important. In fact, once you have the data, AI tools will generate most of the software. When that happens, an Agile team is much less about development and much more about increasing organizational knowledge. These teams will be much less focused on how and much more focused on why.
+- The ScrumDataMaster focuses on removing obstacles and sharing team insights across the organization.
+-  the ScrumDataMaster needs to democratize the system. They'll need to make sure that the stores can use this new system. Plus, they'll have to find a way to get feedback from the stores if the system's not working correctly. This new ScrumDataMaster will also be in charge of removing obstacles. If the research lead can't access the data sources, the ScrumDataMaster will help the team get the data they need. If you've worked on a data product, then you know that this is one of the largest impediments to training the system. This role will also help with some of the updated events. There'll be newer brainstorming meetings to help the data scientists come up with interesting questions. They'll also still be meetings for the team to reflect down on ways they can improve their work.
+-  The ScrumDataMaster will help the team transition to working on intelligence systems that rely on data. At first, there'll be uncertainty, but new ideas will emerge as AI systems overtake product development.
 # 06.08.2023 Agile Software Development: Lesson 5: Transformation Your Organization
 
 # 06.08.2023 Agile Software Development: Lesson 4: Drive Change with Value
