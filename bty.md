@@ -1,5 +1,61 @@
 # Better Than Yesterday
 ---
+# 23.03.2025 Agile Coach: Lesson 1: Games
+   - Metertab
+   - Ball Point Game: Learning agility through play
+      -  What you need
+         - A large room in which students can move around easily
+         - One ball per team
+         - Stopwatch or cell phone
+         - One table per team with the columns passes, estimate and business
+         - 6-8 players per team (equal-sized groups)
+         - Player
+- What is really important is that you stick to these three points
+   - Plan how we want to proceed & We estimate how many points we will achieve
+   - Then we play
+   - Then we look at what we're doing.
+   - And through the game you will learn what scrum is in short
+   - Duration: 30 min
+- How do you get points now?
+   - You have one, two, or three balls; you can decide for yourself, depending on how comfortable you feel.
+   - The ball must be touched by every person on the team.
+   - The ball has airtime. It cannot be on the ground or any other surface, including the table. If it falls, it's a mistake; it doesn't give you a point. It's not that tragic, exactly. It cannot be given to the next person right next to you; someone has to be in between. Everything that isn't stated here, i.e., we have to stand in a line or something else, you can organize yourself. You decide how.
+- Rules
+   - Everyone in the room should participate, but participation is voluntary. If someone doesn't want to play, they could take on the role of timekeeper, for example.
+   - Start = Finish: The person who brings the ball into the circle must also be the last to touch it.
+   - Each team member must touch each ball in the system at least once.
+   - Balls may not be passed to their immediate neighbors.
+   - When handed over, the ball must be in the air for a recognizable amount of time (airtime).
+   - Balls that fall to the ground do not score points.
+   - Each ball that has passed completely through the team once and has been touched by everyone counts.
+- Goal
+   - The team should transport as many balls as possible in each round.
+- Tip:
+   - Young players should avoid talking during the game if possible (for greater concentration).
+- You now have one minute to think about what has held you back and what you can improve from now on.
+- GAME PROCESS:
+   - 2-minute introduction
+   - 2-minute explanation of the rules before the first round
+   - 5 rounds - per round:
+   - 1 minute preparation for the teams: tactics and estimation - how many balls will we get through
+   - 1 minute playing
+   - 1 minute recording results & review
+   - 10-15 minute debriefing after the last round: How did you experience the ball game? What held you back, what helped you progress?
+   - Tip for moderators: Push the teams to improve, for example, by suggesting that 10 times the performance is possible. This increases the likelihood of not just optimizing small details, but thinking big.
+- Reflection
+   - It's important that you reflect on the game with the group after the game to reinforce the transfer.
+   - The benefits of Scrum that led to the improvement are usually the ones that emerge. Scrum's values (focus, openness, commitment, courage, respect) are also frequently mentioned
+- Ball Point Game - Learn Agility in a Playful Way
+   - WHY AM I DOING THIS GAME?
+      - Quickly grasp Scrum processes in a playful way
+      - The benefits of Scrum are immediately apparent (failure quickly, lots of trial and error, personal responsibility, self-organization, teamwork, sprints, reflection, improvement through feedback, short planning time)
+      - Realization that review and reflection are essential for improvement (review should therefore never be omitted!)
+Easy transfer of the game's processes to the classroom process during a project!
+
+   - Deader Poker
+   - Magic Traiangle
+
+
 # 23.07.2024 Agile Team in the Age of AI: Lesson 1: challenges
 - Four major challenges with their product development.
    - The first was that the project's requirements were not well understood before the work began.
