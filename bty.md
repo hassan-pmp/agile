@@ -1,8 +1,8 @@
 # Better Than Yesterday
 ---
 # 23.03.2025 Agile Coach: Lesson 1: Games
-   - Metertab
-   - Ball Point Game: Learning agility through play
+   - **Metertab**
+   - **Ball Point Game**: Learning agility through play
       -  What you need
          - A large room in which students can move around easily
          - One ball per team
@@ -52,8 +52,8 @@
       - Realization that review and reflection are essential for improvement (review should therefore never be omitted!)
 Easy transfer of the game's processes to the classroom process during a project!
 
-   - Deader Poker
-   - Magic Traiangle
+   - **Deader Poker**
+   - **Magic Traiangle**
 
 
 # 23.07.2024 Agile Team in the Age of AI: Lesson 1: challenges
