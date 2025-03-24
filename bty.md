@@ -1,6 +1,38 @@
 # Better Than Yesterday
 ---
-# 23.03.2025 Agile Coach: Lesson 1: Games
+# 24.03.2025 Agile Coach: Feedback: Lesson 1
+- Feedback, however, is a tool. It's a process that will help you to get better at what you do, continue doing what you are already good at, and build better relationships.
+- Gather Feedback
+   -  It could be people that you trust and have a great relationship with,
+   -  Important stakeholders who you need to build strong relationships with to move forward in your career or achieve important goals
+   -  You might want to ask people you admire who have a skill that you want to develop.
+   -  You might even want to ask people who you have a difficult relationship with, so you can figure out ways to build a stronger connection.
+- So how do you ask for feedback? Ask for it in a specific area.
+- Consider how the of feedback delivery be deliverd.
+- When you receive feedback, always be gracious and grateful, whether you agree with the feedback or not.
+- Ask multiple people for feedback.
+- Look for indirect feedback
+- Be Objective
+- **Feedback Facts**
+   - It helps you improve
+   - You'll make mistake
+   - You won't always like it or agree with it
+   - You can choose how to interpret and use it
+- Productive Feedback> Specefic, useful, and delivered with the intention of helping you to develop or improve.
+- Unproductive Feedback> General, unhelpful, or delivered without positive intent
+
+**- how you respond to and react to feedback, even if the feedback isn't what you want to hear**
+   - Take your time to process the information
+   - Don't fixate on negative feedback or positive for that matter.
+   - Separate opinion and fact
+   - Focus on the facts, and train yourself to take opinions on board
+- First, you want to decide what you'll take from the feedback?
+- Second, set yourself a goal. What exactly do you want to achieve from your feedback?
+- Third, consider how you will achieve your goal. 
+- Finally, how will you measure progress? 
+
+
+# 23.03.2025 Agile Coach: Games: Lesson 1
    - **Metertab**
    - **Ball Point Game**: Learning agility through play
       -  What you need
