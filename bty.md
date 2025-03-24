@@ -31,6 +31,16 @@
 - Third, consider how you will achieve your goal. 
 - Finally, how will you measure progress? 
 
+- **Providing Feedback**
+   - First, prepare. When preparing, think about key messages you'll share. Also think about how you will deliver the feedback.
+   - Second, tailor your communication for each individual. Consider how others best receive information.
+   - The third step is to focus on your tone.
+   - The fourth step is to explore the facts and use concrete examples.
+   - The fifth step is to listen well.
+- Delivering feedback should be a collaborative process, so leave time for the other person to digest information.
+- 
+
+
 
 # 23.03.2025 Agile Coach: Games: Lesson 1
    - **Metertab**
