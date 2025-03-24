@@ -63,6 +63,11 @@
    - Active Listening and Open Communication: There were moments where responses seemed hesitant or repetitive, which could be improved for smoother communication.
    - Handling Defensiveness: While the conversation was supportive, there could be more focus on managing potential defensiveness by acknowledging feelings more explicitly.
 
+- Start by getting clear on the specifics of **where** and **how** you are going to deliver feedback for each person or group
+- Then, for each group, determine **how often** you'll be providing feedback and add the delivery of the feedback into your diary well in advance.
+- How you'll ask the other person to join you for feedback.
+- Then consider how you'll prepare for the feedback.
+- Regardless of how long you spend preparing, remember, **be clear on your intention**.
 # 23.03.2025 Agile Coach: Games: Lesson 1
    - **Metertab**
    - **Ball Point Game**: Learning agility through play
