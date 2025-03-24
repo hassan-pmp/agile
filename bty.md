@@ -21,7 +21,7 @@
 - Productive Feedback> Specefic, useful, and delivered with the intention of helping you to develop or improve.
 - Unproductive Feedback> General, unhelpful, or delivered without positive intent
 
-**- how you respond to and react to feedback, even if the feedback isn't what you want to hear**
+- **how you respond to and react to feedback, even if the feedback isn't what you want to hear**
    - Take your time to process the information
    - Don't fixate on negative feedback or positive for that matter.
    - Separate opinion and fact
