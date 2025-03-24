@@ -38,9 +38,30 @@
    - The fourth step is to explore the facts and use concrete examples.
    - The fifth step is to listen well.
 - Delivering feedback should be a collaborative process, so leave time for the other person to digest information.
-- 
+- Informal feedback: It's **advice** and **suggestions** about what you could do to move forward, and usually it's **unplanned**.
+- The trick is to **make informal feedback part of everyday conversation**. Real-time feedback helps your team to make continuous small improvements.
+- Keep your feedback positive, focusing on suggestions for improvements.
+- Focus on your intention rather than the exact words you're going to use.
+- Keep your tone informal and approachable.
+- Try not to provide feedback based on personal judgments about the other person.
+- The crucial part is putting this into practice, and the easiest way to do this is to create a habit.
+- Provide feedback to one person today. It could be positive or developmental.
 
-
+- **Scenario**
+   - A colleague (AI) is struggling to prepare for a presentation. Provide empathetic feedback to help improve their presentation skills.
+- **Goals**
+   - Ask what areas they would like feedback on.
+   - Give concrete suggestions on how to improve.
+   - Use supportive language to encourage self-reflection and confidence.
+- **Strengths**
+   - Empathy and Emotional Intelligence: Good job showing empathy by asking how Sam is doing and expressing willingness to help.
+   Specificity and Clarity of Feedback: Provided clear and specific areas for improvement, such as avoiding too much text in the presentation and engaging with the audience.
+   - Actionability of Feedback: Offered practical and actionable suggestions, like starting the presentation with an exciting question and projecting confidence.
+   - Encouragement: Maintained a supportive tone throughout the conversation, which is important for someone sensitive to criticism.
+- **Areas of improvement**
+   - Expectation Setting to Start the Meeting: Could have set clearer goals or objectives for the conversation at the beginning to align the interaction.
+   - Active Listening and Open Communication: There were moments where responses seemed hesitant or repetitive, which could be improved for smoother communication.
+   - Handling Defensiveness: While the conversation was supportive, there could be more focus on managing potential defensiveness by acknowledging feelings more explicitly.
 
 # 23.03.2025 Agile Coach: Games: Lesson 1
    - **Metertab**
