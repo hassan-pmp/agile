@@ -131,7 +131,7 @@ Easy transfer of the game's processes to the classroom process during a project!
       - 4️⃣ Discuss and refine as needed.
 
 - This method is **simple**, **non-intrusive**, and **flexible**—it doesn’t require special cards or templates, works both **in-person** and **remotely**, and fits **Agile and traditional** settings alike.
- (![Decider Poker](https://github.com/user-attachments/assets/075bff4c-f706-4e2e-b4b5-94fae4be9832))
+  ![Decider Poker](https://github.com/user-attachments/assets/075bff4c-f706-4e2e-b4b5-94fae4be9832)
    - **Magic Traiangle**
 
 
