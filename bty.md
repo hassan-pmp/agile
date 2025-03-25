@@ -121,6 +121,17 @@
 Easy transfer of the game's processes to the classroom process during a project!
 
    - **Deader Poker**
+      -  Ever found yourself stuck in endless debates over who should make a decision? Spent hours arguing about something that doesn’t even impact you directly? Felt frustrated when too many people are involved in a decision-making process?
+      -  Inspired by the insights and great discussions at Meetup by **Baptiste Grand, Head of Agile in XITASO GmbH** and I learn this new game under **Decider Poker** name💎🛠️💎🛠️
+   - This approach helps you quickly determine who truly needs to be involved in a decision and the level of interaction required. Once you have this clarity, you can apply structured decision-making techniques like the **Advice Process** or **Systemic Consensus**.
+   - **How does it work?**
+      1️⃣ Gather the participants.
+      2️⃣ Each person secretly selects their "Decider Level."
+      3️⃣ Reveal all choices simultaneously.
+      4️⃣ Discuss and refine as needed.
+
+- This method is **simple**, **non-intrusive**, and **flexible**—it doesn’t require special cards or templates, works both **in-person** and **remotely**, and fits **Agile and traditional** settings alike.
+
    - **Magic Traiangle**
 
 
