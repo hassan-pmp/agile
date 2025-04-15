@@ -5,7 +5,11 @@
 - The **Lean life cycles** is often more difficult to adopt for teams new to agile and lean. It requires a more mature team to follow fewer rules and still make significant changes to the way they work.
 - Exploratory life cycle: The Exploratory life cycle focused on reducing risk and unnecessary cost when developing a new product or feature. It involves running various customer-facing experiments to determine what potential customers want, based on actual usage. This lead to better product design and decreases the likehood of having to fix problems or redesign the product later on. 
 
-
+- **Retro**:
+- What ent well in the iteration?
+- What can we improve in the next iteration?
+- What should we do differently in the next iteraion?
+- What still puzzles us about the way we work together?
 
 
 # 24.03.2025 Agile Coach: Feedback: Lesson 1
