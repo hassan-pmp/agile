@@ -1,5 +1,13 @@
 # Better Than Yesterday
 ---
+# 15.04.2025 Agile Coach: Basics of Disciplined Agile: Lesson 1
+- **Lean Life Cycle**: the Lean Life cycle enables team to plan continously and just in Time (JIT). It allows them to keep a work item list containing the different types of work they carry out, along with the work's associated policies, like importance, turnaround time, etc.
+- The **Lean life cycles** is often more difficult to adopt for teams new to agile and lean. It requires a more mature team to follow fewer rules and still make significant changes to the way they work.
+- Exploratory life cycle: The Exploratory life cycle focused on reducing risk and unnecessary cost when developing a new product or feature. It involves running various customer-facing experiments to determine what potential customers want, based on actual usage. This lead to better product design and decreases the likehood of having to fix problems or redesign the product later on. 
+
+
+
+
 # 24.03.2025 Agile Coach: Feedback: Lesson 1
 - Feedback, however, is a tool. It's a process that will help you to get better at what you do, continue doing what you are already good at, and build better relationships.
 - Gather Feedback
