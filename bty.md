@@ -1,5 +1,24 @@
 # Better Than Yesterday
 ---
+# 01.05.2025 Agile Metrics: Measurment: Lesson 1
+- How agile metrics are used for tracking and forecasting?
+- Goals and risks of measurement
+- What you should be measureing and why?
+- Metrics options and trade-offs
+- Rolling up metrics to the program level
+- How to create dashboard
+  
+# 01.05.2025 Agile Metrics: Measurment - Module 1: Lesson 1
+-
+# 01.05.2025 Agile Metrics: Measurment - Module 2: Lesson 1
+
+# 01.05.2025 Agile Metrics: Measurment - Module 3: Lesson 1
+
+# 01.05.2025 Agile Metrics: Measurment - Module 4: Lesson 1
+
+# 01.05.2025 Agile Metrics: Measurment - Module 5: Lesson 1
+
+
 # 15.04.2025 Agile Coach: Basics of Disciplined Agile: Lesson 1
 - **Lean Life Cycle**: the Lean Life cycle enables team to plan continously and just in Time (JIT). It allows them to keep a work item list containing the different types of work they carry out, along with the work's associated policies, like importance, turnaround time, etc.
 - The **Lean life cycles** is often more difficult to adopt for teams new to agile and lean. It requires a more mature team to follow fewer rules and still make significant changes to the way they work.
