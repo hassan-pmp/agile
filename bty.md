@@ -7,20 +7,65 @@
 - Metrics options and trade-offs
 - Rolling up metrics to the program level
 - How to create dashboard
-  
+- **What is Agile?**
+- A process for discovering requirments and developing solutions, Agile encourage self-organizing and cross-functional teams working in collaborations with their customer/and user(s).
+- It promotes adaptive planning, incremental development, early delivery, and continous improvment to build products and services while remaining flixible to change.
+- **What is Lean?**
+- Lean is an approach that produces value for customers quickly through a focus on reducing delays and eliminating waste which results in increased quality and lower cost.
+- **What is Decipline Agile?**
+- Decipline Agile is hybrid of world's leading practices and methodes that provides straightforward guidance to enable you to choose your Way of Working (WoW).
+- It's a people-first hybrid toolkit that will enable you to effectively combine strategies from Scrum, Agile Modeing (AM), Extreme Programming (XP), Kanban, SAFe, PMBoK, and many other approaches, so you can tailor and scale based on the situation you face.
+
+- **What are metrics?**
+- Metrics are indicators that help track a project's performance. Metrics are helpful to evalaute project status to see if we are on track and give indicators of possible risks or issues. Metrics are also helpful ro steer project back on track in case problem occur.
+
+- **What are Agile Metrics?**
+- Agile metrics are metrics that related to agile projects. Also, since agile projects can change quickly, agile metrics must also be quickly to generae, and analyze or else they risk begin out of date before they are consumed.
+- **Why are metrics are important?**
+- Projects are often long, costly endeavors. We have a responsibility to track progress to help assess and steer the project as well as share updtes, progress and issues with sponsors and other interested stakeholders.
+- Projects are like Joirney.
+- Food Delivey Journey: Sometimes the destination and routs are very familiar and we can track out our progress using  familiar way points
+- Sometimes we are on the route thet we are not used before and there are more uncertaincy.
+- To be successful we need **clear vision**, **direction** and **way of tracking the progress** and taking corective actions as neccassary. Metrics provide way to evalaue progress and it will be helpful cast outcomes such as **shedule** and **cost**.
+- Metrics also rack and give feedback on subjective metrics such as **confidence** or **team health**.
+- 
+
+
+
 # 01.05.2025 Agile Metrics: Measurment - Module 1: Lesson 1
--
+- Introducting Agile Metrics for High-Performaing team
+  - The Prose & cons of common metrics
+  - How agile metrics are used for tracking & forecasting
+
+
+
+
+
+
 # 01.05.2025 Agile Metrics: Measurment - Module 2: Lesson 1
--
+- Why measure? Undestanding the Goals and risk of Measurement?
+  - The value of gathering & communicating metrics
+  - How metrics are used to track performance
+  - How specific metrics can provide early warnings about potential issues.
+  - How measurement impacts team and stakeholder behavior
 
 # 01.05.2025 Agile Metrics: Measurment - Module 3: Lesson 1
--
+- What to measure? The Three Dimentions of Performance
+  - The different classes of work and their associated level of certinty
+  - The various levels and goals of reporting
+  - The difference between production-based and production-capability-based metrics
 
 # 01.05.2025 Agile Metrics: Measurment - Module 4: Lesson 1
--
+- How to measure? Metric Options and Trade-off consideation
+  - The benefits and downside of commonly used metrics
+  - Circumstances when one metrics use should be prioritiyed over another
 
 # 01.05.2025 Agile Metrics: Measurment - Module 5: Lesson 1
--
+- Scalling and Comparision: Rolling Up and drilling Down
+  - How dissimilar units of measure can be "Rolled Up"
+  - How to select team-level metrics for an automated dashboard
+
+- 
 
 # 15.04.2025 Agile Coach: Basics of Disciplined Agile: Lesson 1
 - **Lean Life Cycle**: the Lean Life cycle enables team to plan continously and just in Time (JIT). It allows them to keep a work item list containing the different types of work they carry out, along with the work's associated policies, like importance, turnaround time, etc.
