@@ -11,13 +11,16 @@
 # 01.05.2025 Agile Metrics: Measurment - Module 1: Lesson 1
 -
 # 01.05.2025 Agile Metrics: Measurment - Module 2: Lesson 1
+-
 
 # 01.05.2025 Agile Metrics: Measurment - Module 3: Lesson 1
+-
 
 # 01.05.2025 Agile Metrics: Measurment - Module 4: Lesson 1
+-
 
 # 01.05.2025 Agile Metrics: Measurment - Module 5: Lesson 1
-
+-
 
 # 15.04.2025 Agile Coach: Basics of Disciplined Agile: Lesson 1
 - **Lean Life Cycle**: the Lean Life cycle enables team to plan continously and just in Time (JIT). It allows them to keep a work item list containing the different types of work they carry out, along with the work's associated policies, like importance, turnaround time, etc.
