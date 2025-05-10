@@ -1,7 +1,7 @@
 # Agile
 ## TODO
 ## Milestone
-* **Publish a sceintefic article about Agile -2024** ✅
+* **Publish a sceintefic article about Agile -2024** ✅ https://ieeexplore.ieee.org/abstract/document/10754961
 * **Publish a sceintefic article about Agile -2025**
 * **SAFe Scrum Master Certification**
 * **Agile Leadership Practitioner Certificate**
