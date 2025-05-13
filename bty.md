@@ -66,6 +66,12 @@
 
 
 
+- Level of Reporting and guidance
+- **Team Level**: Tracking and reporting focus on Local measures and issues relating to the product or service the team is working on.
+- **Program Level**: is concerned with how progress, changes and issues interact with other related or dependent initiatives. Metrics at this level have more of a strategic steering function to help ensure work is coordinated and aligmed.
+- **Portfolio Level**: Tracking and reporting focus more on the strategiec direction and realiying the benefits of the workstreams. here metrics are used answer questions such as : Are we getting the intended outcomes? Have any market changes or internal strategy decisions been impacted? Will we still get out our intended result? Where should we invest next?
+
+
 
 # 01.05.2025 Agile Metrics: Measurment: Lesson 1
 - How agile metrics are used for tracking and forecasting?
