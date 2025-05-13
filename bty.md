@@ -1,5 +1,72 @@
 # Better Than Yesterday
 ---
+# 14.05.2025 Agile Metrics: Measurment: Lesson 2
+- Delivery Teams use a number of common metrics
+  - **Spend Chart**:
+    - Cost
+    - Hours
+    - Quantity
+    - **PROS**: initutive/Gives Stakeholders the project status at a glance
+    - **CONS**: It doesn't indicate whether the project is on schedule or producing a quality product.
+   
+  
+  - **Burndown Chart**:
+    - The charts shows the Tasks remaininh to complete for an Itration
+    - When the read line meets the x-axis, all remaining work is completed
+    - **PROS**: initutive/ Allows Stakeholders to quickly see the remaing tasks needed to complete an iteration
+    - **CONS**: Don't account for changes such as new features, defects, or change requests. / Some people like to see charts trending upwards to indicate progress, growth.
+   
+  - **Burnout Chart**:
+    - Shows the work the team has completed
+      - **PROS**: Reflects changes in the project scope/ Easy way to show the team's progress over the duration of the project
+      - **CONS**: Only shows scope and prohgress of the project/ Excludes other important factors, such as spend, quality and customer satisfaction.
+
+  - **Cumulative Flow**:
+    - Shows how much work is in each Stage of the workflow for a given time
+      - **PROS**: Provide quick overview of team's progress / Can show blockages and trends that can signal risk to meeting delivery date.
+      - **CONS**: Because the chart displays work in multiple states, it can be harder to interpret than a burnup or burndown chart
+
+
+- What metrics, if any, do you currentls use to track team **Progress**?
+  - Velocity
+  - Throughput 
+- What about to track team **Engagement**?
+  -Niko-Niko Calender
+  Net Promoter Score (NPS)
+
+- **Why Measurment**:
+- Lagging Metrics - Profit Items Delivers
+- Leading Metrics - Trends Impacts of Projections  
+
+- Not everything that can be counted counts, and not everything that counts can be counted.
+- Use metrics **that produce meaningful results**, such as satisfied customers and value delivered.
+- What metrics produce meaningful results?
+  - Simple and self-generating
+  - Relevant to the end goal of the project
+  - Focused on leading indicators 
+
+- Traditional Metrics
+  - **Hours Worked**: Tracking **hours worked** can trigger the **Hawthorne Effects**, leading to
+    - Long hours
+    - Burn-out
+    - Defects
+    - Consumed budgets
+  -  **Line of code Writen**:
+    -  Tracking lines of code written does not rewards simplificiation and **can lead to code bloat.** 
+  - **Budget Consumed**:
+    - Measuring budget consumed leads to more budget consumed, which is noot the true goal of the project is delighted customers and value delivered, not spent funds
+  - **Conformance to plan**:  Plans are often created at the beggining of project- when we know the least about the project or its stakeholders / Tracking conformance to a plan may be tracking progress against a faulty map
+ 
+- **Metrics Measurment**:
+  - **Feature Acceptance**: are used to determine whether the implementation is correct and delivers the business benefits / counts the number of features that have met these criteria
+  - **Parking Lot Diagram**: This is Easy to produce with an Agile reporting tool. It **summarizes the status of the project in one single view**.
+  - **Sponsor Confidence**:
+  - **User Satisfaction**:
+  - **Defect Cycle Times**: 
+
+
+
+
 # 01.05.2025 Agile Metrics: Measurment: Lesson 1
 - How agile metrics are used for tracking and forecasting?
 - Goals and risks of measurement
