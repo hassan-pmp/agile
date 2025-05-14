@@ -110,11 +110,6 @@
   - The Prose & cons of common metrics
   - How agile metrics are used for tracking & forecasting
 
-
-
-
-
-
 # 01.05.2025 Agile Metrics: Measurment - Module 2: Lesson 1
 - Why measure? Undestanding the Goals and risk of Measurement?
   - The value of gathering & communicating metrics
