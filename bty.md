@@ -1,6 +1,57 @@
 # Better Than Yesterday
 ---
-# 14.05.2025 Agile Metrics: Measurment: Lesson 2
+# 14.05.2025 Agile Metrics: Measurment: Lesson 3
+- Trade-offs to consider"
+  - How do you measure **solution delievery system**?
+  - What metrics should we **collect**?
+  - How do you **roll up** team measures to the **portfolio Levele**?
+  - What metrics are **rihgt for you**?
+  - Hoe do **Agile** and **traditional** metrics **fit together**?
+  - What are the **Failur factors**?
+  - How does this fit into your **overal governance strategy**?
+- **The Stacey Matrix**:
+- **The Cynefin Framework**
+
+- Every Metrics has Strengthes & Weaknesses"
+  - **Outcomes**: are **What the business wants or needs to achieve** as a result of the project.
+    - They're the benefit your customers recieve from what your team produces the "**Why**"
+    - This contrasts with outputs, which are products. services. profits, and revenue. the "**What**"
+    - Outputs enables us to fund outcomes, but without outcomes, there is no need for outputs
+   
+  - **Outputs**: In a project, outputs are actions or deliverables that contribute to achieve the eventual outcome. Outputs are products, services, profits, and revenues. the "**What**"
+    - This contrasts with outcomes, which create meanings, relationships, and differents. The "**Why**"
+    - Outputs enables us to fund outcomes, but without outcomes, there is no need for outputs
+
+- The Disiplined Agile Mindset
+  - Delight customers
+  - Be awesome
+  - Context counts
+  - Choice is good
+  - Optimiye flow
+  - Organize around products/service 
+
+- Extrapolating the trend also allows us to **make leading, future looking decision.**
+- **Metrics**:
+  - Iteration Burndown
+  - Release Burnup
+  - Skill Level
+  - Cumulative Flo Diagram
+  - Velocity
+  - Value Deliverd- Value Poinits
+  - Net Promoter Score
+  - Goal Question Metric (GQM)
+  - Release Burndown
+  - Defect Trends
+  - Cost of delay
+  - OKR
+ 
+- 
+
+
+
+
+
+# 13.05.2025 Agile Metrics: Measurment: Lesson 2
 - Delivery Teams use a number of common metrics
   - **Spend Chart**:
     - Cost
@@ -64,14 +115,10 @@
   - **User Satisfaction**:
   - **Defect Cycle Times**: 
 
-
-
 - Level of Reporting and guidance
 - **Team Level**: Tracking and reporting focus on Local measures and issues relating to the product or service the team is working on.
 - **Program Level**: is concerned with how progress, changes and issues interact with other related or dependent initiatives. Metrics at this level have more of a strategic steering function to help ensure work is coordinated and aligmed.
 - **Portfolio Level**: Tracking and reporting focus more on the strategiec direction and realiying the benefits of the workstreams. here metrics are used answer questions such as : Are we getting the intended outcomes? Have any market changes or internal strategy decisions been impacted? Will we still get out our intended result? Where should we invest next?
-
-
 
 # 01.05.2025 Agile Metrics: Measurment: Lesson 1
 - How agile metrics are used for tracking and forecasting?
