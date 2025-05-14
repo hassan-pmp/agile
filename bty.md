@@ -1,6 +1,6 @@
 # Better Than Yesterday
 ---
-# 14.05.2025 Agile Metrics: Measurment: Lesson 3
+# 15.05.2025 Agile Metrics: Measurment: Lesson 3
 - Trade-offs to consider"
   - How do you measure **solution delievery system**?
   - What metrics should we **collect**?
@@ -45,10 +45,36 @@
   - Cost of delay
   - OKR
  
-- 
+- **Green Shifting** is the gradual improvment of reported message as it proceed up the organiyation. The meaning changes and becomes less accurate at each level of reporting.
+- Ex:
+- **Worker**: We have several serious problems
+- **Project Manager**: The team faces challenges
+- **Middle Manager**: The team enjoy the challanges they face.
+- **Director**: Everyone is having a great time
+
+- **Watermelon Status Report**, the work appears to have a green status but on closer inspection is, in facet, red ...
+- ... like a watermelon: Green on the outside and Red on the inside
+
+- **Quantum Shifting** the status jumps from good to bad without warning
 
 
+- **Team**:
+  - Measure against team goals
+  - Specefic metrics for each team
+  - Metrics evolve as the situation evolves
+  - Unique dashboard for each team
 
+- **Program**:
+  -  Measure against program goals
+  -  Category indicators across multiple teams
+  -  Program goals eveolve periodically
+ 
+- **Portfolio**:
+  - Measure against organiyation goals
+  - Overall indicator or category indicators
+  - Organiyational goals evolve slowly
+ 
+  -  
 
 
 # 13.05.2025 Agile Metrics: Measurment: Lesson 2
