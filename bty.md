@@ -1,5 +1,8 @@
 # Better Than Yesterday
 ---
+# 24.05.2025 Agile Metrics: Measurment: Lesson 4
+- **The Cynefin Framework**
+
 # 15.05.2025 Agile Metrics: Measurment: Lesson 3
 - Trade-offs to consider"
   - How do you measure **solution delievery system**?
