@@ -57,7 +57,7 @@
   - Helping the Scrum Team focous on creating high-value Increments that meet the DoD
   - Causing the removal on impediments to Scrum Team's progress
   - Ensuring that all Scrum events take place and are positive, productive, and kept the timebox
-  -   
+-   
 
 
 
