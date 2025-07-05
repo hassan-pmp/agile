@@ -1,12 +1,53 @@
 # Better Than Yesterday
 ---
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 1
-- Scrum Master Pillars
+- **Scrum Master Pillars**
   - Transparency
   - Inspection
   - Adaption
 - Scrum is founded on empiricism and lean thinking.
 - Lean thinking reduces waste and focuses on the essentials. 
+- **Empricism**
+  - Making decision based on on what is observed
+  - Knowlege comes from expirience
+-  the impact of the Product Goal and Sprint Goal
+-  the impact of timeboxing
+-  the Empricical Scrum pillars of Transprancy, Inspection, and Adoptions
+-  How artifactd help the transparancy
+-  Achiving the Spring Goal is the best measure of success of Sprint
+-  the Product backlog is an emergent process
+-  **Scrum Values**:
+  - Commitment
+    - Product Backlog
+      - Product Goal
+    - Sprint Backlog
+      - Sprint Goal
+    - Increment
+      - DoD 
+  - Focus
+  - Openness
+  - Respect
+  - Courage
+- When these values are embodied by the scrum team and the people they work with, the Empricical Scrum pillars of Transparancy, Inspection and Adotion come to life building **TRUST**.
+- **To build Trust**:
+  - The Scrum Values
+  - Emrirical Scrum Pillars
+-  The Sprint Backlog commitment is to the Sprint Goal
+-  Not to getting all work done from the Sprint Backlog!
+-  Sometimes not all the work is needed to achieve the Sprint goal
+- Scope may be clarified and renegoatiated with PO as more is learned.
+- the Scrum Team should Respect
+  - People
+  - Diversity
+  - Experience
+  - Differeing points of view
+  - Respect the accountabilities of the scrum team members 
+
+
+
+
+
+
 
 # 24.05.2025 Agile Metrics: Measurment: Lesson 4
 - **The Cynefin Framework**
