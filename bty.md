@@ -44,7 +44,7 @@
   - Respect the accountabilities of the scrum team members 
 - Trancparency is about seeing things clearly, the first step towards inspecting and adapting.
 - Openness supports transparency, but is more about the interactions between individuals.  in other words, openness is more about how people interact. 
-
+- 
 
 
 
