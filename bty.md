@@ -1,5 +1,13 @@
 # Better Than Yesterday
 ---
+# 06.07.2025 Scrum Master II: Exam Tips: Lesson 1
+- Scrum Master Pillars
+  - Transparency
+  - Inspection
+  - Adaption
+- Scrum is founded on empiricism and lean thinking.
+- Lean thinking reduces waste and focuses on the essentials. 
+
 # 24.05.2025 Agile Metrics: Measurment: Lesson 4
 - **The Cynefin Framework**
 
