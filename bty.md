@@ -44,8 +44,14 @@
   - Respect the accountabilities of the scrum team members 
 - Trancparency is about seeing things clearly, the first step towards inspecting and adapting.
 - Openness supports transparency, but is more about the interactions between individuals.  in other words, openness is more about how people interact. 
-- 
-
+- Focus on the goal the Sprint Goal and Product Goal (Which is the creation of valuable product!). it is on achieving the product abd sprint goals not on velocity of work. 
+- Courage is about communicating and being open about work and problems
+- The 5 Stages of Team Development (Bruce Tuckman)
+  - Forming
+  - Storming
+  - Norming
+  - Performing
+  - Adjourning 
 
 
 
