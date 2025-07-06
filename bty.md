@@ -6,18 +6,23 @@
   - Daily Standup
   - Sprint Review
   - Sprint Retrospective
-- Scrum Artifacts
+- **Scrum Artifacts**
   - Product Backlog
   - Sprint Backlog
   - Increment
-- Commitments
+- **Commitments**
   - Product Backlog = Product Goal
   - Sprint Backlog = Sprint Goal
   - Increment  = DoD
 
 - Scrum's artifacts represnt work or value. They are designed to maximiye transparancy of key information. Thus, everyone inspecting them has the same basis for adaption. 
-
-
+- For the increamental, its commitment is the DoD , inspected at the Sprint Review
+- For the Sprint Backlog, its commitment is the Sprint Goal, inspected at the Daily Scrum
+- For the Product Backlog, its commitment is the Product Goal, inspected at Sprint Planning and the Sprint Review.
+- The Product Backlog is an Emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+- Product Backlog items that can be Done by the scrum team whithin one Sprint are deemed ready for selection in a Sprint Planning event.
+- Product backlog refienment is the act of breaking down and further defining Product Backlog Items into smaller more precise items. This is an activity to add details, such as a decription, order, and size. Attributes often vary with the domain of work.
+- 
 
 
 
