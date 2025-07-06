@@ -22,8 +22,17 @@
 - The Product Backlog is an Emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
 - Product Backlog items that can be Done by the scrum team whithin one Sprint are deemed ready for selection in a Sprint Planning event.
 - Product backlog refienment is the act of breaking down and further defining Product Backlog Items into smaller more precise items. This is an activity to add details, such as a decription, order, and size. Attributes often vary with the domain of work.
+- When is the Sprint Goal crafted? The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. 
+- Who crafts the Sprint Goal?
+- Can there be more than one Sprint Goal?
+- Why is this Sprint Valuable?
+- The Sprint Goal is the single objective for Sprint.
+- As the developers work during the Sprint, they keep the Sprint goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
+- An increment is a concrete stepping stone toward Goal. Each increment is additive to all prior increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable. 
+- **At least One** Incremental should be per each Sprint.
+- Once born, **The Developers** in the Scrum Team can update or change an increment.
+- DoD is a formal description of the state of the Increment when it meets the qualitz measures required for the product.
 - 
-
 
 
 
