@@ -32,7 +32,11 @@
 - **At least One** Incremental should be per each Sprint.
 - Once born, **The Developers** in the Scrum Team can update or change an increment.
 - DoD is a formal description of the state of the Increment when it meets the qualitz measures required for the product.
-- 
+- **The best description of the DoD**:
+  - It creates transparancy of the state of the Increment for inspection at the Sprint review
+  - At Sprint Planning it guides the Developerswhen creating a forecasts for Items
+  - It helps the Developers identify the work remaining for an Increment to be ready for release.
+-   
 
 
 
