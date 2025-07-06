@@ -1,5 +1,27 @@
 # Better Than Yesterday
 ---
+# 06.07.2025 Scrum Master II: Exam Tips: Lesson 2
+- **Scrum Events**
+  - Sprint Planning
+  - Daily Standup
+  - Sprint Review
+  - Sprint Retrospective
+- Scrum Artifacts
+  - Product Backlog
+  - Sprint Backlog
+  - Increment
+- Commitments
+  - Product Backlog = Product Goal
+  - Sprint Backlog = Sprint Goal
+  - Increment  = DoD
+
+- Scrum's artifacts represnt work or value. They are designed to maximiye transparancy of key information. Thus, everyone inspecting them has the same basis for adaption. 
+
+
+
+
+
+
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 1
 - **Scrum Master Pillars**
   - Transparency
@@ -57,10 +79,7 @@
   - Helping the Scrum Team focous on creating high-value Increments that meet the DoD
   - Causing the removal on impediments to Scrum Team's progress
   - Ensuring that all Scrum events take place and are positive, productive, and kept the timebox
--  Component & Feature Teams 
-
-
-
+-  Component & Feature Teams
 
 # 24.05.2025 Agile Metrics: Measurment: Lesson 4
 - **The Cynefin Framework**
