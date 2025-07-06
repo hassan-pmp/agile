@@ -35,8 +35,9 @@
 - **The best description of the DoD**:
   - It creates transparancy of the state of the Increment for inspection at the Sprint review
   - At Sprint Planning it guides the Developerswhen creating a forecasts for Items
-  - It helps the Developers identify the work remaining for an Increment to be ready for release.
--   
+  - It helps the Developers identify the work remaining for an Increment to be ready for release
+- Scrum teams are cross-functional, meaning the members have all the skills necassary to create value each sprint. They are also self-managing, meaning they internally decide Who does What, When, and How.
+- 
 
 
 
