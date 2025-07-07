@@ -6,7 +6,12 @@
 - Nexus 3-9 Scrum Team for one Product
 - Common Challange: Integration problems and depencencies on other teams and other increments.
 - Nexus Integration Team: Product Owner, a Scrum Master, Nexus Integration Team Members
-- 
+- Scrum ways reduces risk"
+  - Scrum employs an iterative, incremental approach to optimiye predictability and control risk.
+  - Scrum is founded on emprisicism which asserts that knowledge comes from experience and making decisions based on what is observed, (and not simply theorised).
+  - Scrum is founded on Lean thinking which reduces waste and focuses on the essentials
+  - regular inspection and adoption of the product the increment and the scrum team
+  - the Scrum Artifacts are transparent making the process visible to those doing the work as well as those receiving the work. 
 
 
 
