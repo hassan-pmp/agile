@@ -7,15 +7,23 @@
 - Common Challange: Integration problems and depencencies on other teams and other increments.
 - Nexus Integration Team: Product Owner, a Scrum Master, Nexus Integration Team Members
 - Scrum ways reduces risk"
-  - Scrum employs an iterative, incremental approach to optimiye predictability and control risk.
-  - Scrum is founded on emprisicism which asserts that knowledge comes from experience and making decisions based on what is observed, (and not simply theorised).
-  - Scrum is founded on Lean thinking which reduces waste and focuses on the essentials
-  - regular inspection and adoption of the product the increment and the scrum team
-  - the Scrum Artifacts are transparent making the process visible to those doing the work as well as those receiving the work. 
-
-
-
-
+- Scrum employs an iterative, incremental approach to optimiye predictability and control risk.
+- Scrum is founded on emprisicism which asserts that knowledge comes from experience and making decisions based on what is observed, (and not simply theorised).
+- Scrum is founded on Lean thinking which reduces waste and focuses on the essentials
+- regular inspection and adoption of the product the increment and the scrum team
+- the Scrum Artifacts are transparent making the process visible to those doing the work as well as those receiving the work. 
+- Scrum employs an iterative, incremental approach to optimiye predictability and to control risk. 
+- Scrum is founded on empiricism which asserts that knowledge comes from experience and making decisions based on what is observed.
+- **Agility Business Value** EBM focouces on four** Key Value Areas (KVAs)**
+  - Unrealized Value (UV)
+    - what is the additional potential value that could be achieved? 
+  - Ability to Innovate (A2I)
+    - How effective is the organization at improving value? 
+  - Current Value(CV)
+    - what value is currently delivered by the organization? 
+  - Time to Market(T2M)
+    - How long does it take to deliver new value? 
+-  
 
 
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 2
