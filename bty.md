@@ -25,6 +25,16 @@
     - How long does it take to deliver new value? 
 -  Technical debt: a concept in programming that refelcts the extra development and testing work that arises when "Quick and Dirty" solutions result in later remediation.
 - It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. 
+- **The six most common leadership styles are**
+   - Authoritative Leadership: Impose expectations and define outcomes
+   - Participative Leadership: Democratic and involving
+   - Delegative Leadership: Instructing and empowering
+   - Laissez-faire: Hands off and trusting
+   - Transactional Leadership: Rewards and punish
+   - Transformational Leadership: Inspires with vision and empowers
+  
+- A true Leader makes an effort to help develop the team so it can reach its full potential.
+- It is leadership by helping others around you to grow.
 - 
 
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 2
