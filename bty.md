@@ -24,8 +24,8 @@
   - Time to Market(T2M)
     - How long does it take to deliver new value? 
 -  Technical debt: a concept in programming that refelcts the extra development and testing work that arises when "Quick and Dirty" solutions result in later remediation.
--  It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. 
-
+- It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. 
+- 
 
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 2
 - **Scrum Events**
