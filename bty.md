@@ -35,8 +35,6 @@
   
 - A true Leader makes an effort to help develop the team so it can reach its full potential.
 - It is leadership by helping others around you to grow.
-- 
-
 # 06.07.2025 Scrum Master II: Exam Tips: Lesson 2
 - **Scrum Events**
   - Sprint Planning
