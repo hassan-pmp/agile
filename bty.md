@@ -2,7 +2,10 @@
 ---
 # 07.07.2025 Scrum Master II: Exam Tips: Lesson 3
 - Product Backlog: is an **emergent**, ordered list of what is needed to improve the product. it is the **sibgle source** of work undertaken by the Scrum Team.
-- Product Backlog Items (PBIs) that can be Done by Scrum Team within on Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparancy after refining activities. Product backlog refienement is the act of breaking down and further defiing Product Backlog items into smaller more precise items. This is an ongoing activity to add details such as a decsription, order, and siza. Attributes often vary with the domain of work.
+- Product Backlog Items (PBIs) that can be Done by Scrum Team within **one Sprint** are deemed **ready** for selection in a Sprint Planning event. They usually acquire this degree of transparancy after refining activities. Product backlog refienement is the act of breaking down and further defiing Product Backlog items into smaller more precise items. This is an **ongoing activity** to add details such as a **decsription**, **order**, and **siza**. Attributes often vary with the domain of work.
+- Nexus 3-9 Scrum Team for one Product
+- Common Challange: Integration problems and depencencies on other teams and other increments.
+- Nexus Integration Team: Product Owner, a Scrum Master, Nexus Integration Team Members
 - 
 
 
