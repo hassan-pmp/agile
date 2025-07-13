@@ -180,7 +180,160 @@
 - You have a choice of ways and locations to hold the Daily Scrum, how do you decide what option is best? (choose 1)
   - It should be held wherever the Developers think is best.
 
-- 
+- You are a Scrum Master of a 9 member Scrum Team; you haven't joined the Daily Scrum for some time because you thought it was running well. However, you join today and notice it took 20 minutes. The Developers often go over 15 minutes and they propose dividing the Scrum Team into two cohesive groups with their own Daily Scrum. What is your response? (choose 1)
+  - You offer to join the Daily Scrum and teach them to keep the Daily Scrum within a 15-minute timebox.
+
+- At the moment, the engineering branch of your company is organized in siloed teams that specialize according to function (for example, design, front-end, back-end, database, and testing). What factors do you think are important to consider while transitioning from component teams to feature teams? (choose 2)
+  -  Feature teams will require time to become productive as people from the different layers and components become accustomed to working and delivering unified functionality together as one Scrum Team.
+  -  Productivity, in terms of lines of code or story points, will probably suffer during the transition, although even then delivery of business value is still likely to increase.
+
+- The product owner has used the Scrum team’s velocity to estimate delivery in 3 months. This is the reported delivery date to customers and stakeholders that desperately need the new functionality. However, at the last Sprint Review, it has been discovered that the current increment did not work! At the Sprint Retrospective, some developers admitted they have not been adhering to all elements of the Definition of Done. What is the most effective way to recover by the deadline? (choose 1)
+  - The Developers inform the Product Owner that the progress she has perceived to date is not correct. The Increment is not releasable. They give a new estimate of the effort it would take to get the past work done, and suggest doing that work first before proceeding with new features. The Developers also re-estimate the effort to complete the remaining backlog, including all testing. In the end, it is Product Owner's call to continue the product or to cancel.
+
+- The Developers have realized that it does not possess the necessary tools and infrastructure to complete each of the items chosen from the Product Backlog. What action would you recommend as the Scrum Master? (choose 1)
+  - Coach the Developers to improve its skills, tools and infrastructure over time and establish a Definition of “Done” that is actually possible to achieve given the current circumstances.
+
+- You have senior stakeholders that are very busy people. You invite them to the sprint reviews but they often do not attend. How does this affect empiricism and what might be the consequences? (choose 3)
+  - Members who cannot attend the Sprint Review will have problems making product decisions
+  - Key Stakeholders' feedback loop is too long risking high deviation
+  - Product Backlog prioritization decisions are made on limited information
+
+- What is the first event of the Sprint? (choose 1)
+  - Sprint Planning
+
+- What questions should be answered during the Daily Scrum? (choose 1)
+  - None of these questions.
+
+- The pillars of Empirical Process Control are: (choose 1)
+  - Transparency, Inspection, and Adaptation.
+
+- It's important that product development teams be cross-functional and comprised of people with a wide range of expertise to succeed. When implementing Scrum, what are the benefits of maintaining the existing component teams (for example, design, database, backend, and frontend)? (choose 1)
+  - Because they have been working together for some time, there will be less initial disruption than a newly formed team. As they begin working, they will discover what works best and how to move towards cross-functional teams
+
+- You are finding that Daily Scrums always take more than 15 minutes due to one of the more experienced developers going into a lot of depth about his work and issues the team is facing. What should you do? (choose 2)
+  - You remind the Developers that the Daily Scrum should take a maximum of 15 minutes and coach the Developers on how to be more efficient with their updates and that they can meet outside of the Daily Scrum to discuss what needs to be discussed.
+  - You ask the experienced developer how he sees his impact on the Daily Scrum, effectively coaching him into work better as an equal team member.
+
+- Which of the below statements is true about the Sprint Goal? (choose all that apply)
+  - Which of the below statements is true about the Sprint Goal? (choose all that apply)
+  - It is the Scrum Team that crafts the Sprint Goal at Sprint planning, based on an objective the Product Owner would like achieved in that Sprint.
+
+- How would you define Empiricism? (choose 2)
+  - Knowledge comes from experience
+  - Making decisions based on what is observed
+
+- How should a Scrum Master divide a group of 50 people into multiple scrum teams? (choose 1)
+  - Ask the developers to divide themselves into teams.
+
+- After discussions you as the Scrum Master have convinced them that they need to have the Daily Scrum every day, but this still does not solve the problem of the trouble in hosting these meetings. As the Scrum Master what should you do? (choose the best answer)
+  - Bring up the topic for discussion and allow the Developers to determine for themselves what to do as a self­ managing team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
