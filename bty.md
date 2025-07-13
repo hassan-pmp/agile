@@ -79,6 +79,266 @@
 -You have a choice of ways and locations to hold the Daily Scrum, how do you decide what option is best? (choose 1)
   - It should be held wherever the Developers think is best.
 
+- You are a Scrum Master for three Scrum Teams who are all working on the same Product. Management wants to measure the velocity of all three teams so that they know which teams are working well and which teams may benefit from more assistance. What are your best responses? (choose 2)
+  - Velocity is the amount of business functionality that a particular Scrum Team creates in a Sprint. It is unique to that team and used to forecast work in Sprint Planning.
+  - There is no direct relationship between velocity and value. Value of the increment to the stakeholders is measured in other ways.
+
+- During a Daily Scrum 2 developers disagree on a task and get into a heated argument, what Scrum Value are they not showing?
+ - Respect
+
+- Two Scrum teams are working on the same product. In the coming Sprints some of the Developers have realised that both teams are going to need the help of Chris, an external specialist who is the only person with the knowledge and authority to build the database environment. However, Chris is notoriously busy and has already said he can only spare enough of his time for one Scrum team per Sprint. What should the Scrum Master do? (choose 1)
+  - Facilitate a discussion with all Developers from both teams on how they want to deal with this issue, and help them implement their preferred solution.
+
+- 3 Scrum teams are working in a Nexus on the same Product. At the Sprint Review, each team tells the Product Owner that their increments are ready for release but they show their Increments independently in different environments. Would this be cause for concern?
+  - Yes
+-   One of the developers is disruptive and constantly disagrees with the team, this developer is slowing the decision-making progress and has started disregarding the team’s decisions and making his own decisions. What should you do as the Scrum Master? (choose the best 2 answers)
+  - At the Sprint Retrospective, you wait to see if this topic is raised. If it does not happen, you raise it checking how everyone feels with the way team decisions are made.
+  - To anyone expressing this concern you suggest raising this with the entire team. You offer to help facilitate the conversation but not to resolve the concern yourself.
+
+- When multiple Scrum teams are working from the same Product Backlog, how should the work be distributed between teams?
+  - The Developers from each team pull in work from a shared Product Backlog in agreement with the Product Owner and the other teams.
+
+- At the Sprint Retrospective the Scrum Team are addressing the quality difficulties that prevented completing an appropriate Increment at Sprint end. However, the Developments did indicate that they were able to accomplish a high velocity. Which two of these responses would you think their Scrum Master is best to take? (choose 2)
+  - Stress the value of working software over measured velocity
+  - Facilitate a discussion on how to improve the quality to a level high enough for the Increment to be releasable, even if the measured velocity drops in the next Sprint.
+
+- The Product Owner Josh regularly joins the Daily Scrum and tries to bring some encouragement by cheering and congratulating with cakes each time a Developer moves an item into the done pile. What should a Scrum Master do? (choose 1)
+  - Coach the team about the purpose of the Daily Scrum and that working software is the primary measure of success.
+
+- Developing new or revising existing technical documentation is a requirement of the team's Definition of Done. This is done to ensure that the product and/or its features can be maintained in the future. During the Sprint, the team's technical writer will be on holiday. What action should you take? (choose 1)
+  -  The Scrum Team is still accountable to meeting the Definition of Done, the Developers should write the documentation, they are best placed to do so as the developers of the product.
+
+- Once born, who in the Scrum team can update or change an increment? (choose 1)
+  - The Developers 
+
+- How do Timeboxes help a self-managing team? (choose the 2 best answers)
+  -  Timeboxes help everyone focus on the same problem at the same time.
+  -  Timeboxes encourage people to create the best possible result in the given time.
+
+- A key and very senior stakeholder directly asks a particular developer to add a piece of functionality to the sprint backlog now as an urgent task, is it disrespectful to refuse to add the functionality immediately? (choose 1)
+  - No
+
+- During the Sprint Retrospective, the Product Owner raised a concern that the Developers only just met the Sprint Goal for the last Sprint. Developers think that the cause of the problem might be that some of them were working on other projects at the same time and that delayed the work. Which Scrum value were they not following? (choose 1)
+  -  Focus
+
+-  You join a team as the Scrum Master and notice it is currently one single team of 15 developers and a Product Owner, what should you do? (choose 1)
+  -  Suggest the team split into teams of 10 or fewer, facilitate the discussion on how to split the teams up
+
+- Why might it benefit Empiricism to have shorter Sprints rather than longer Sprints? (choose all that apply):
+  - Shorter feedback loops reduce the risk of deviating
+  - Shorter Sprints minimizes further deviation by frequent inspecting and adapting
+  - Shorter Sprints allow for more opportunities to inspect and adapt
+  - Shorter Sprints mean more chances to adapt to changes in the environment
+
+- Who plans the work during the Sprint? (choose 1)
+  - The Developers
+ 
+- During a Daily Scrum 2 developers disagree on a task and get into a heated argument, what are the best things a Scrum Master should do? (choose the 2 best answers)
+  -  Help create the environment and space to discuss conflicts, find agreements in a productive and positive way. Remind the other members of the Scrum Team that conflicting ideas are natural, but making it personal does not help.
+  -  Don't handle problems for the team. Instead, assist them in identifying and resolving issues on their own.
+
+- A highly respected and influential Developer often takes up a lot of time in the Daily Scrum by going off on tangents on things not so relative to the Sprint Goal. The Daily Scrum rarely finishes within 15 minutes. The other Developers dare not interrupt this Developer or ask him to stick to the topics in hand because the Developer is highly integral to the development of the product. As the Scrum Master has accountability to ensure the timebox is kept to 15 minutes, what should you do? (choose the best 2 answers)
+  - You suggest coaching the Developers to help them find a way to solve the problem, bringing this up in the Sprint Retrospective at the latest and ask the team to find a solution.
+  - You suggest privately asking them what they believe the key outcomes for the Daily Scrum are. Effectively coaching them to help create focus during the Daily Scrum.
+
+- The Product Owner is concerned about the slow progress of releases and thinks the Definition of Done should be reduced to speed up progress. As the Scrum Master what would you advise? (choose 4)
+  - Reducing the Definition of Done will introduce technical debt such as unknown errors as functionality is added. The product might become more difficult to stabilize as work progresses. Development for future releases is likely to be slowed down in unpredictable ways.
+  - Releasing the version with a reduced Definition of Done creates false assumptions about the actual state of the system and is risky. Fixes may need to be added post-release impacting user experience, reputation and development progress.
+  - Ask the Developers and the Product Owner if they are still able to produce releasable Increments by altering the Definition of Done.
+  - Ask the Developers and the Product Owner what problem they are trying to solve by reducing the Definition of Done. In what ways will this decision impact transparency and quality?
+
+- What is Scrum Based on? (choose 2)
+  - Empiricisum
+  - Lean thinking
+
+- How many Increments should there be per sprint… (choose 1)
+  - At least one
+
+- By the end of the Sprint, a Product Backlog item in the Sprint Backlog does not meet the team's Definition of Done. What two things should happen with the item? (choose 2)
+  - Do not include the item in the Increment for the Sprint.
+  - Estimate the remaining work needed to make it "done" and add it to the Product Backlog for the Product Owner to decide what to do with it.
+
+- How often should the Scrum Team members change? (choose 1)
+  - As needed, whilst taking into account a short-term reduction in productivity.
+
+- What is the maximum time allowed between the conclusion of one Sprint to the start of the next? (choose 1)
+  - There is no time between Sprints
+
+- After a recent Sprint Review some of the stakeholders felt that the information presented was too fast and they didn’t get chance to go into the depth that they felt they needed to. The meeting had to finish because it ended at the end of the business day. The stakeholders ask the Scrum Master to hold a follow up Sprint Review and extend the future Sprint Reviews. What should the Scrum Master do? (choose 2)
+  - Coach the stakeholders to understand Scrum and that all events are timeboxed and should not be extended, however they will discuss the timebox of the Sprint Review in the Sprint Retrospective and see if it can be extended for future Sprints. In the meantime help the Scrum Team to interact more with the stakeholders throughout the Sprint.
+  - Coach the Developers with time management techniques and how to present the key information the Stakeholders need.
+
+- You are one of 3 Scrum teams working on a product and your Sprints are one month long. Changes have been made to the company’s technical infrastructure that will cause extended testing for your increment. You are unable to deliver the increment in time for the other Scrum Teams that rely on your contribution to their increment. Also, the CEO is extremely unsatisfied with your team’s velocity on in this sprint. As a Scrum Master is the best thing to do? (choose 1)
+  - You suggest working with the other scrum teams on the ordering and the value of your open Product Backlog items to redefine the possible delivery date.
+
+- When it comes to completing all the items in the Sprint Backlog, all the Product Backlog Items added to the Sprint Backlog must be done by the end of the Sprint? (choose 1)
+  - No
+ 
+-  The Product Owner wants to know what each Developer is working on every day and insists that the developers send a report to her daily based on the information from the Daily Scrum. As the Scrum Master what should you do? (choose 1)
+  - Coach the Product Owner and Developers on the purpose of Scrum Artifacts and Events and facilitate a discussion about their concerns and help them to find a solution to the root cause of the problem.
+
+- You have a choice of ways and locations to hold the Daily Scrum, how do you decide what option is best? (choose 1)
+  - It should be held wherever the Developers think is best.
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
 
 
 
