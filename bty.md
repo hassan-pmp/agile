@@ -1,5 +1,152 @@
 # Better Than Yesterday
 ---
+# 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
+- A Scrum Team decides to implement a semi-frequent "hardening and release sprint." What should a Scrum Master suggest? (choose all that apply)
+  - The team should review the Definition of Done as it does not look like it is stringent enough to ensure a stable increment for release.
+  - Investigating if the team is adhering to the Definition of Done every Sprint.
+  - If a Sprint is needed to make the product stable then there is development debt to take care of.
+
+- As a Scrum Master, which of the following would you do to make the Scrum Team more productive during the first Sprint? (choose all that apply)
+  -  Introduce the Scrum Team members to one another and provide a brief background on their talents and work history.
+  -  Make certain that the Definition of Done is known and understood.
+  -  Allow the Product Owner to answer questions about the product, its history, goals, and context.
+  -  Allow the Developers to identify and discuss the procedure for converting the Product Backlog Items into a possibly releasable increment.
+- You are a Scrum master for a Nexus team. Some of the developers in 2 Scrum Teams come to you with a risk that will soon become an impediment. The next Sprints will require a lot of commitment from Stacey, an external specialist who is not a member of the Scrum Team and cannot dedicate all her time to this product. What would you do? (choose the best 3 answers)
+  -  Have the Developers work with the Product Owner to re-order the Product Backlog so Stacy can serve one team each Sprint.
+  -  Investigate whether additional techniques or frameworks for scaling Scrum would be appropriate for these Scrum Teams.
+  -  Developers with an interest in Stacey’s domain could volunteer to learn from Stacey and take on this work in their respective Scrum Teams.
+  -  Developers with an interest in Stacey’s domain could volunteer to learn from Stacey and take on this work in their respective Scrum Teams.
+  - Product Backlog prioritization decisions are made on limited information
+  - Members who cannot attend the Sprint Review will have problems making product decisions
+  - Key Stakeholders' feedback loop is too long risking high deviation
+- Should the Definition of Done include testing? Choose the best answer
+  -  Yes testing is mandatory to ensure the increment is ready to be released.
+- At Sprint Planning, three Developers get into an argument about the Sprint Plan. After an hour of raised tempers personal insults are exchanged. What should the Scrum Master do? (choose 1)
+  - Conduct a session to help the Scrum Team resolve the conflict and create Sprint Plan. Remind the other members of the Scrum Team that conflicting ideas are to be expected, but they are accountable as professionals and should not make it personal.
+
+- Which of these answers is a good sign the team is self-managing. (choose the 2 best answers)
+  - Creativity thrives and new possibilities are explored.
+  - The Developers are able to resolve internal conflicts between members in order to continue working.
+- One of the new developers feels left out of discussions and that his opinions are not considered. He brings this up at the Sprint Retrospective. What values are NOT being displayed here? (choose 3)
+  -  Openness
+  -  Respect
+  -  Courage
+- A Scrum Team has been working together for 10 Sprints and the Developers have become quite mature as a team, working well together and have a good understanding of the product. A new Product Owner is appointed and doesn’t know much about the product or the company. What activities would you recommend that the Product Owner focuses on? (choose the best 2 answers.)
+  -  You advise the Product Owner to rely on the others in the Scrum Team and the stakeholders for amending the Product Backlog for now, but work closely with them to get up to speed as soon as possible. This is because they are the most knowledgeable about the market and the product for now.
+  -  Advise the Product Owner to start building great relationships with the stakeholders and set up ongoing interaction with them. This will help the Product Owner maximise the value of the product in an environment of changing organizational or market expectations.
+
+- In Scaled Scrum should Scrum teams working on the same Increment have the same Start and End date?
+  - No
+-  You need to put together four Scrum Teams with a Nexus team that will be developing a web application. The stakeholders expects one Increment at the end of the first Sprint. What would be your main advice as the Scrum Master of this team?
+  - It would be good to use only one Product Backlog for all the teams
+  -  Teach them that it is their responsibility to form Scrum Teams with the skills and knowledge to create an Increment by the end of every Sprint.
+  -  All Scrum Teams agree on a shared Definition of Done describing all the work needed to deliver an integrated increment for Sprint Review.
+- Which Scrum Artifacts have commitments and when are they inspected? (Choose 3)
+  -  For the Product Backlog, its commitment is the Product Goal, inspected at Sprint Planning and the Sprint Review.
+  -  For the Sprint Backlog, its commitment is the Sprint Goal, inspected at the Daily Scrum.
+  -  For the Increment, its commitment is the Definition of Done, inspected at the Sprint Review
+
+- You are a Scrum Master of a team that has members working in different time zones around the world. Organizing the Scrum events is time-consuming and requires a lot of effort to set up and run. The Developers suggest only having the Daily Scrum every two days. Which responses would be most appropriate from yourself? (choose 3)
+  -  Coach the team on why having a Daily Scrum every day is an important opportunity to update the Sprint plan and how it helps the team self-organize work toward achieving the Sprint Goal.
+  -  Help the team understand that lowering the frequency of communication will only increase the feeling of disconnect between the team members.
+  -  Point out that having less frequent Daily Scrums means less frequent opportunities to inspect and adapt introducing risk of undesired deviation from the Sprint Goal. The Sprint plan might become inaccurate with reduced transparency over progress toward the Sprint Goal.
+
+- How does Scrum apply Empiricism? (choose 3)
+  -  Scrum Artifacts help with transparency.
+  -  One or more artifacts are inspected in each event.
+  -  During each Scrum Event, decisions are made on one or more artifacts.
+
+- One of the developers is disruptive and constantly disagrees with the team, this developer is slowing the decision-making progress and has started disregarding the team’s decisions and making his own decisions. What should you do as the Scrum Master? (choose the best 2 answers)
+  -  To anyone expressing this concern you suggest raising this with the entire team. You offer to help facilitate the conversation but not to resolve the concern yourself.
+  -  At the Sprint Retrospective, you wait to see if this topic is raised. If it does not happen, you raise it checking how everyone feels with the way team decisions are made.
+
+- What is the best description of the Definition of Done? (choose 3)
+  -  It creates transparency of the state of the Increment for inspection at the Sprint Review.
+  -  It helps the Developers identify the work remaining for an Increment to be ready for release.
+  -  At Sprint Planning it guides the Developers when creating a forecast for items.
+
+- Which two items best describe what ‘done’ means? (choose 2)
+  -  All the work performed as defined in the Definition of Done.
+  -  Having an Increment of working software that is potentially releasable to the end users.
+
+- The Sprint Review often overruns resulting in many stakeholders needing to leave before the end of the meeting and missing key information. The stakeholders request to have a follow-up meeting the next day. As a Scrum Master how would you handle this situation? (choose 2)
+  - Coach the stakeholders to understand Scrum and that all events are timeboxed and should not be extended.
+  - Coach the Developers with time management techniques and how to present the most valuable functionalities first.
+
+- You join an established Scrum team as the new Scrum Master, you notice that the Product Owner has not been attending the Sprint Retrospectives. Through some investigation, you realise that the Developers don’t want to invite him fearing that he might make the Sprint Retrospective ineffective and even provide destructive criticism. As the new Scrum Master what should you do? (choose the best answer)
+  - Work with the Developers to explore the problem and find a safe way to introduce the Product Owner to the Sprint Retrospective to enable greater transparency.
+
+-You have a choice of ways and locations to hold the Daily Scrum, how do you decide what option is best? (choose 1)
+  - It should be held wherever the Developers think is best.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 # 07.07.2025 Scrum Master II: Exam Tips: Lesson 3
 - Product Backlog: is an **emergent**, ordered list of what is needed to improve the product. it is the **sibgle source** of work undertaken by the Scrum Team.
 - Product Backlog Items (PBIs) that can be Done by Scrum Team within **one Sprint** are deemed **ready** for selection in a Sprint Planning event. They usually acquire this degree of transparancy after refining activities. Product backlog refienement is the act of breaking down and further defiing Product Backlog items into smaller more precise items. This is an **ongoing activity** to add details such as a **decsription**, **order**, and **siza**. Attributes often vary with the domain of work.
