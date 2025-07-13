@@ -1,7 +1,7 @@
 # Better Than Yesterday
 ---
 # 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
-- A Scrum Team decides to implement a semi-frequent "hardening and release sprint." What should a Scrum Master suggest? (choose all that apply)
+- 1- A Scrum Team decides to implement a semi-frequent "hardening and release sprint." What should a Scrum Master suggest? (choose all that apply)
   - The team should review the Definition of Done as it does not look like it is stringent enough to ensure a stable increment for release.
   - Investigating if the team is adhering to the Definition of Done every Sprint.
   - If a Sprint is needed to make the product stable then there is development debt to take care of.
