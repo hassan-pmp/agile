@@ -1,5 +1,27 @@
 # Better Than Yesterday
 ---
+# 14.07.2025 Scrum Master II: Exam Tips: Lesson 5
+- Scrum Master II
+  - Ability to apply the Scrum framework
+  - Support scrum teams
+  - Solve complex real-world problem
+- Applying the Scrum framework
+- Devloping people and teams
+- Agile product management
+- Product Development
+- Evolving the Agile organiyation
+
+- PSM II Assessment: Taking Tips
+  -  1- Read the entire question. Read each question completely before reviewing answer options. More specifacly, pay attention to words such as **not, should, must, recommend, Usaully, Manadate, Always, Never, Best, Worst, Optimal**
+  -  2- Eliminate wrong answers
+  -  3- Use the process of eliminatation
+  -  4- Analyze every option carefully
+  -  5- Make an educated guess 
+- 
+
+
+
+
 # 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
 - 1- A Scrum Team decides to implement a semi-frequent "hardening and release sprint." What should a Scrum Master suggest? (choose all that apply)
   - The team should review the Definition of Done as it does not look like it is stringent enough to ensure a stable increment for release.
