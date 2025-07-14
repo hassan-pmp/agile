@@ -30,6 +30,10 @@
   - True
 - 4- Which Statement best describe Scrum? ( Choose the best answer)
   -  A framework or developing, delivering, and sustaining complex products
+- 5- Which agile aspect refuses what is often considered a “necessary evil” in many industries – long work hours, overtime, or even working nights or weekends?
+   -  The evolution of a Product's knowledge over time
+ -  
+
 
 
 # 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
