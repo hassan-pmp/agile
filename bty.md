@@ -17,7 +17,10 @@
   -  3- Use the process of eliminatation
   -  4- Analyze every option carefully
   -  5- Make an educated guess 
-- 
+- **IKISISI= I Know It When I See It** = the users just know if the product is valuable when thez see it.
+- **Agilitz** means **Responsing to change**
+- **Scrum Framework**
+<img width="1677" height="941" alt="image" src="https://github.com/user-attachments/assets/c6f929b7-4e94-4512-87c1-3bfda187c221" />
 
 
 
