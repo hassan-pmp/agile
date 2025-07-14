@@ -22,7 +22,14 @@
 - **Scrum Framework**
 <img width="1677" height="941" alt="image" src="https://github.com/user-attachments/assets/c6f929b7-4e94-4512-87c1-3bfda187c221" />
 
-
+- 1- What does the Cone of Uncertainitz present?
+  - The evolution of a Product's knowledge over time
+- 2- Which Agile aspect claim that overtime must be avoided? (Choose the best answer)
+  - Sustainable pace
+- 3- Scrum is both an incremental and itrative agile way of delivering work
+  - True
+- 4- Which Statement best describe Scrum? ( Choose the best answer)
+  -  A framework or developing, delivering, and sustaining complex products
 
 
 # 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
