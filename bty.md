@@ -1,5 +1,56 @@
 # Better Than Yesterday
 ---
+# 15.07.2025 Scrum Master II: Exam Tips: Lesson 6
+- Emrirical Process Control (Emporocism): **Inspection, Adaption, and Transparancy**
+- Transparency: is about having a common standard so that all observes share a common undestanding of what is being seen. The significant aspects of the process must be visible to those responsible for the outcome.
+- Miscommunication issue between the components of the autonomous car. The same issue might happen with the scrum team.
+- The difference is that instead of having a system composed of hardware and software communicating, we have **Poeple Communicating** and they need to know what is gpong on and how to contribute to the system or Team.
+- Transparancy implimented in events:
+  - Sprint Planning
+  - Daily Scrum
+  - Review 
+  - Retro
+- To help people to be aware of what is going on, such as knowing about the work done, challanges and the Team's next steps.
+- Also, Transparancy implimeted in the Artifacts such as
+  - Product Backlog
+  - Sprint Backlog
+  - Increment
+- for making everybody have an aligned undestanding of the artifacts.
+- **Ready**: is used to describe that product backlog items are clear and details enough so that it can be reasonably done with the Sprint Time Box.
+- **Done**
+- **Transparancy**: One of the jobs of the Scrum Master is to detect incomplete Transparancy by inspecting the artifacts, sensing patterns. listening closely to what is being said and detecting differences between expected and real results.
+- **Inspection**: Characterizes the empirical Scrum nature of testing hypotheses. it is about planning and trying something, checking what happend, learning from it, and adopting. 
+- **Commitment**: People personally commit not just get involved to achieveing the goals of scrum team. In Scrum, business and technical people must work together. Also, the entire Scrum team is held accountable for the results. **If One Succeeds, All Succeeds, If One Fails, All Fails**
+- **Courage**: the Scrum Team members must have courage to do the rightthing and work on the tough problems. if you are working in complex environment, you need to get out of your comfort zone
+- **Focus**:
+- **Openness**:
+- **Respect**:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 # 14.07.2025 Scrum Master II: Exam Tips: Lesson 5
 - Scrum Master II
   - Ability to apply the Scrum framework
