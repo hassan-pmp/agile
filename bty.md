@@ -34,7 +34,36 @@
 - 8- Scrum is founded on? (Choose the two best answers)
   - Empricisim
   - Lea thinking
-- 9-     
+- What makes a great agile coach?
+- What skills and qualiies should I look forward when hiring a coach?
+- What skills do I need to develop to become a great coach?
+- The Coach as a teacher and guide, you'll approach individuals, teams, and leaders with a servant mindset and openly share what you know about Agile. As individuals and team being to embrace Agile, your coach role shifts to one of mentoring.
+- As Mentor, we will help people build their individual roadmaps towards agility. 
+- At the same time that we'r teaching and mentoring, we'll also need to be detective or problem solver.
+- As a Problem solver, we're helping the team to find the best solution for themselve.
+- As a Coach we will be a mediator, help lead conflicting parties to solutions.
+- **As a Coach, helping Lead conflicting parties to mutually-agreeable solutions**.
+- Individual, Teams, Management, and Executive levels, so we'll need to have a varity of techniques and approaches to use.
+- **Coach as Teacher, mentor, Detective, and Mediator.**
+-  **Scrum Master**
+  - Teaches the Framework
+  - Measures team velocity
+  - Helps team attain high performance
+- **Agile Coach**
+  - Is focused on all the teams at once, The coach is step removed from daily activities.
+  - The Coach identifies unhealthy patterns and develop training materials or recommendation to address it.
+  - The caoch activily working with leadership to draw attention to the larger patterns or solve widespread problems.
+  - The Coach will work with SMs to solve any problems on the team that scrum master hasn't overcome.
+  - The Coach will be a silent observer of events and confers with a SM on any areas of concern the coach sees.
+  - The coach helps train, mentor, and guide team members from a neutral position outside the team. 
+- **The partnership of SM and AC is one that create a szstem of healthy teams.**
+- 
+
+
+
+
+
+
 
 
 
