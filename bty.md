@@ -26,9 +26,15 @@
 - **Focus**: Everyone focuses on the work of the sprint and the goals of the scrum team. 
 - **Openness**: Strongly related to the transparancy pillar
 - **Respect**: Respect each other to be capable, independent people. respect is essential in solving complex problems and growing high performance teams. Recogmizing that the people have different background, personalities, and abilities. 
+- 6- What are the pillars of empiricism?
+  - inspection, Adaption, Transparancy 
 
-
-
+- 7- Which Scrum value is manifested when an information radiator such as a burndown, burn up or cumulative flow chart is made available so that everyone can see it?
+  -  Openness
+- 8- Scrum is founded on? (Choose the two best answers)
+  - Empricisim
+  - Lea thinking
+- 9-     
 
 
 
@@ -84,10 +90,7 @@
   -  A framework or developing, delivering, and sustaining complex products
 - 5- Which agile aspect refuses what is often considered a “necessary evil” in many industries – long work hours, overtime, or even working nights or weekends?
    -  The evolution of a Product's knowledge over time
- -  
-
-
-
+  
 # 13.07.2025 Scrum Master II: Exam Tips: Lesson 4
 - 1- A Scrum Team decides to implement a semi-frequent "hardening and release sprint." What should a Scrum Master suggest? (choose all that apply)
   - The team should review the Definition of Done as it does not look like it is stringent enough to ensure a stable increment for release.
