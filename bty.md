@@ -21,10 +21,11 @@
 - **Transparancy**: One of the jobs of the Scrum Master is to detect incomplete Transparancy by inspecting the artifacts, sensing patterns. listening closely to what is being said and detecting differences between expected and real results.
 - **Inspection**: Characterizes the empirical Scrum nature of testing hypotheses. it is about planning and trying something, checking what happend, learning from it, and adopting. 
 - **Commitment**: People personally commit not just get involved to achieveing the goals of scrum team. In Scrum, business and technical people must work together. Also, the entire Scrum team is held accountable for the results. **If One Succeeds, All Succeeds, If One Fails, All Fails**
-- **Courage**: the Scrum Team members must have courage to do the rightthing and work on the tough problems. if you are working in complex environment, you need to get out of your comfort zone
-- **Focus**:
-- **Openness**:
-- **Respect**:
+- **Courage**: the Scrum Team members must have courage to do the rightthing and work on the tough problems. if you are working in complex environment, you need to get out of your comfort zone.
+  - As a football coach, say they can't be afraid of getting fired when they say, that is not that they want to get fired. It is about going through the hard path if necessary. 
+- **Focus**: Everyone focuses on the work of the sprint and the goals of the scrum team. 
+- **Openness**: Strongly related to the transparancy pillar
+- **Respect**: Respect each other to be capable, independent people. respect is essential in solving complex problems and growing high performance teams. Recogmizing that the people have different background, personalities, and abilities. 
 
 
 
