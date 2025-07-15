@@ -70,7 +70,8 @@
   - **How thw SM approaching these unhealthy behaviours**
   - AC with PO: Story Writing, Prio, Release planning, Stakeholder Managment, establish and maintain a clear product vision while still accepting feedback from team members and stakeholders.
   - Coaching the PO on **How the Po's role is business representative, not as boss of the team**
-  - 
+  -  Coach Leaders to lead from behind ab support the team without solving.
+  -  **Every session, a working session**
 
 
 
