@@ -72,6 +72,11 @@
   - Coaching the PO on **How the Po's role is business representative, not as boss of the team**
   -  Coach Leaders to lead from behind ab support the team without solving.
   -  **Every session, a working session**
+  -  Focus Areas of the Coach
+    - **Process** or how agile is being executed
+    - **Performance** or how can the teams do better
+    - **Dynamics** or how can team be better teams.
+  - I was once assigned several teams to coach across multiple products. I observed that all the teams were failing in the area of releasing planning, which made our work unpredictable and our stakeholders unhappy. ---> I can go team to team and to educated them on this topic and push them to it execute the way I told them. ===? instead, I shared my observations with team indiviually. 
 
 
 
