@@ -57,7 +57,19 @@
   - The Coach will be a silent observer of events and confers with a SM on any areas of concern the coach sees.
   - The coach helps train, mentor, and guide team members from a neutral position outside the team. 
 - **The partnership of SM and AC is one that create a szstem of healthy teams.**
-- 
+- **Agile Coach = Leading from behind**
+- Follow-up after scrum
+- One of the key skills needed for a great AC is **the Ability to know when is time to move from just observing to actiong.**
+- The Coach MUST act according to the 3 CS of Mentoring
+  - **Consultant** or someone with specialyed knowledge that can make wise recommendations
+  - **Counselor** or someone who listens and guides but lets the mentee draw their own conclusion and plan of action.
+  - **Act as a Cheerleader** a great coach is always rooting for the mentee to succeed.
+  - **Do the team members feel safe when they raise questions or have differing opinions?**
+  - **Has there baen an incident or conflict on the team that creates a sense of unease>**
+  - **Are all team interactions this guarded?**
+  - **How thw SM approaching these unhealthy behaviours**
+  - 
+  - 
 
 
 
