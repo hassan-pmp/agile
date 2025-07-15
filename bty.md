@@ -68,7 +68,8 @@
   - **Has there baen an incident or conflict on the team that creates a sense of unease>**
   - **Are all team interactions this guarded?**
   - **How thw SM approaching these unhealthy behaviours**
-  - 
+  - AC with PO: Story Writing, Prio, Release planning, Stakeholder Managment, establish and maintain a clear product vision while still accepting feedback from team members and stakeholders.
+  - Coaching the PO on **How the Po's role is business representative, not as boss of the team**
   - 
 
 
