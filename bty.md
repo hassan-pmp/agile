@@ -18,6 +18,35 @@
   - There is the deep belief and undestanding that coaching is a partnership
   - An overriding belief in the capability of the coachee
   - Ability to trigger transformative evolution.
+  - **Product Owner**
+    - Key topics include:
+      - Story writing
+      - Backlog management techniques
+      - Prioritization techniques
+      - Stakeholder management strategies
+      - Establishing and maintaining a vision
+      - Team and scrum master interactions
+      - Agile mindset
+  - **Scrum Master**
+    - Key topics include:
+      - Facilitation skills
+      - Protecting the team
+      - Challenging team members’ limiting beliefs on how to work
+      - Removing judgment of people and their behaviors—how to assume positive intent
+      - Servant leadership 
+  - **Team membre**
+    - Key topics include:
+      - Why the organization is moving to agile practices
+      - How the changes affect them and their role
+      - Behavioral changes that may be needed for their success
+      - Agile basics, including mindset and framework details 
+  - **Agile Managers/Leaders**
+    - Key topics include:
+      - Managing teams’ technical debt
+      - Developing leadership in their direct report staff members
+      - Resolving impediments and blockers to teams’ success
+      - Identifying negative patterns in the organization and solving them
+      - Developing a healthy, high-performance culture based on shared vision and collective accountability 
   - **Conflict Facilitation Activities**
     - Share the conflict levels with teams and the language used at each level
     - Facilitate the team into identifying the core Issue
