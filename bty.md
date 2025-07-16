@@ -53,6 +53,36 @@
     - Facilitate open sharing of all perspectives on the issue at hand
     - Reground the team in the agile framework and guide them to find the right balance for them
 
+- **Doing Agile** means following the practices—like running sprints, holding stand-ups, or using a Scrum board. It’s mostly about the process and tools.
+
+- 1- **How do you explain the difference between doing Agile and being Agile?**
+- **Being Agile** is deeper—it's about mindset. It means embracing values like collaboration, adaptability, continuous learning, and delivering value to the customer early and often. A team can do all the Agile ceremonies but still resist change or avoid feedback. When they are Agile, they **welcome change**, **improve continuously**, and **take ownership**.
+
+- 2- **How would you handle a team that is following Agile rituals but lacks an Agile mindset?**
+  - First, I would observe their behavior during ceremonies and in their day-to-day work. Then, I would have 1:1 conversations or team workshops to understand their perspective and where the resistance comes from.
+  - Next, I’d try to connect Agile principles to their goals—like faster delivery or reduced rework. I’d also introduce small experiments like retrospective follow-through or shared sprint goals, to build trust in the process. Over time, with coaching and wins, the mindset often shifts from “we have to do this” to “this helps us.”
+
+- 3. **What’s your approach to cultivating psychological safety in high-pressure R&D environments?**
+  -  I start by modeling vulnerability myself—admitting when I don’t know something or when I’ve made a mistake. This shows the team that it’s okay to be human. Then, I work with team leads and senior engineers to reinforce a culture where questions are welcomed, feedback is given respectfully, and failures are treated as learning opportunities, not blame games.
+
+- 4- **What would you do if a team member or stakeholder consistently resists Agile practices?**
+  - First, I try to understand the reason behind the resistance. Is it fear of change? Lack of understanding? Past bad experiences? I usually have a 1:1 conversation to listen and empathize.
+  - Then, I work on building trust by clarifying the “why” behind Agile practices and showing how they solve real problems the person is facing—like delays, miscommunication, or rework.
+  - If it’s a stakeholder, I focus on translating Agile benefits into business language—like faster time to market, better risk management, or clearer visibility. I’ve learned that resistance often fades when people see results or feel heard and involved.
+- 5- **Who do you think is a good person for this position? In terms of characteristics, knowledge, and more**
+  - Empathetic and a good listener
+  -  Technically curious
+  -  Calm under pressure
+  -  Strong in facilitation and conflict resolution
+  -  
+
+
+
+
+
+
+
+
 
 # 15.07.2025 Scrum Master II: Exam Tips: Lesson 6
 - Emrirical Process Control (Emporocism): **Inspection, Adaption, and Transparancy**
