@@ -1,7 +1,21 @@
 # Better Than Yesterday
 ---
 # 16.07.2025 Scrum Master II: Exam Tips: Lesson 6
--
+- Conflict resolution
+  - First assess the level of conflict, then spend some time reflecting on the core issue or issue
+  - Once the core issue is identified, spend time to undestand the prespectives on the team members.
+- Regrounding the team in the agile framework can help de-escalate the situation.
+-  **An Agile Coach needs to have deep, practual experience with Agile processes**
+-  **A Coach should be skilled at starting up agile teams**
+  - Teach others agile practices
+  - Coach on roles, practices, and interpersonal skills
+  - Help the team master conflict
+- The hardest coaching skill to develop or look for, is the skill of self-mastery.
+- Self-Mastery is knowing your tendencies and shifting them, in the moment.
+- What went well and how can you remember to keep doing?
+- What would you like to change, and how will you remember to do that?
+- 
+-  
 
 
 # 15.07.2025 Scrum Master II: Exam Tips: Lesson 6
