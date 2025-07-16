@@ -1,5 +1,9 @@
 # Better Than Yesterday
 ---
+# 16.07.2025 Scrum Master II: Exam Tips: Lesson 6
+-
+
+
 # 15.07.2025 Scrum Master II: Exam Tips: Lesson 6
 - Emrirical Process Control (Emporocism): **Inspection, Adaption, and Transparancy**
 - Transparency: is about having a common standard so that all observes share a common undestanding of what is being seen. The significant aspects of the process must be visible to those responsible for the outcome.
