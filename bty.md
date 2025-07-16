@@ -18,11 +18,11 @@
   - There is the deep belief and undestanding that coaching is a partnership
   - An overriding belief in the capability of the coachee
   - Ability to trigger transformative evolution.
-  - Conflict Facilitation Activities
-• Share the conflict levels with teams and the language used at each level
-• Facilitate the team into identifying the core Issue
-• Facilitate open sharing of all perspectives on the issue at hand
-• Reground the team in the agile framework and guide them to find the right balance for them
+  - **Conflict Facilitation Activities**
+    - Share the conflict levels with teams and the language used at each level
+    - Facilitate the team into identifying the core Issue
+    - Facilitate open sharing of all perspectives on the issue at hand
+    - Reground the team in the agile framework and guide them to find the right balance for them
 
 
 # 15.07.2025 Scrum Master II: Exam Tips: Lesson 6
