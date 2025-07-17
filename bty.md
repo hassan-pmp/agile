@@ -1,5 +1,21 @@
 # Better Than Yesterday
 ---
+# 17.07.2025 Scrum Master II: Exam Tips: Lesson 7
+- Agile Mindset:
+  - By undestanding that the team is working together.
+  - Pitch in anywhere needed.
+  - Focuse on customer
+- Agile mindset focuse on helping to complete any task you can do or that you can learn to do.
+- Agile Mindset is about collective ownership and developing value to the customer. It is not about my tasks or my activities. It's about doing whatever it takes to deliver value.
+- Stepping into help or pairing  with a team member to learn something new so that you can take on similar work in the future, that is Agile Mindset and that's the key to a successful agile process.  
+- 
+
+
+
+
+
+
+
 # 16.07.2025 Scrum Master II: Exam Tips: Lesson 6
 - Conflict resolution
   - First assess the level of conflict, then spend some time reflecting on the core issue or issue
