@@ -8,7 +8,7 @@
 - Agile mindset focuse on helping to complete any task you can do or that you can learn to do.
 - Agile Mindset is about collective ownership and developing value to the customer. It is not about my tasks or my activities. It's about doing whatever it takes to deliver value.
 - Stepping into help or pairing  with a team member to learn something new so that you can take on similar work in the future, that is Agile Mindset and that's the key to a successful agile process.  
-- 
+- What Customers needed, What they wanted, what they expected.
 
 
 
