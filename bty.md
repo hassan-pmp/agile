@@ -6,9 +6,15 @@
   - A. Least valuable items at the top to most valuable at the bottom.
   - B. Size, where small items are at the top and large items are at the bottom.
   - C. Risk, where safer items are at the top, and riskier items are at the bottom.
-  - **D. Whatever is deemed most appropriate by the Product Owner.**
+  - :white_check_mark: **D. Whatever is deemed most appropriate by the Product Owner.**
   - E. Items are randomly arranged.
 
+2- Who is on the Scrum Team?
+- (choose the best three answers)
+- :white_check_mark: **A. The Scrum Master.**
+- B. Project Manager.
+- :white_check_mark: **C. The Product Owner.**
+- :white_check_mark: **D. Developers.**
 
 
 
