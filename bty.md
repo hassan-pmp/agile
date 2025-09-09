@@ -1,7 +1,7 @@
 # Better Than Yesterday
 ---
 # 09.09.2025 PAL: Exam Tips: Lesson 1
-1- The Product Backlog is ordered by:
+**1- The Product Backlog is ordered by:**
 - (choose the best answer)
   - A. Least valuable items at the top to most valuable at the bottom.
   - B. Size, where small items are at the top and large items are at the bottom.
@@ -9,8 +9,8 @@
   - :white_check_mark: **D. Whatever is deemed most appropriate by the Product Owner.**
   - E. Items are randomly arranged.
 
-2- Who is on the Scrum Team?
-- (choose the best three answers)
+**2- Who is on the Scrum Team?
+- (choose the best three answers)**
 - :white_check_mark: **A. The Scrum Master.**
 - B. Project Manager.
 - :white_check_mark: **C. The Product Owner.**
