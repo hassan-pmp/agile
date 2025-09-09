@@ -1,5 +1,34 @@
 # Better Than Yesterday
 ---
+# 09.09.2025 PAL: Exam Tips: Lesson 1
+1- The Product Backlog is ordered by:
+(choose the best answer)
+A. Least valuable items at the top to most valuable at the bottom.
+B. Size, where small items are at the top and large items are at the bottom.
+C. Risk, where safer items are at the top, and riskier items are at the bottom.
+**D. Whatever is deemed most appropriate by the Product Owner.**
+E. Items are randomly arranged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 17.07.2025 Scrum Master II: Exam Tips: Lesson 7
 - Agile Mindset:
   - By undestanding that the team is working together.
