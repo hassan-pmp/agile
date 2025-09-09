@@ -17,6 +17,199 @@
 - :white_check_mark: **D. Developers.**
 
 
+3- Which statement best describes a Product Owner's responsibility?
+- (choose the best answer)
+- A. Keep stakeholders from distracting the Developers.
+- B. Managing the project and ensuring that the work meets the commitments to the stakeholders.
+- C. Directing the Developers.
+- :white_check_mark: **D. Maximizing the value of the work the Scrum Team does.**
+
+4- True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.
+-	True
+-	:white_check_mark: False
+
+5- Which statement best describes the Sprint Review?
+- (choose the best answer)
+- :white_check_mark: **A.  It is when the Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next.**
+- B. It is a demo at the end of the Sprint for everyone in the organization to check on the work done.
+- C. It is a mechanism to control Developer activity during a Sprint.
+
+
+6- Which statement best describes Scrum?
+- (choose the best answer)
+- A. A cookbook that defines best practices for software development.
+- B. A complete methodology that defines how to develop software.
+- :white_check_mark: **C. A framework for creating complex products in complex environments.**
+- D. A defined and predictive process that conforms to the principles of Scientific Management.
+
+7- When might a Sprint be cancelled?
+- (choose the best answer)
+- :white_check_mark: **A. When the Sprint Goal becomes obsolete.**
+- B. When the sales department has an important new opportunity.
+- C. When the Developers feel that the work is too hard.
+- D. When it becomes clear that not everything will be finished by the end of the Sprint.
+
+8- True or False: When multiple Scrum Teams work together on the same product, each team should maintain a separate Product Backlog.
+-	True
+-	:white_check_mark: **False**
+
+9- The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?
+- (choose the best answer)
+- A. Add the item to the current Sprint Backlog, drop an item of similar size, and reduce the Sprint Goal.
+- :white_check_mark: **B. Discuss the item with the other members of the Scrum Team so the team can decide what to do.**
+- C. Add the item to the Sprint Backlog for the next Sprint.
+- D. Add the item to the current Sprint Backlog and do whatever amount of work is necessary to meet the Sprint Goal while satisfying the CEO.
+
+10- When does a Developer become the sole owner of an item on the Sprint Backlog?
+- (choose the best answer)
+- A. During the Daily Scrum.
+- B. Whenever a team member can accommodate more work.
+- :white_check_mark: **C. Never. All items in the Sprint Backlog are "owned" by the Developers on the Scrum Team.**
+- D. At the Sprint Planning event.
+
+11- Why is the Daily Scrum held at the same time and same place?
+- (choose the best answer)
+- A. The Product Owner demands it.
+- B. The place can be named.
+- C. Rooms are hard to book and this lets it be booked in advance.
+- :white_check_mark: **D. The consistency reduces complexity.**
+
+12- Which of the following services is appropriate for a Scrum Master in regard to the Daily Scrum?
+- (choose the best answer)
+- A. Lead the discussions of the Developers.
+- B. Ensure that all 3 questions have been answered.
+- C. Facilitate in a way that ensures each team member has a chance to speak.
+- :white_check_mark: **D. Teach the Developers to keep the Daily Scrum within the 15 minute timebox.**
+- E. All answers apply.
+
+13- True or False: Scrum has a role called "project manager."
+-	True
+-	:white_check_mark: **False**
+
+14- What are three incorrect, untrue, or misleading statements about Scrum?
+- (choose the best three answers)
+- :white_check_mark: **A. Scrum is a framework that eliminates complexity.**
+- :white_check_mark: **B. Scrum is a framework for developing and sustaining complex products.**
+- :white_check_mark: **C. Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your environment.**
+- D. Scrum is like traditional processes but with self-organization to replace Project Managers.
+- E. Scrum is founded on empiricism and lean thinking.
+- F. Each component of Scrum serves a specific purpose and is essential to your ability to use Scrum to develop complex products.
+
+15- When does a Developer become accountable for the value of a Product Backlog item selected for the Sprint?
+- (choose the best answer)
+- :white_check_mark: **A. Never. The entire Scrum Team is accountable for creating value every Sprint.**
+- B. During the Daily Scrum.
+- C. Whenever a team member can accommodate more work.
+- D. At the Sprint Planning Event.
+
+16- Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team?
+- (choose the best three answers)
+- :white_check_mark: **A. Stakeholders attend the Daily Scrum to check on the Scrum Team’s progress.**
+- :white_check_mark: **B. The Developers invite external stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.**
+- :white_check_mark: **C. The Developers have all the skills they need to create a valuable, useful Increment.**
+- D. The Developers are working within the boundaries of their organization's functional description and nicely handing off work from analyst to developer to tester to integration.
+- E. The Developers are collaboratively selecting their own work during the Sprint.
+- F. The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
+
+17- The three pillars of Scrum are:
+- (choose the best answer)
+- :white_check_mark: **A. Transparency, Inspection, Adaptation.**
+- B. Respect For People, Kaizen, Eliminating Waste.
+- C. Planning, Demonstration, Retrospective.
+- D. Transparency, Eliminating Waste, Kaizen.
+- E. Planning, Inspection, Adaptation.
+
+18- True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.
+-	True
+-	:white_check_mark: **False**
+
+19- What is the function or purpose of Management in Scrum?
+- (choose the best answer)
+- A. Monitor the progress of the Developers on the Scrum Team.
+- B. Identify and remove people that are not working hard enough.
+- :white_check_mark: **C. Support the Product Owner with insights and information into high value product and system capabilities. Support the Scrum Master to encourage organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.**
+- D. Continually monitor staffing levels of the Scrum Team.
+
+20- The Developers should have all the skills needed to:
+- (choose the best answer)
+- A. Complete the project as estimated when the date and cost are committed to the Product Owner.
+- :white_check_mark: **B. Turn the Product Backlog items they select into an Increment of a useful and valuable product.**
+- C. Do all of the development work, except for specialized testing that requires additional tools and environments.
+
+21- When does the next Sprint begin?
+- (choose the best answer)
+- :white_check_mark: **A. Immediately after the conclusion of the previous Sprint.**
+- B. Next Monday.
+- C. When the Product Owner is ready.
+- D. Immediately following the next Sprint Planning.
+
+22- Who has the final say on the order of the Product Backlog?
+- (choose the best answer)
+- A.The Developers.
+- :white_check_mark: **B. The Product Owner.**
+- C. The Scrum Master.
+- D. The Stakeholders.
+- E. The CEO
+
+23- The timebox for a Daily Scrum is?
+- (choose the best answer)
+- A. 4 hours.
+- :white_check_mark: **B.15 minutes.**
+- C. The same time of day every day.
+- D. Two minutes per person.
+- E. 15 minutes for a 4-week sprint. For shorter Sprints it is usually shorter.
+
+
+24- An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done?
+- (choose the best answer)
+- A. Without a new vocabulary as a reminder of the change, very little change may actually happen.
+- B. The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
+- C. Management may feel less anxious.
+- :white_check_mark: **D. All of the above.**
+
+25- Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly?
+- (choose the best answer)
+- A. The Developers
+- :white_check_mark: **B. The Product Owner**
+- C. The Scrum Master
+- D. The Project Manager
+
+26- What should the Scrum Team do during the first Sprint?
+- (choose the best answer)
+- A. Develop a plan for the rest of the release.
+- B. Create the complete Product Backlog to be developed in subsequent Sprints.
+- :white_check_mark: **C. Create a valuable and useful Increment.**
+- D. Determine the complete architecture and infrastructure for the product.
+
+27- The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity.
+
+- (Which one the following answers is FALSE?)
+- :white_check_mark: **A. The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.**
+- B. The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
+- C. As a decomposition of the selected Product Backlog items, the Sprint Backlog changes and may grow as the work emerges.
+- D. The Product Owner can help clarify or optimize the Sprint when asked by the Developers.
+
+28- When does a Sprint conclude?
+- (choose the best answer)
+- A. When all Product Backlog items meet their Definition of Done.
+- :white_check_mark: **B. When the Sprint Retrospective is complete.**
+- C. When the Product Owner decides enough has been delivered to meet the Sprint Goal.
+- D. When all the tasks are completed by the Developers.
+
+29- The timebox for the Sprint Review is:
+- (choose the best answer)
+- A. 4 hours and longer as needed.
+- B. As long as needed.
+- C. 2 hours.
+- D. 1 day.
+- :white_check_mark: **E. 4 hours for a monthly Sprint. For shorter Sprints it is usually shorter.**
+
+30- When should a Developer on a Scrum Team be replaced?
+- (choose the best answer)
+- A. As needed, with no special allowance for changes in productivity.
+- :white_check_mark: **B. As needed, while taking into account a short-term reduction in productivity.**
+- C. Never, it reduces productivity.
+- D. Every Sprint to promote shared learning.
 
 
 
