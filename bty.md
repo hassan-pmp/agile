@@ -88,9 +88,9 @@
 **14- What are three incorrect, untrue, or misleading statements about Scrum?**
 - (choose the best three answers)
 - :white_check_mark: **A. Scrum is a framework that eliminates complexity.**
-- :white_check_mark: **B. Scrum is a framework for developing and sustaining complex products.**
+- B. Scrum is a framework for developing and sustaining complex products.
 - :white_check_mark: **C. Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your environment.**
-- D. Scrum is like traditional processes but with self-organization to replace Project Managers.
+- :white_check_mark: **D. Scrum is like traditional processes but with self-organization to replace Project Managers**
 - E. Scrum is founded on empiricism and lean thinking.
 - F. Each component of Scrum serves a specific purpose and is essential to your ability to use Scrum to develop complex products.
 
