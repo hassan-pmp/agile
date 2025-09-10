@@ -1,5 +1,60 @@
 # Better Than Yesterday
 ---
+# 10.09.2025 PAL: Exam Tips: Lesson 2
+**42- The length of a Sprint should be:**
+- (choose the best answer)
+- A. Short enough to keep the business risk acceptable to the Product Owner.
+- B. Short enough to be able to synchronize the development work with other business events.
+- C. One month or less.
+- :white_check_mark: **D. All of the above.**
+
+**43- Who creates the Definition of Done?**
+- (choose the best answer)
+- A. The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
+- :white_check_mark: **B. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.**
+- C. The Product Owner since they are responsible for the product's success.
+- D. The Scrum Master since they are responsible for the productivity of the Developers.
+
+**44- An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done?**
+- (choose the best answer)
+- A. Without a new vocabulary as a reminder of the change, very little change may actually happen.
+- B. The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
+- C. Management may feel less anxious.
+- :white_check_mark: **D. All of the above.**
+
+**45-Which Scrum events are timeboxed?**
+- (choose the best three answers)
+- :white_check_mark: **A. Sprint Retrospective.**
+- :white_check_mark: **B. Sprint Planning.**
+- :white_check_mark: **C. Sprint Review.**
+D. Sprint Testing.
+E. Release Testing.
+F. Release Retrospective.
+G. Refinement.
+
+**46- What does it mean to say that an event has a timebox?**
+- (choose the best answer)
+- :white_check_mark: **A. The event can take no more than a maximum amount of time.**
+- B. The event must take at least a minimum amount of time.
+- C. The event must happen by a given time.
+- D. The event must happen at a set time.
+
+
+**47- Which of the following services is appropriate for a Scrum Master in regard to the Daily Scrum?**
+- (choose the best answer)
+- A. Lead the discussions of the Developers.
+- B. Ensure that all 3 questions have been answered.
+- C. Facilitate in a way that ensures each team member has a chance to speak.
+- :white_check_mark: **D. Teach the Developers to keep the Daily Scrum within the 15 minute timebox.**
+- E. All answers apply.
+
+
+
+
+
+
+
+
 # 09.09.2025 PAL: Exam Tips: Lesson 1
 **1- The Product Backlog is ordered by:**
 - (choose the best answer)
@@ -52,8 +107,8 @@
 -	True
 -	:white_check_mark: **False**
 
-**9- The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?
-**- (choose the best answer)
+**9- The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?**
+- (choose the best answer)
 - A. Add the item to the current Sprint Backlog, drop an item of similar size, and reduce the Sprint Goal.
 - :white_check_mark: **B. Discuss the item with the other members of the Scrum Team so the team can decide what to do.**
 - C. Add the item to the Sprint Backlog for the next Sprint.
@@ -209,22 +264,20 @@
 - C. Never, it reduces productivity.
 - D. Every Sprint to promote shared learning.
 
-
-
-31-  Which statement best describes the Sprint Review? 
+**31-  Which statement best describes the Sprint Review?** 
 - (choose the best answer)
 - A. It is a demo at the end of the Sprint for everyone in the organization to check on the work done.
 - :white_check_mark: **B. It is when the Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next**
 C. It is a mechanism to control Developer activity during a Sprint.
 
-32- During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected?
+**32- During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected?**
 - (choose the best answer)
 - A. The Developers.
 - B. The Product Owner and all stakeholders.
 - :white_check_mark: **C. The Product Owner and the Developers.**
 - D. The Scrum Master, the project manager, and the Developers
 
-33- What are two ways a Scrum Master serves to enable effective Scrum Teams?
+**33- What are two ways a Scrum Master serves to enable effective Scrum Teams?**
 - (choose the best two answers)
 - A. By starting and ending the meetings at the proper time.
 - :white_check_mark: **B. By facilitating Developer decision-making.**
@@ -232,14 +285,14 @@ C. It is a mechanism to control Developer activity during a Sprint.
 - D. By keeping high value features high in the Product Backlog.
 
 
-34- What is the main reason for the Scrum Master to be at the Daily Scrum?
+**34- What is the main reason for the Scrum Master to be at the Daily Scrum?**
 - (choose the best answer)
 - A. To gather status and progress information to report to management.
 - B. To make sure every team member answers the three questions.
 - C. To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
 - :white_check_mark: **D. They do not have to be there; they only need to ensure the Developers have a Daily Scrum.**
 
-35- The timebox for the Sprint Review is:
+**35- The timebox for the Sprint Review is:**
 - (choose the best answer)
 - A. 2 hours.
 - B. 1 day.
@@ -247,53 +300,44 @@ C. It is a mechanism to control Developer activity during a Sprint.
 - D. As long as needed.
 - E. 4 hours and longer as needed.
 
-36- What is the typical size for a Scrum Team?
+**36- What is the typical size for a Scrum Team?**
 - (choose the best answer)
 - A. 7 plus or minus 2.
 - B. 9.
 - C. Minimum of 7.
 - :white_check_mark: **D. 10 or fewer.**
 
-37- The length of a Sprint should be:
+**37- The length of a Sprint should be:**
 - (choose the best answer)
 - A. Short enough to keep the business risk acceptable to the Product Owner.
 - B. Short enough to be able to synchronize the development work with other business events.
 - C. One month or less.
 - :white_check_mark: **D. All of the above.**
 
-38- Who is responsible for managing the progress of work during a Sprint?
+**38- Who is responsible for managing the progress of work during a Sprint?**
 - (choose the best answer)
 - A. The most junior member of the team.
 - B. The Scrum Master.
 - C. The Product Owner.
 - D. :white_check_mark: **The Developers.**
 
-39- True or False: The purpose of a Sprint is to produce a valuable and useful Increment of a usable product.
+**39- True or False: The purpose of a Sprint is to produce a valuable and useful Increment of a usable product.**
 -  :white_check_mark: **True**
 - False
 
-40- The timebox for the Sprint Planning event is?
+**40- The timebox for the Sprint Planning event is?**
 - (choose the best answer)
 - :white_check_mark: **A. 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.**
 - B. 4 hours.
 - C. Whenever it is done.
 - D. Monthly.
 
-41- When does a Sprint conclude?
+**41- When does a Sprint conclude?**
 - (choose the best answer)
 - A. When the Product Owner decides enough has been delivered to meet the Sprint Goal.
 - B. When all Product Backlog items meet their Definition of Done.
 - C. When all the tasks are completed by the Developers.
 - :white_check_mark: **D. When the Sprint Retrospective is complete.**
-
-  42- 
-
-
-
-
-
-
-
 
 # 17.07.2025 Scrum Master II: Exam Tips: Lesson 7
 - Agile Mindset:
