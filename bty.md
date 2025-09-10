@@ -48,6 +48,20 @@ G. Refinement.
 - :white_check_mark: **D. Teach the Developers to keep the Daily Scrum within the 15 minute timebox.**
 - E. All answers apply.
 
+**48- When many Scrum Teams are working on a single product, what best describes the Definition of Done?**
+- (choose the best answer)
+- A. It depends.
+- B. Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.
+- :white_check_mark: **C. All Scrum Teams must have a Definition of Done that makes their combined Increment valuable and useful.**
+
+**49- An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done?**
+
+- (choose the best answer)
+- A. Without a new vocabulary as a reminder of the change, very little change may actually happen.
+- B. The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
+- C. Management may feel less anxious.
+- :white_check_mark: **D. All of the above.**
+
 
 
 
