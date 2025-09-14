@@ -174,8 +174,8 @@ G. Refinement.
 - (choose the best three answers)
 - :white_check_mark: **A. Stakeholders attend the Daily Scrum to check on the Scrum Team’s progress.**
 - :white_check_mark: **B. The Developers invite external stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.**
-- :white_check_mark: **C. The Developers have all the skills they need to create a valuable, useful Increment.**
-- D. The Developers are working within the boundaries of their organization's functional description and nicely handing off work from analyst to developer to tester to integration.
+- C. The Developers have all the skills they need to create a valuable, useful Increment.
+- :white_check_mark: **D. The Developers are working within the boundaries of their organization's functional description and nicely handing off work from analyst to developer to tester to integration.**
 - E. The Developers are collaboratively selecting their own work during the Sprint.
 - F. The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
 
