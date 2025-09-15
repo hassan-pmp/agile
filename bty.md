@@ -1,5 +1,267 @@
 # Better Than Yesterday
 ---
+# 15.09.2025 PAL: Exam Tips: Lesson 3
+
+1- **Agile teams must balance many different objectives. Which one of the following is most important?**
+-	A. Improving efficiency.
+-	B. Delivering all “MUST HAVE” requirements.
+-	C. Controlling cost.
+-	:white_check_mark: **D. Improving customer satisfaction.**
+-	E. Meeting schedule commitments.
+
+2- **A new agile initiative is being mobilized, and you are the manager tasked with staffing the teams. How do you decide which team each member should belong to?**
+-	A. Group people together based on which components of the system they are most familiar with.
+-	B. Assign people to teams in such a way that balances skills, experience, and seniority as evenly as possible.
+-	C. Group people together who already know each other from previous teams.
+-	D. Group people together who have a similar skillset to maximize efficiency and utilization.
+-	:white_check_mark: **E. Bring together interested people, discuss product goals, remind teams that they need to balance skills and experience, and let the teams self-organize.**
+
+3- **What is the primary benefit of an agile approach as compared to a traditional up-front approach?**
+-	A. To utilize resources efficiently.
+-	B. To minimize risks.
+-	:white_check_mark: **C. To maximize value.**
+-	D. To deliver on-time, on-budget, and on-scope.
+
+4- **One of the newest and least experienced Scrum Teams in your organization has 7 members: 3 are in London (UK), 1 is in Paris (FR), and 3 are in Mumbai (IN). What outcome would you expect?**
+-	:white_check_mark: **A. The team will likely need help with communication and knowledge sharing challenges.**
+-	B. Having team members in multiple locations actually increases productivity because the work can “follow the sun.”
+-	C. The cost of delivering the product will be significantly lower than if all team members were together in London (UK).
+-	D. Each location should have an on-site Scrum Master.
+
+5- **Value stream mapping is a useful technique to:**
+-	A. Understand how to break down work and assign it to teams.
+-	B. Enable a Portfolio view of your “Epics.”
+-	C. Understand how to break down epics into smaller user stories.
+-	:white_check_mark: **D. Identify sources of waste and activities that do not add value in a process.**
+-	E. Understand customer requirements.
+
+
+6- **True or False: The most important function of an Agile manager is to set goals and hold people accountable for their commitments.**
+-	True
+-	:white_check_mark: **False**
+
+
+7- **Question: What’s the best way for you to help the Scrum Master?**
+-	:white_check_mark: **A. Work with the PO and her manager to ensure her participation is high enough so the team can deliver value.**
+-	B. Ask the PO’s manager to find a different PO with more availability.
+-	C. Help Scrum Master find a delegate to represent business priorities when PO isn’t present.
+-	D. Tell Scrum Master to help Developers do their best, document decisions, and escalate problems to you.
+
+9- **Teams need production-like test environments early to test scalability. Current process only allows access very late (final acceptance). These environments are expensive and shared. You must decide how to support the teams.Question: Which two strategies would you pursue?**
+-	A. Tell teams to simulate as best as possible, then release and let customers determine scalability.
+-	:white_check_mark: **B. Help them find simulation software to partially emulate the production-like environment.**
+-	:white_check_mark: **C. Work with teams to develop a business case for procuring/gaining access to the necessary environment.**
+-	D. Add time to the release schedule to account for late defects and rework.
+
+10- **You manage a product development organization and have several agile teams working on one product. How can you find out which team is performing the best?**
+-	:white_check_mark: **A. Comparing team performance often leads to unhealthy behaviors. Instead, focus on identifying and eliminating impediments that hinder team performance.**
+-	B. You need to look at several trends of different measures such as velocity, defects, and technical debt to get a picture of how the team is performing.
+-	C. You need to normalize the estimates across the Scrum Teams and based on that create a balanced scorecard.
+-	D. The one with the highest velocity is performing the best.
+
+11- **A Scrum Team is struggling because team members are regularly pulled away to handle requests from other teams, causing them to miss Sprint Goals. As a Manager, what should you do to solve this problem? (choose two best answers)**
+-	:white_check_mark: **A. Ask for more people on the team to compensate for the interruptions.**
+-	B. Coach the Scrum Team to be more conservative in defining their Sprint Goal, accounting for interruptions.
+-	C. Extend the length of a Sprint if they need more time.
+-	:white_check_mark: **D. Work with the Scrum Team and other teams to reassign interrupting work away from the Scrum Team.**
+-	E. Make their Sprints longer to account for interruptions.
+
+
+12- **Which of the following will NOT help a team increase its frequency of delivery?**
+-	A. Reducing cross-team dependencies.
+-	B. Product Backlog refinement.
+-	:white_check_mark: **C. Synchronizing release schedules across teams.**
+-	D. Automating delivery processes.
+
+13- **What is a primary benefit of an agile approach?**
+-	A. It helps organizations to deliver on commitments.
+-	:white_check_mark: **B. It helps organizations better deliver value and satisfy customers.**
+-	C. It helps organizations reduce cost.
+-	D. It helps organizations to deliver more quickly.
+
+14- **Scrum Teams are most effective when:**
+-	:white_check_mark: **A. They consist of team members who work only on one product and team at a time, so that they can focus.**
+-	B. They consist of team members who are shared across multiple initiatives at a time, since then they can take advantage of time otherwise spent waiting to do productive work.
+-	C. They consist of people who have mostly deeply specialized skills.
+-	D. They consist of team members who have broad enough skills to do many kinds of work, but who are not deeply specialized in any one area.
+
+15- **The primary benefit of an Agile approach is:**
+-	:white_check_mark: **A. It enables a team to inspect and adapt their results by delivering a working product.**
+-	B. Planning and executing in shorter Increments makes up-front planning more precise.
+-	C. Using it makes it easier to meet tight time-to-market goals.
+-	D. Using it makes it easier to deliver on-time and within-budget.
+
+16- **When a Scrum Team fails to deliver a working product Increment for several Sprints in a row, who is accountable for resolving this situation?**
+-	A. The Developers
+-	B. The Product Owner
+-	C. The Team Lead
+-	D. The Project Manager
+-	:white_check_mark: **E. The Scrum Team**
+-	F. All the above
+
+17- **Your organization wants to improve its Time-to-Market. Which of the following improvements would help best?**
+-	A. Creating a centralized team to handle all product releases.
+-	:white_check_mark: **B. Reducing the size of each release to deliver fewer features.**
+-	C. Splitting the product into components that are developed in parallel.
+-	D. Establishing a common release schedule for all products.
+
+18- **Of the following choices, what is the most effective way a Scrum Master can keep a Scrum Team working at its highest level of productivity?**
+-	A. Keep high value features high in the Product Backlog.
+-	B. Run the Daily Scrum.
+-	C. Ensure the meetings start and end at the proper time.
+-	D. Prevent changes to the backlogs once the Sprint begins.
+-	:white_check_mark: **E. Facilitate Scrum Team decisions and remove impediments.**
+
+19- **A Scrum Team requests to add two more Developers to increase capacity. You have budget and headcount. The Scrum Team has a strong track record. What do you do?**
+-	A. You write the job description, do initial screening, then pass candidates to the Scrum Team to interview and decide.
+-	:white_check_mark: **B. Introduce them to Talent Management, who will help the Scrum Team recruit, interview, and make a hiring decision.**
+-	C. Let the Scrum Team screen candidates, then pass candidates to you for final hiring decision.
+
+20- **Scenario**
+- Susan (a Developer) is frustrated because her expertise isn’t respected in team decisions.
+- She asks you (the manager) to get other team members to consult her on tech decisions.
+- You respect her opinion, but Scrum values self-management → the team decides together.
+- **Question: How do you respond?**
+-	A. Encourage Susan to work with the Scrum Master to improve her coaching/mentoring skills.
+-	B. Move Susan to another project where she’ll be more respected.
+-	C. Meet with the team and tell them Susan’s views should be respected.
+-	:white_check_mark: **D. Ask Susan if she has discussed this with her team and raised it with the Scrum Master.**
+
+21- **As a manager, you notice Developers don’t feel connected to the work, lack engagement, and seem to just go through the motions. What should you do?**
+-	A. Implement a reward system based on customer satisfaction improvements.
+-	B. Create a bonus pool with monthly awards for top contributors.
+-	C. Hold a team-building event with motivational speakers and activities.
+-	:white_check_mark: **D. Help the team to create a shared and compelling vision for the product.**
+
+22-	**Scenario**
+- Current system: yearly individual bonuses for only a few “top performers.”
+- Problem: creates unfairness, since Scrum relies on teamwork, not individual heroics.
+- Teams ask to move toward team bonuses.
+- **Question: What needs to be done?**
+-	:white_check_mark: **A. Allocate the bonus to the team and let them decide how to split up the bonus.**
+-	B. Nothing; keep rewarding high-performers individually.
+
+23- **Scenario:**
+- A subject matter expert (stakeholder + employee) thinks a new Scrum Team lacks critical skills.
+- He suggests replacing some team members with others who have stronger skills.
+- You need to decide how to respond.
+-	A. Hire external consultants to fill the Scrum Team’s skills gap.
+-	B. Trade people between teams to address the skill shortage.
+-	C. Consult other experts to check if the subject matter expert is correct.
+-	:white_check_mark: **D. Recommend that the subject matter expert raise the concern with the Scrum Team, leave the decision to the Scrum Team, and offer support as needed.**
+
+24- **Who is accountable for ensuring that the product has value for its users/customers?**
+-	A. The Scrum Master
+-	:white_check_mark: **B. The Product Owner**
+-	C. The Team Lead
+-	D. The Project Manager
+-	E. The Developers
+-	F. All the above
+  
+25- **Your manager asks you to create a plan for the next fiscal year describing what will be delivered. What is the best way to proceed?**
+-	A. Work with specialists from each team to build an estimated backlog you can translate into a Gantt chart.
+-	B. Ask each Scrum Team to estimate the backlog, normalize story points across teams, and combine estimates.
+-	C. Use your knowledge to make the plan and negotiate later with the Scrum Team.
+•	:white_check_mark: **D. Work with the Product Owner(s) to analyze current delivery capabilities against demand, then use that data to build a probabilistic forecast of what might be achieved.**
+
+26- **What traditionally “good” behavior can impede the adoption of an agile culture?**
+-	A. Encouraging specialization.
+-	B. Rewarding outstanding individual performance.
+-	C. Enforcing organization-level technology standards.
+-	D. Rewarding high utilization.
+-	E. Managing to fixed-scope, schedule, and budget goals.
+-	:white_check_mark: **F. All the above.**
+
+27- **What measure does NOT provide relevant or useful information about a team’s ability to deliver value to the user/customer in the future?**
+-	A. Consistent achievement of Sprint Goals.
+-	:white_check_mark: **B. Story points delivered trends.**
+-	C. User/customer satisfaction trends.
+-	D. Technical debt trends.
+
+28- **Which of the following is NOT true of cross-functional teams?**
+-	A. Team members have a greater opportunity to deliver product Increment that delivers value to users.
+-	B. Cross-functional teams encourage team members to step outside their comfort zone to get things done.
+-	C. Team members have more opportunities to grow their skills by learning from others.
+-	:white_check_mark: **D. Cross-functional teams help team members develop deep technical specializations.**
+-	E. The team spends less time waiting on people outside the team to get things done.
+
+29- **Scenario:**
+- Developers are near the end of a Sprint.
+- They ask for 3 extra days to finish, fearing they’ll look bad to stakeholders.
+- Stakeholders are already skeptical about Agile.
+- You (as Product Owner) must respond.
+-	A. Ask Developers to work longer hours.
+-	B. Cut back on testing/leave some items incomplete to “substantially” meet the goal.
+-	C. Extend the Sprint and ask the team to be more realistic in future planning.
+-	:white_check_mark: **D. Do not extend the Sprint; stick to the timebox. Work with stakeholders to explain why transparency and openness are important.**
+-	E. Ask Developers to commit to what was agreed and find a solution.
+
+30- **Scenario:**
+- Disagreement among Developers about the technical approach.
+- Debate is heated, no compromise found.
+- You are the manager. How should the team proceed?
+-	A. The Product Owner should decide which approach to take.
+-	B. The Scrum Master should decide which approach to take.
+-	C. You, as a manager, should decide which approach to take.
+-	:white_check_mark: **D. The Developers should run an experiment to test the alternative approaches.**
+
+31- **Which of the following stances would make an agile initiative easier to approach?**
+-	:white_check_mark: **A. "Unexpected things will happen. If we learn from them, it is acceptable."**
+-	B. "Most projects fail because they did not focus enough on planning."
+-	C. "Projects fail because people lack initiative and do not take ownership."
+-	D. "I dislike surprises; they are a sign someone has not done their homework."
+-	E. "Successful projects finish on-time, on-budget, and deliver the agreed-upon features."
+-	F. "Stakeholders are the best judges of value delivered."
+-	G. "We value predictability above everything."
+-	H. "Managing to the plan is the mark of a great project manager."
+
+
+32- **Scenario:**
+- A Scrum Team is constantly interrupted by production incidents for a legacy system not related to their product.
+- A few team members have unique historical knowledge of that system.
+- **Question: How should the team manage these interruptions?**
+-	:white_check_mark: **A. Work with the Scrum Team to help transfer the knowledge to other teams better aligned with application support.**
+-	B. Put new development work on hold until production support is complete, since support is always more important.
+-	C. Have the Scrum Team fit in the work, even working overtime if needed.
+
+33- **Scenario:**
+- In the past, you used status reports and 1:1 meetings to understand team progress.
+- **Now, you want the same insight through Scrum, without adding extra meetings.**
+-	A. Assume the Scrum Master will ensure the team is working well.
+-	B. Talk to the Scrum Master for their view on performance.
+-	C. Attend Sprint Retrospectives to gain insights into how the team is working.
+-	:white_check_mark: **D. Stay informed about the Product Backlog and pay attention to improvement items from Retrospectives.**
+
+34- **Scenario:**
+- At a Sprint Review, the PO says Developers only delivered 5 of 7 Product Backlog items.
+- PO apologizes on behalf of the team and promises higher productivity in the next Sprint.
+- **What’s the right way to think about this?**
+-	A. The team needs to work on improving estimation ability.
+-	B. It’s at least good that the PO accepts responsibility and commits to improving.
+-	:white_check_mark: **C. The Developers should not commit to Product Backlog items, they should commit to a Sprint Goal.**
+-	D. The team has trouble with commitments; check Retrospective results to see improvement.
+
+35- **Scenario:**
+- Sales rep wants a feature to help close a deal.
+- Product Owner believes there are higher-value items for long-term success.
+- Sales rep asks you (manager) to intervene.
+-	A. Reach out to Developers for support, hoping to sway the decision.
+-	B. Ask the PO to implement the feature anyway to close the deal.
+-	C. Lobby other stakeholders to pressure the PO.
+-	white_check_mark: **D. Support the PO’s decision to focus on broader long-term market needs.**
+
+36- **Scenario:**
+-	You’re reviewing progress reports across Scrum Teams.
+-	Most teams’ velocity: 35–40 story points per Sprint.
+-	One team: 15–20 points per Sprint.
+-	**Question: Is this cause for concern?**
+-	A. Not a concern; the team will probably increase velocity over time.
+-	B. Concern: they haven’t calibrated story points with the rest.
+-	C. Concern: they’re performing worse than the rest.
+-	D. Concern: the Product Owner isn’t pushing hard enough.
+-	:white_check_mark: **E. Not a concern; velocity is not a meaningful measure of value delivered.**
+-	F. Concern: the Scrum Master isn’t making the team productive enough.
+
 # 10.09.2025 PAL: Exam Tips: Lesson 2
 **42- The length of a Sprint should be:**
 - (choose the best answer)
