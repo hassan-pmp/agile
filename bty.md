@@ -1,5 +1,11 @@
 # Better Than Yesterday
 ---
+# 18.09.2025 Scrum II: Exam Tips: Lesson 2
+
+
+
+
+
 # 15.09.2025 PAL: Exam Tips: Lesson 3
 
 1- **Agile teams must balance many different objectives. Which one of the following is most important?**
