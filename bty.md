@@ -17,7 +17,11 @@
 - C-When the PO evaluates the work delivered bt the Developers and considers it to be done.
 - D-Last daz of the month
 
-
+**Which of the following is valid reason for the Scrum Master to be at the Daily Scrum?**
+- A- To register the progress
+- B- To define the sqquence in which each team member answer the three questions
+- :white_check_mark: **C- The Scrum Master does not have to be at the Scrum Daily, however, s/he must ensure that it is held by the Developers.**
+- D-To collect the status form the Developers and, if necessary, report to upper management. 
 
 
 # 15.09.2025 PAL: Exam Tips: Lesson 3
