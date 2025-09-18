@@ -6,7 +6,7 @@
 - B. True
 
 - **Consider that the first Sprint has just ended. When the second Sprint begin?**
-- :white_check_mark: **A-Immediately **
+- :white_check_mark: **A-Immediately**
 - B-Just after Sprint's Planning
 - C-When the Product Backlog items are redy
 - D-Next Week
