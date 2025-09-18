@@ -17,12 +17,30 @@
 - C-When the PO evaluates the work delivered bt the Developers and considers it to be done.
 - D-Last daz of the month
 
-**Which of the following is valid reason for the Scrum Master to be at the Daily Scrum?**
+3- **Which of the following is valid reason for the Scrum Master to be at the Daily Scrum?**
 - A- To register the progress
 - B- To define the sqquence in which each team member answer the three questions
 - :white_check_mark: **C- The Scrum Master does not have to be at the Scrum Daily, however, s/he must ensure that it is held by the Developers.**
 - D-To collect the status form the Developers and, if necessary, report to upper management. 
 
+4- **Which statement best describe the Sprint Review?**
+
+- A- Iy is when management verifies the tasks performed by the Developers during a Sprint.
+- B- :white_check_mark: **It is an opportunity for the Scrum Team and invited stakeholders to inspect the Increament and adapt the Product backlog.**
+- C- It us when the Scrum Team demonstrates the work done for everyone in the organization
+
+5- **The Sprint Review is time-box to?**
+- A- Once a Sprint
+- B- 4 hourse
+- :white_check_mark: **C- 4 hours for a monthly Sprint, it is usually shorter for shorter Sprints**
+- D- As long as the PO needs.
+- E- 3 hours for a monthly Sprint. It is usually shorter for shprter Sprints. 
+
+6- **The Sprint Review is a Formal meeting for demonstraiting the increment?**
+- A- True
+- :white_check_mark: **B- False**
+
+7-  
 
 # 15.09.2025 PAL: Exam Tips: Lesson 3
 
