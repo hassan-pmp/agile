@@ -40,7 +40,14 @@
 - A- True
 - :white_check_mark: **B- False**
 
-7-  
+- **Retrospective**
+  - Interpersonal Issues?
+  - Product Quality issues?
+  - DoD appropriate?
+  - Productivity issues?
+  - Process Issues?
+
+ -    
 
 # 15.09.2025 PAL: Exam Tips: Lesson 3
 
