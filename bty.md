@@ -1,6 +1,7 @@
 # Better Than Yesterday
 ---
-# 18.09.2025 Scrum II: Exam Tips: Lesson 2
+# 18.09.2025 Scrum Master II: Exam Tips: Lesson 8
+-
 
 
 
