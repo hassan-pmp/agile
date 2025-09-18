@@ -1,7 +1,7 @@
 # Better Than Yesterday
 ---
 # 18.09.2025 Scrum Master II: Exam Tips: Lesson 8
-- **The only valid reason for having a Sprint to be cancelled is the Sprint Goal becoming obsolete, but only the Developers can make such decision**.
+1- **The only valid reason for having a Sprint to be cancelled is the Sprint Goal becoming obsolete, but only the Developers can make such decision**.
 - :white_check_mark: **A. False**
 - B. True
 
@@ -11,7 +11,7 @@
 - C-When the Product Backlog items are redy
 - D-Next Week
 
-- **When is a Sprint over?**
+2- **When is a Sprint over?**
 - :white_check_mark: **A- When the time-box is over**
 - B-When all the work planned for the Sprint is "Done"
 - C-When the PO evaluates the work delivered bt the Developers and considers it to be done.
