@@ -47,7 +47,12 @@
   - Productivity issues?
   - Process Issues?
 
- -    
+- 7- **Who must participante on Sprint Retrospective?**
+- A- SM and Developers
+- :white_check_mark: **B- Scrum team**
+- C- SM and Key Stakeholders
+- D- Developers and Project Managers
+- E-Developers and PO    
 
 # 15.09.2025 PAL: Exam Tips: Lesson 3
 
