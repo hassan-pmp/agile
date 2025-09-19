@@ -1,5 +1,136 @@
 # Better Than Yesterday
 ---
+# 19.09.2025 Scrum Master II: Exam Tips: Lesson 9
+1- **Who describe the DoD in the case od multiple Scrum Team working on a single product?**
+- :white_check_mark: **A- All the Scrum teams must mutually define the DoD**
+- B- It deponds on the type of product
+- C- Each Scrum team defines its own
+2- **When multiple teams work together on the same product, each team has its own PO. Therefore, it is possible to have multiple POs for the same product?**
+- A- True
+- :white_check_mark: **B- False**
+
+3- Which events are time-boxed according to the Scrum Guide?
+- a. Sprint 0.
+- b. Project Retrospective.
+- c. Sprint Review.
+- d. Design Sprint.
+- e. Stabilization.
+- f. The Sprint.
+- g. Daily Scrum.
+- :white_check_mark: **c,f,g are True**
+
+4- **The Scrum Team is composed of:**
+- I. The Scrum Master
+- II. The Developers
+- III. The Product Owner
+- IV. Quality Analyst
+- V. Team Project Manager
+- VI. UX Designer
+- :white_check_mark: **I,II and III are True**
+
+5- **Who creates the Definition of Done?**
+- :white_check_mark: **The development organization and /or yje Scrum team**
+
+6- **Who is accountable for developing and explicitly communicating the Product Goal?**
+- :white_check_mark: **The Product Owner**
+
+7-  **Scrum is:**
+- :white_check_mark: **A lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems**
+
+8- **True or False: Practices to forecast progress can replace empiricism.**
+- True
+- :white_check_mark: **Fasle**
+
+9- **The Sprint Review is ...**
+- :white_check_mark: **it is held at the end of the Sprint to inspect the outcome of the Sprint and determine future adaoption**
+
+10- **Scrum is based upon a specific type of process control. What is its name?**
+- :white_check_mark: **Empiricism**
+
+11- **What is Management's role in Scrum?**
+- :white_check_mark: **Support Scrum Team, giving them healthy working conditions, insights, and information into high-value product and system capabilities.**
+
+12- **True or False: The Sprint's purpose is to create a Done, useable product Increment**
+- False
+- :white_check_mark: **True**
+
+13- Which of the below are accountabilities on a Scrum Team?
+- I. Developers.
+- II. Product Owner.
+- III. Users
+- IV. Scrum Master
+- V. Quality Manager
+- :white_check_mark: **I,II, and IV**
+
+14- **Which of the following four behaviors demonstrate that a team is NOT following the Scrum Guide?**
+  - I. Project Stakeholders attend the Daily Scrum to check progress.
+  - II. External stakeholders participate during Sprint Planning, assisting the Developers in turning a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
+  - III. The Scrum Team is structured and empowered by the organization to organize and manage its work.
+  - IV. The Developers work given their functional description such as analyst, developer, and tester.
+  - V. Developers individually select their work during the Sprint.
+  - VI. The Developers own the Sprint Backlog.
+- :white_check_mark: **I,II,IV, and V**
+  
+15- **Which of the following best describes transparency?**
+- :white_check_mark: **The emergent process and work must be visible to those performing the work as well as those receiving the work**
+
+16- **Which of the following statements is FALSE?**
+-  :white_check_mark: **The Sprint Backlog is defined during the Sprint Planning meeting and must not be changed during the Sprint**
+
+17- **What are Developers supposed to do when they have trouble working on a Product Backlog Item because they do not understand it?**
+- :white_check_mark: **Discuss with the PO to see better understand the work to be done**
+
+18- **True or False: In Scrum, one must use User Stories.**
+- True
+- :white_check_mark: **False**
+
+19- **Which of the Scrum events is the most appropriate for capturing and using lessons learned?**
+- True
+- :white_check_mark: **False**
+
+20- True or False: Scrum is a methodology for developing, delivering, and sustaining complex products.
+- True
+- :white_check_mark: **False**
+
+21- **Choose the statement that best describes the Product Backlog:**
+- :white_check_mark: **
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
 # 18.09.2025 Scrum Master II: Exam Tips: Lesson 8
 1- **The only valid reason for having a Sprint to be cancelled is the Sprint Goal becoming obsolete, but only the Developers can make such decision**.
 - :white_check_mark: **A. False**
