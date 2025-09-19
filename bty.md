@@ -365,27 +365,70 @@
 - :white_check_mark: **The Product Owner.**
 - :white_check_mark: **The Developers.**
 
-
-
-
 94- **Your Scrum Team’s impediment list is growing. Which techniques would be most helpful in this situation? (choose the best two answers)**
 - :white_check_mark: **The Scrum Team prioritizes the list and works on them in order**
 - :white_check_mark: **The Scrum Master discusses the impediments with the Scrum Team**
 
 
-95-
+95- **What are the characteristics of a Scrum Team? (choose the best three answers)**
+- :white_check_mark: **Accountability belongs to the Scrum Team as a whole**
+- :white_check_mark: **Cross-functional**
+- :white_check_mark: **Scrum recognizes no sub-teams or hierarchies, within a Scrum Team**
+
+
+96- **How regularly should Scrum users examine Scrum artifacts and progress approaching a Sprint Goal? (choose the best answer)**
+- :white_check_mark: **Frequently, but it should not get in the way of the work**
+
+
+97- **Who has the authority to cancel the Sprint? (choose the best answer)**
+- :white_check_mark: **The Product Owner**
+
+
+98- **The Sprint Backlog consists of what? (choose the best answer)**
+- :white_check_mark: **The Sprint Goal, the set of Product Backlog items selected for the Sprint, plus an actionable plan for delivering the product Increment.**
+
+
+99-  **The Scrum Team can only pursue one Product Goal at a time.**
+- False
+- :white_check_mark: **True**
+100- **Select the two most suited items that should be taken into the reckoning for the Definition of Done? (choose the best two answers)**
+- :white_check_mark: **The standards of the Organization**
+- :white_check_mark: **Definition of Done of other Scrum Teams working on the same Product**
+
+101- **When is an item in the Sprint Backlog considered complete? (choose the best answer)**
+- :white_check_mark: **When it meets the Definition of Done.**
+
+102- **What should be the length of a Sprint? (choose the best two answers)**
+- :white_check_mark: **Short enough to keep the business risks acceptable**
+- :white_check_mark: **At most, one month**
+
+103- **Which of the following are actions that The Scrum Master must do regarding the Daily Scrum? (choose the two best answers)**
+- :white_check_mark: **The Scrum Master ensures that the Developers has the meeting**
+- :white_check_mark: **The Scrum Master teaches the Developers to keep the Daily Scrum within the 15-minute time-box**
+
+104- **During Sprint Planning, the Developers must plan the work for all days of the Sprint. It is decomposed by the end of this meeting, often to units of one day or less. (choose the best answer)**
+- :white_check_mark: **No, this is not a rule and it is up to the Developers to plan the work necessary to create an Increment that meets the Definition of Done.**
+
+105- **The Increment is: (choose the best answer)**
+- :white_check_mark: **Additive to all prior Increments and thoroughly verified, ensuring that all Increments work together.**
+
+106- **According to the Scrum framework, the Scrum components and rules for the project are chosen depending on the project's specific characteristics.**
+- True
+- :white_check_mark: **False**
+
+107- **Who is allowed to change the actionable plan for delivering the Increment? (choose the best answer)**
+- :white_check_mark: **The Developers**
+
+108- **The Definition of Done is created during the first Sprint and remains unchanged until the end of the project.**
+- True
+- :white_check_mark: **False**
+
+109- **At some point during the product development cycle, a key stakeholder started using the product and was unhappy with its quality. Thus, he made his concern very clear to the Product Owner. According to the key stakeholder, the product’s performance was below what he expected. Thus, the Product Owner went to talk to you, the Scrum Master, about this issue. What should you tell her? (choose the best two answers)**
+- :white_check_mark: **Coach the Product Owner on how to address the Developers about this issue**
+- :white_check_mark: **Encourage the Product Owner to add Product Backlog items focusing on the given quality concerts and express the stakeholder's concern to the Developers**
+
+110- **At some point, several of the Developers from a Scrum Team come to you, the Scrum Master, complaining that the work identified for the upcoming Sprint will require a full-time commitment from a specialist who is external to the teams. What should you consider in this situation? (choose the best two answers)**
 - :white_check_mark: **
-96-
-- :white_check_mark: **
-97-
-- :white_check_mark: **
-98-
-- :white_check_mark: **
-99-
-- :white_check_mark: **
-100-
-- :white_check_mark: **
-  
 
 
 
