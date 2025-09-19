@@ -205,8 +205,125 @@
 42- **What's the role of a Scrum Master during Sprint Retrospectives?**
 - :white_check_mark: **Participating as a Scrum Team member**
 
-43- 
+43- **During Sprint Retrospective the definition of Done can not be reviewed and adapted.**
+- True
+- :white_check_mark: **False**
+
+44- **Which of the following are topics to be discussed during Sprint Retrospective? (choose the best two answers)**
+- :white_check_mark: **The team's collaboration**
+- :white_check_mark: **Identify the most helpful changes to improve its effectiveness**
+
+45- **What's the timeboxed duration of Sprint Review events? (choose the best answer)**
+- :white_check_mark: **Maximum 4 hours in a one-month Sprint, and usually shorter for shorter Sprints.**
+
+46- **Who is accountable for maximizing the value of the product resulting from the work of the Scrum Team? (choose the best answer)**
+- :white_check_mark: **The Product Owner**
+
+47- **What does a Sprint Burn-down Chart show? (choose the best answer)**
+- :white_check_mark: **How much work remains till the end of the Sprint**
+
+48- **Select the three most applicable items that Product Backlog management includes: (choose the best three answers)**
+- :white_check_mark: **Ensuring that the Product Backlog is transparent, visible, and understood**
+- :white_check_mark: **Ordering Product Backlog items**
+- :white_check_mark: **Developing and explicitly communicating the Product Goal**
+
+49- **What happens when a Sprint is canceled? (choose the best three answers)**
+- :white_check_mark: **All incomplete Product Backlog Items are re-estimated and put back on the Product Backlog**
+- :white_check_mark: **If part of the work is potentially releasable, the Product Owner typically accepts it**
+- :white_check_mark: **Any completed and "Done" Product Backlog items are reviewed**
+
+50- **What does the Cone of Uncertainty show? (choose the best answer)**
+- :white_check_mark: **How much is known about the Product over time.**
+
+51- **You are the Scrum Master of a Scrum Team that does not have the tools and environment to completely finish each of the selected Product Backlog items. Which of the following are appropriate for you to do? (choose the best two answers)**
+- :white_check_mark: **Coach the Scrum Team on defining a Definition of Done that is achievable given current circumstances**
+
+52- **Who is allowed to update the Product Backlog? (choose the best two answers)**
+- :white_check_mark: **The Product Owner.**
+- :white_check_mark: **The Developers, but the Product Owner remains accountable.**
+
+53- **Who is accountable for establishing Scrum? (choose the best answer)**
+- :white_check_mark: **The Scrum Master**
+
+54- **Select three of the following actions that Scrum Master may take in starting up a Scrum implementation: (choose the best three answers)**
+- :white_check_mark: **Ask the Product Owner to explain the product, its business need, history, goals, and context.**
+- :white_check_mark: **Ask the Developers to introduce themselves to each other and tell about their skills and background.**
+- :white_check_mark: **Ask the Developers to discuss and identify the way they are going to develop the product.**
+
+55- **What are the Scrum Artifacts? (choose all that apply)**
+- :white_check_mark: **Sprint Backlog.**
+- :white_check_mark: **Product Backlog.**
+- :white_check_mark: **Increment**
+
+56- **Scrum recommends having a “hardening” Sprint to remove all technical debt and prepare the Product for the upcoming release.**
+- True
+- :white_check_mark: **False**
  
+57-** What is the single source of requirements for any changes to be made to the product? (choose the best answer)**
+- :white_check_mark: **The Product Backlog**
+
+58- **Only people of the Scrum Team can participate in the Sprint Planning.** 
+- True
+- :white_check_mark: **False**
+
+59- **What is a possible result of the Sprint Review? (choose the best answer)**
+- :white_check_mark: **A revised Product Backlog that defines the probable Product Backlog items for the next Sprint**
+
+60- **What does the word “development” mean in the context of Scrum? (choose the best answer)**
+- :white_check_mark: **Complex work that can include all the suggested options and even more**
+
+70- **Which of the following are applicable characteristics of the Product Owner? (choose the best four answers)**
+  - :white_check_mark: **Product Value Maximizer**
+  - :white_check_mark: **Product Marketplace Expert**
+  - :white_check_mark: **Lead Facilitator of Key Stakeholder Involvement**
+  - :white_check_mark: **Product Visionary**
+
+71- **Select the two essential features of a Scrum Team: (choose the best two answers)**
+  - :white_check_mark: **It should choose how best to accomplish their work, rather than being directed by others outside the team**
+  - :white_check_mark: **It should have all the skills necessary to create value each Sprint**
+
+72- **True or False: The Product Owner is the only person responsible for engaging the stakeholders**
+  - True
+- :white_check_mark: **False**
+
+73- **Which of the following is false with regards to what happens during the Sprint? (choose the best two answers)**
+- :white_check_mark: **Sprint scope is defined at the Sprint Planning and cannot be changed**
+- :white_check_mark: **The Sprint Goal is changed frequently to reflect the status of the remaining work**
+
+74- **What is the fundamental unit of Scrum? (choose the best answer)**
+- :white_check_mark: **A small team of people.**
+
+75- **How does the Scrum Master help the Product Owner? (choose the best three answers)**
+- :white_check_mark: **Facilitating stakeholder collaboration as requested or needed**
+- :white_check_mark: **Helping find techniques for effective Product Backlog management**
+- :white_check_mark: **Helping the Scrum Team understand the need for clear and concise Product Backlog items**
+
+76- **Who is responsible for defining the Sprint Goal during Sprint Planning? (choose the best answer)**
+- :white_check_mark: **The Scrum Team**
+
+77- **Who is accountable for creating a valuable, useful Increment every Sprint. (choose the best answer)**
+- :white_check_mark: **The Scrum Team.**
+
+78- **Which of the following is Scrum founded upon? (choose the best two answers)**
+- :white_check_mark: **Lean Thinking**
+- :white_check_mark: **Empiricism**
+
+
+  
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
 
 
 
