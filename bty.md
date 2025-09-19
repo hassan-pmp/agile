@@ -308,7 +308,50 @@
 - :white_check_mark: **Lean Thinking**
 - :white_check_mark: **Empiricism**
 
+79- 
+- :white_check_mark: **
 
+80-
+- :white_check_mark: **
+81-
+- :white_check_mark: **
+82-
+- :white_check_mark: **
+83-
+- :white_check_mark: **
+84-
+- :white_check_mark: **
+85-
+- :white_check_mark: **
+86-
+- :white_check_mark: **
+87-
+- :white_check_mark: **
+89-
+- :white_check_mark: **
+- 
+90-
+- :white_check_mark: **
+91-
+- :white_check_mark: **
+92-
+- :white_check_mark: **
+93-
+- :white_check_mark: **
+94-
+- :white_check_mark: **
+95-
+- :white_check_mark: **
+96-
+- :white_check_mark: **
+97-
+- :white_check_mark: **
+98-
+- :white_check_mark: **
+99-
+- :white_check_mark: **
+100-
+- :white_check_mark: **
   
 
 
