@@ -428,9 +428,100 @@
 - :white_check_mark: **Encourage the Product Owner to add Product Backlog items focusing on the given quality concerts and express the stakeholder's concern to the Developers**
 
 110- **At some point, several of the Developers from a Scrum Team come to you, the Scrum Master, complaining that the work identified for the upcoming Sprint will require a full-time commitment from a specialist who is external to the teams. What should you consider in this situation? (choose the best two answers)**
-- :white_check_mark: **
+- :white_check_mark: **The ability of the Scrum Teams to produce Increments**
+- :white_check_mark: **The benefits of having the Developers figure out a solution for themselves**
+
+111- **What two things should happen with undone Product Backlog items at the end of the Sprint? (choose the best two answers)**
+- :white_check_mark: **They should be placed on the Product Backlog**
+- :white_check_mark: **They must not be included as part of the Increment**
+
+112- **Which of the following is true about Artifact's commitments? (choose the best answer)**
+- :white_check_mark: **They are mandatory.**
+
+113- **Which of the following is false about the Product Goal. (choose the best answer)**
+- :white_check_mark: **For the Product Goal to be fulfilled, the entire Product Backlog must be Done.**
+
+114- **What can Scrum be used for? (choose all that apply)**
+- :white_check_mark: **Develop products and enhancements.**
+- :white_check_mark: **Release products and enhancements, as frequently as many times per day.**
+- :white_check_mark: **Develop and sustain Cloud (online, secure, on-demand) and other operational environments for product use**
+- :white_check_mark: **Research and identify viable markets, technologies, and product capabilities.**
+- :white_check_mark: **Sustain and renew products.**
+
+115- **The Sprint for all the Scrum Teams working on the same product must start and end on the same date.**
+- True
+- :white_check_mark: **False**
+
+116- **You are a Scrum Master and about to begin working with five new Scrum Teams; all working on the same product. Which of the following should you strive for? (choose the best two answers)**
+- :white_check_mark: **There should be only a single Product Backlog**
+- :white_check_mark: **There should be only a single Product Owner**
+
+117- **How does the Scrum Master serve the Scrum Team? (choose the best three answers)**
+- :white_check_mark: **Coaching the team members in self-management and cross- functionality**
+- :white_check_mark: **Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done**
+- :white_check_mark: **Causing the removal of impediments to the Scrum Team's progress**
+
+118- **During a Sprint, the CEO asks the Developers to add an urgent item to the Sprint Backlog. What should the Developers do? (choose the best answer)**
+- :white_check_mark: **Inform the Product Owner so that the matter can be worked with the CEO**
+
+119- **Which of the following are commitments of Scrum Artifacts. (choose all that apply)**
+- :white_check_mark: **Product Goal**
+- :white_check_mark: **Sprint Goal**
+- :white_check_mark: **Definition of Done**
+
+121- **Which of the following is NOT correct about the Developers? (choose the best answer)**
+- :white_check_mark: **Explain the Product Backlog items**
+
+122- **What is Scrum? (choose the best answer)**
+- :white_check_mark: **Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.**
+
+123- **What should the Scrum Team do when during the Sprint Retrospective meeting, they identified some improvements that can be done? (choose the best answer)**
+- :white_check_mark: **The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.**
+
+124- **How does the Scrum Master serve the Organization? (choose the best answer)**
+- :white_check_mark: **Helping employees and stakeholders understand and enact an empirical approach for complex work.**
+
+125- **Who participates in Sprint Planning? (choose all that apply)**
+- :white_check_mark: **The Developers**
+- :white_check_mark: **The Scrum Master**
+- :white_check_mark: **The Product Owner**
+- :white_check_mark: **Invited people**
+
+126- **How does the Definition of Done (DoD) help the Scrum Team? (choose the best three answers)**
+- :white_check_mark: **DoD guides the Developers in knowing how many Product Backlog items it can select during Sprint Planning.**
+- :white_check_mark: **DoD is used to assess when work is complete.**
+- :white_check_mark: **DoD ensures artifact transparency.**
 
 
+
+127- **Which of the following are valid ways of dealing with regulatory compliance issues in Scrum? (choose the best two answers)**
+- :white_check_mark: **hey are treated as regular Product Backlog items and addressed in early Sprints. However, independent of the situation, every Sprint must have at least some business functionality, no matter how small.**
+- :white_check_mark: **Throughout the product development.**
+
+128- **Which of the following are characteristics of the Product Backlog? (choose all that apply)**
+- :white_check_mark: **It is continuously refined.**
+- :white_check_mark: **As long as a product exists, its Product Backlog also exists.**
+- :white_check_mark: **It is emergent.**
+
+129- **If any aspects of a process deviate outside acceptable limits so that the resulting product will be unacceptable, when must an adjustment be made? (choose the best answer)**
+- :white_check_mark: **As soon as possible to minimize further deviation.**
+
+130- **Select the five Scrum Values. (choose all that apply)**
+- :white_check_mark: **Respect**
+- :white_check_mark: **Openness**
+- :white_check_mark: **Courage, Commitment and Focus**
+- 
+
+131- **Select which are not part of the pillars that uphold Scrum?**
+- :white_check_mark: **Self-organization**
+- :white_check_mark: **Agility**
+- :white_check_mark: **Teamwork and Cross-functionality**
+
+132- **Which of the following are correct regarding the Product Goal? (choose the best four answers)**
+- :white_check_mark: **During the Sprint Review, progress toward the Product Goal is discussed.**
+- :white_check_mark: **An Increment is a concrete stepping stone toward the Product Goal.**
+- :white_check_mark: **The Scrum Team must only pursue one Product Goal at a time.**
+- :white_check_mark: **If there are multiple Scrum Teams working on the same product, they should share the same Product Goal.**
 
 
 
