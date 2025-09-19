@@ -151,7 +151,61 @@
   - IV. New features that are available for integration
 - white_check_mark: **I and III**
 
-31-  
+31- **What is the timeboxed duration of Sprint Planning in a one-month Sprint?**
+-  white_check_mark: **Max 8 hours**
+
+32- **Which of the following is not allowed in Scrum?**
+  - I. Release Planning
+  - II. Using Planning Poker
+  - III. Integration Sprints
+  - IV. Using User Stories
+  - V. Canceling a Sprint
+- white_check_mark: **III**
+
+33- **When there are multiple Scrum Teams working on the same product, their Sprints must start and end on the same day.**
+ - True
+- :white_check_mark: **False**
+
+34- **Adding new Developers to the Scrum Team may make a short-term reduction in productivity.**
+- False
+- :white_check_mark: **True**
+
+35- **The Product Backlog items consist of a description, order, and size.**
+ - True
+- :white_check_mark: **False**
+
+36- **Sprint Review is not a formal meeting.**
+- False
+- :white_check_mark: **True**
+
+37- **Which three of the following are not timeboxed?**
+  - I. Sprint Zero
+  - II. Sprint Review
+  - III. Product Backlog Refinement
+  - IV. Sprint
+  - V. Release Planning
+  - VI. Sprint Planning
+- :white_check_mark: **I,III, and V**
+
+38- **The self-managing Scrum Team chooses the Scrum artifacts needed for the project.** 
+- True
+- :white_check_mark: **False**
+
+39- **At one team, the performance is shown on a burn-down chart that everyone sees. In this case, The Scrum value demonstrated is:**
+- :white_check_mark: **Openness**
+
+40- **The Scrum Team might pursue multiple Product Goals.**
+- True
+- :white_check_mark: **False**
+
+41- **If a Product Backlog item is not Ready it can be considered for Sprint Planning**
+- False
+- :white_check_mark: **True**
+
+42- **What's the role of a Scrum Master during Sprint Retrospectives?**
+- :white_check_mark: **Participating as a Scrum Team member**
+
+43- 
  
 
 
