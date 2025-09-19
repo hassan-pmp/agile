@@ -93,8 +93,52 @@
 - :white_check_mark: **False**
 
 21- **Choose the statement that best describes the Product Backlog:**
-- :white_check_mark: **
+- :white_check_mark: **The Product Backlog does not get complete and is easy updated**
 
+22- **An organization adopted Scrum. During the adoption process, they changed Scrum terminology to better suit their culture. What are the possible effects of such a change?**
+  - I. Organizations must tailor Scrum to suit the project because this methodology is incomplete
+  - II. Organizations may feel less enthusiastic about the change.
+  - III. They will improve their outcomes in adopting Scrum this way.
+  - IV. The change might not be evident to everyone, and some advantages may be missed.
+- :white_check_mark: **II and IV**
+
+23- **The first Sprint can only be started after the Product Backlog is complete.**
+- True
+- :white_check_mark: **False**
+
+24- **The velocity of Scrum Teams should be normalized so that administrators can measure and compare their performance**
+- True
+- :white_check_mark: **False**
+
+25- **Choose three alternatives that may occur at the Sprint Retrospective meeting:**
+  - I. To refine the Product Backlog.
+  - II. To talk about the upcoming Sprint goal.
+  - III. To talk about what (from the Product Backlog) will be used for the upcoming Sprint.
+  - IV. To talk about how, throughout the Sprints, Product Backlog Refinement is done.
+  - V. To discuss the timeboxed duration of Sprints.
+  - VI. To discuss progress toward the Product Goal.
+  - VII. To discuss the Definition of Done.
+- :white_check_mark: **IV, V, and VII**
+
+26- **Choose the best option that precisely describes the effects of changes in the project environment of the Product Backlog:** 
+- :white_check_mark: **it gets refined to consider the changes**
+
+27- **Which events of the following are formal opportunities for inspecting and adapting (feedback loops) in Scrum?**
+  - I. Sprint Review
+  - II. Product Backlog Refinement
+  - III. Sprint Planning
+  - IV. Release Planning
+  - V. Sprint Retrospective
+  - VI. Daily Scrum
+- :white_check_mark: **I,III,V, and VI**
+
+28- The Scrum Master can not be a Developer.  
+ - True
+- :white_check_mark: **False**
+
+29-
+
+30-
 
 
 
