@@ -136,9 +136,23 @@
  - True
 - :white_check_mark: **False**
 
-29-
+29- **Choose two alternatives among the statements below that are true about an undone Product Backlog item.**
+  - I. Consider the done part of the item in velocity calculation and then create a new item in the Product Backlog for the remaining work.
+  - II. Demonstrate it in the Sprint Review meeting, even if it is not within the terms of acceptance. It is important to get feedback.
+  - III. Move it back to the Product Backlog.
+  - IV. Do not include it in the Increment.
+  - V. It could be added to the Increment if it does not fail in the user acceptance tests.
+- white_check_mark: **III, and IV**
 
-30-
+30- **Choose two alternatives among the items below that can be appraised as real outputs of a Sprint.**
+  - I. Done features added to the last version of the Increment developed last Sprint.
+  - II. A proposal for the following Sprints
+  - III. A part of the software that is available to the end-users
+  - IV. New features that are available for integration
+- white_check_mark: **I and III**
+
+31-  
+ 
 
 
 
