@@ -283,7 +283,7 @@
   - :white_check_mark: **It should have all the skills necessary to create value each Sprint**
 
 72- **True or False: The Product Owner is the only person responsible for engaging the stakeholders**
-  - True
+- True
 - :white_check_mark: **False**
 
 73- **Which of the following is false with regards to what happens during the Sprint? (choose the best two answers)**
@@ -308,38 +308,71 @@
 - :white_check_mark: **Lean Thinking**
 - :white_check_mark: **Empiricism**
 
-79- 
-- :white_check_mark: **
+79- The Sprint Backlog is created at Sprint Planning. It is prohibited to add new work into the Sprint Backlog later by the Developers.
+- True
+- :white_check_mark: **False**
 
-80-
-- :white_check_mark: **
-81-
-- :white_check_mark: **
-82-
-- :white_check_mark: **
-83-
-- :white_check_mark: **
-84-
-- :white_check_mark: **
-85-
-- :white_check_mark: **
-86-
-- :white_check_mark: **
-87-
-- :white_check_mark: **
-89-
-- :white_check_mark: **
-- 
-90-
-- :white_check_mark: **
-91-
-- :white_check_mark: **
-92-
-- :white_check_mark: **
-93-
-- :white_check_mark: **
-94-
-- :white_check_mark: **
+80- **What is the Sprint Retrospective? (choose the best answer)**
+- :white_check_mark: **It is an opportunity for the Scrum Team to plan ways to increase quality and effectiveness.**
+81- **Refinement usually consumes how much of part of the capacity of the Scrum Team? (choose the best answer)**
+- :white_check_mark: **It is up to the Scrum Team.**
+  
+82- **The Scrum Master does not help those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t.**
+- True
+- :white_check_mark: **False**
+
+  
+83- **Ordinarily, items on the Sprint Backlog tend to be... (choose the best answer)**
+- :white_check_mark: **Smaller than those on the Product Backlog**
+
+
+84- **You are the Scrum Master of a Scrum Team. What are the two primary ways that you can help it to become more productive? (choose the best two answers)**
+- :white_check_mark: **By facilitating Scrum decisions**
+- :white_check_mark: **By causing the removal of impediments to the Scrum Team's progress**
+
+85- **The Scrum framework consists of what? (choose all that apply)**
+- :white_check_mark: **Events**
+- :white_check_mark: **Artifacts**
+- :white_check_mark: **Accountabilities**
+
+
+86- **The Product Owner and the Scrum Master cannot be a part of Developers**
+- True
+- :white_check_mark: **False**
+
+
+87- **Which statement is correct about the Sprint Backlog? (choose the best answer)**
+- :white_check_mark: **It has just enough detail.**
+
+
+89- **In which Scrum event do key stakeholders collaborate with the Scrum Team about the outcome of the Sprint and future adaptations? (choose the best answer)**
+- :white_check_mark: **The Sprint Review**
+
+
+90- **Which of the following ways of forming Scrum Teams meet Scrum´s values? (choose the best two answers)**
+- :white_check_mark: **Bring all the candidate members together and let them organize into Scrum Teams**
+- :white_check_mark: **Existing teams propose the new Scrum Teams**
+
+91- **Who is accountable for managing the Product Backlog? (choose the best answer)**
+- :white_check_mark: **The Product Owner**
+
+  
+92- **Who is responsible for creating the Definition of Done? (choose the best answer)**
+- :white_check_mark: **The Scrum Team**
+93- **Who attends the Sprint Review? (choose all that apply)**
+- :white_check_mark: **Key Stakeholders.**
+- :white_check_mark: **The Scrum Master.**
+- :white_check_mark: **The Product Owner.**
+- :white_check_mark: **The Developers.**
+
+
+
+
+94- **Your Scrum Team’s impediment list is growing. Which techniques would be most helpful in this situation? (choose the best two answers)**
+- :white_check_mark: **The Scrum Team prioritizes the list and works on them in order**
+- :white_check_mark: **The Scrum Master discusses the impediments with the Scrum Team**
+
+
 95-
 - :white_check_mark: **
 96-
