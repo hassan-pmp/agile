@@ -25,6 +25,24 @@
 - **Level 5- World War**
 	- This is most extreme level, where the goal is to destroy the other side
 
+- **How Scrum Master can help the team in the Forming phase?**
+	- Ensure that the Scrum team is aligned regarding the product Backlog and product Goal, having a clear, common objective to pursue.
+	- Have a clear DoD
+	- Encourage self-managment
+	-Have team agreement, describing how team members will work together
+
+- **How Scrum Master can help the team in the Sorming phase?**
+	- The Scrum Master must ensure that the team maintain the values of commitment, focus, openness, respect, and courage to deal with conflicts positively.
+	- The Sprint Retrospective is a valuable tool in this phase
+
+- **How Scrum Master can help the team in the norming phase?**
+	- Help the team better undestand how to interact with Scrum events and artifacts and deliver done increments more frequently.
+	- They can also take on more self-management activities and look for ways to improve their skills.
+
+- **How Scrum Master can help the team in the Performing phase?**
+	- The Scrum Master should encout=rage the team to focus on Continous improvement, use Scrum events and artificats more efficientls, maintain role clarity, and live Scrum Values
+
+
 
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 12
 - **The 7 Habits of an effective Scrum Master**
