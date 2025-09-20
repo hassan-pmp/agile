@@ -1,5 +1,16 @@
 # Better Than Yesterday
 ---
+# 21.09.2025 Scrum Master II: Exam Tips: Lesson 13
+- **Scrum Master Anti-Patterns**
+	- Scribe
+	- Secretary
+	- Scrum Police
+	- Team Boss
+	- Admin
+	- Chairman
+	- Superhero
+	- Coffe Clerk 
+
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 12
 - **The 7 Habits of an effective Scrum Master**
 	- 1- Leading by example
@@ -29,20 +40,6 @@
 	- The boundaries of self-management, driving the Scrum Team to be self-sufficient and autonomous.
  	- The culture, making sure the team is safe and open
   	- Impediments, by making the team capable of removing them and being available to remove any impediments that go beyond their capability.
-
-- **Scrum Master Anti-Patterns**
-	- Scribe
-	- Secretary
-	- Scrum Police
-	- Team Boss
-	- Admin
-	- Chairman
-	- Superhero
-	- Coffe Clerk
-
--
-
-
 
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 11
 1- **It's up to the self-managing team to decide which Scrum artifacts are needed in the project. (Select the best answer)**
