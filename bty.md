@@ -10,6 +10,20 @@
 	- 6- Listening more tham talking
 	- 7- Flowing like a stream
 
+- **Cornerstone of Scrum Master**
+	- Leader
+	- Coach
+	- Mentor
+	- Teacher
+
+- **Scrum Master as Facilitator: Essential for ensuring the effectiveness of events and adherence to Scrum processes.**
+- **The Scrum Master must ensure the team follows agile practices, maintaining focus and productivity.**
+- **The Scrum Master should create an environment and set clear limits that encourage team collaboration and idea echange.**
+	- Designing and guiding events to assisst the team in achieving its objects.
+	- Posing thought- provoking question to stimulate new insights
+	- Listening with the intent to undestand
+	- Enabling things to happen rather than forcasting them
+	- Staying unbiased in content 
 - 
 
 
