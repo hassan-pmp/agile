@@ -30,6 +30,18 @@
  	- The culture, making sure the team is safe and open
   	- Impediments, by making the team capable of removing them and being available to remove any impediments that go beyond their capability.
 
+- **Scrum Master Anti-Patterns**
+	- Scribe
+	- Secretary
+	- Scrum Police
+	- Team Boss
+	- Admin
+	- Chairman
+	- Superhero
+	- Coffe Clerk
+
+-
+
 
 
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 11
