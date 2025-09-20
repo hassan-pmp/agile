@@ -266,7 +266,7 @@
 - True
 - :white_check_mark: **False**
  
-57-** What is the single source of requirements for any changes to be made to the product? (choose the best answer)**
+57- **What is the single source of requirements for any changes to be made to the product? (choose the best answer)**
 - :white_check_mark: **The Product Backlog**
 
 58- **Only people of the Scrum Team can participate in the Sprint Planning.** 
