@@ -1,6 +1,6 @@
 # Better Than Yesterday
 ---
-# 20.09.2025 Scrum Master II: Exam Tips: Lesson 10
+# 20.09.2025 Scrum Master II: Exam Tips: Lesson 11
 1- **It's up to the self-managing team to decide which Scrum artifacts are needed in the project. (Select the best answer)**
 
 2-  **At least one high-priority process improvement item exists in each Sprint Backlog. (Select the best answer)**
@@ -496,6 +496,8 @@
 -	Product Backlog Refinement session
 -	:white_check_mark: **Daily Scrum and Sprint Retrospective**
 
+
+# 20.09.2025 Scrum Master II: Exam Tips: Lesson 10
 1- **True or False: On big projects, It is good to have at least two Product Owners.**
 -	True
 -	:white_check_mark: **False**
