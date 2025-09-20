@@ -1,5 +1,246 @@
 # Better Than Yesterday
 ---
+
+True or False: On big projects, It is good to have at least two Product Owners.
+-	True
+-	False
+
+Which of the following is LEAST likely to be used by a Scrum Team?
+-	WBS and Gantt Chart
+
+Who must participate in the Daily Scrum?
+-	Developers
+
+True or False: Scrum is not a definitive method or technique.
+-	True
+-	False
+
+True or False: The Daily Scrum is a 15-minute time-boxed event independent of the Scrum Team's size and Sprint's length.
+-	True
+-	False
+
+What provides guidance to the Developers on why it is building the Increment?
+-	The Sprint Goal
+
+True or False: Scrum allows additional events that are not defined in Scrum.
+-	True
+-	False
+
+Scrum is founded on? (Select the best answer)
+-	Expricism and Lean Thinking
+
+It is a good habit to have from time to time a special technical Sprint that consists only of tasks excluding the technical debt without implementing any new functionality.
+-	True
+-	False
+
+How is the Product Backlog ordered?
+-	Clear and more detao;ed atems at the top
+
+What is a proper role of a PMO in a company that uses Scrum?
+-	Define a standat=rd DoD for the Organization
+
+The Product Backlog is the single source of work undertaken by the Scrum Team.
+-	True
+-	False
+
+
+Which of the following may change during the Sprint?
+-	Sprint Backlog
+
+
+There are no testers in Scrum.
+-	True
+-	False
+
+
+Who is accountable for explaining the Product Backlog items
+-	PO
+
+Who ensures that all Scrum events take place and are positive, productive, and kept within the timebox?
+-	SM
+
+The Developers should have a Team Leader to improve communications and collaboration.
+-	True
+-	False
+
+When should the product be released? (choose the best answer)
+-	When needed
+
+The Product Backlog is an emergent, ordered list of what is needed to improve the product. Which one of the following answers is TRUE?)
+-	The PO is accountable for it 
+
+The Daily Scrum should always take precisely 15 minutes. For example, if the team managed to do it in 5 minutes, the Scrum Master has to spend ten more minutes on useful team activities. Every Daily Scrum should last 15 minutes.
+-	True
+-	False
+
+How often should the members of the Scrum Team be modified?
+-	As needed, but considering a short-term reduction in productivity 
+
+Consider that you are the Scrum Master for three Scrum Teams working on the same product. At some point, a Developer says that all the Scrum Teams must have the same Sprint start date. What should you do?
+-	Disagree with the Developer and say that the Scrum Team can figure out the best way to sync their work and that not necessarily the Scrum Teams must have the same Sprint start Date.
+
+Consider that you are the Product Owner for a Scrum Team. Which of the following activities would you engage in during a Sprint?
+-	Answer questions from Developers about the Sprint Backlog
+
+What is the role of management, external to the Scrum Team, at the Daily Scrum?
+-	management has no role at the daily 
+
+You are the Scrum Master for a Scrum Team. The Scrum Team’s Product Owner is new to Scrum and is about to participate in her first Sprint Retrospective. Thus, she came to ask you for advice about what should be her responsibility during the Event. What should you recommend to her?
+-	Participant as a Scrum team member 
+
+During a Sprint, who is responsible for ensuring that everyone on the Scrum Team does their job?
+-	Scrum Team
+
+Considering the context in which there are multiple Scrum Teams working on the same product, which of the following is a key concern?
+-	Minimizing the dependencies between the scrum team
+
+By the end of each Sprint, at least one Increment must have been released to customers or users.
+-	True
+-	False
+
+
+One of the Product Owner’s duties is to ensure that, during Sprint Planning, the Developers select enough Product Backlog items for the given Sprint to satisfy the stakeholders.
+-	True
+-	False
+
+You are the Scrum Master for a Scrum Team and the Developers complained to you because they do not fully understand a Product Backlog item and are not being able to deliver an Increment. What should you advise them to do?
+-	Discuss with PO to clarify what needs to be delivered
+
+
+Who determines how many Product Backlog items the developers select for a Sprint?
+-	The Developers
+
+Which of the following is a valid situation for the Developers to cancel a Sprint?
+-	They connot. Only the PO has the authority to cancel Sprints
+
+As the Scrum Team learns more about the problem at hand, the Definition of Done might change. When is the best moment for a Scrum Team to change it?
+-	During a Sprint Retrospective
+
+In Scrum, how much time is allowed after a Sprint to prepare for the next Sprint?
+-	Never. A new Sprint starts immediately after the conclusion of peivious Sprints
+
+You are the Scrum Master of a Scrum Team and noticed that they are not been trusted by management. "Which Scrum value has been violated by such a lack of trust in the Scrum Team?"
+-	Respect
+
+
+When is a Product backlog item considered complete?
+-	When it meets the DoD
+
+
+Who owns the Sprint Backlog?
+-	Developers
+
+Which of the following is true about the Developers?
+-	Make sure that the Product Backlog Items conform to the DoD
+
+When is a Sprint over?
+-	Whenever the time-box expires
+
+When must the Sprint Retrospective be held:
+-	At the end of Sprint
+
+What is the timebox for the Sprint Review of a one-month Sprint?
+-	4 hours
+
+Who should be the first person to talk on Daily Scrum?
+-	Whoever the developers decide
+
+Which of the following is a valid result of the Scrum Team at the end of a Sprint?
+-	An increment that meets the DoD
+
+You are the Scrum Master of a Scrum Team and the Product Owner asked you for advice about estimating the size of the Product Backlog items. What should you tell her?
+-	The developers who will be doing the work are responsible for the sizing
+
+You are the Scrum Master of a Scrum Team. Which of the following is your responsibility?
+-	Properly adopting and using the Scrum framework
+
+When there are multiple Scrum Teams working on the same product, should all of their increments be integrated every Sprint?
+-	Yes. The increment is done only when integrated, valuable and usable
+
+Which of the following approaches is preferable for Scrum Teams to develop valuable Increments?
+-	Each Scrum team develop a complete functionality 
+
+In the scenario of having multiple Scrum Teams working on a single product, what best describes the Definition of Done?
+-	Thay must mutually define and comply with the same DoD
+
+Which topics should be discussed in the Sprint Review?
+-	The outcome of the Sprint and future adoptions
+
+Which of the following phrases best describes the Product Owner?
+-	Value optimizer
+
+You are the Scrum Master of a Scrum Team. Which of the following is an appropriate service that you could provide the Developers for the Daily Scrum?
+-	Teach the Developers to finish the daily within 15 min time-box
+
+Which of the following is an expected characteristic of a Scrum Team?
+-	The member have the all skills necessary to create value each Sprint
+
+You are the Scrum Master working with a Scrum Team that has Developers that are not collocated. Thus, the Developers have much to do logistically such as reserving meeting rooms or setting up conference calls for the Daily Scrum. What action should you do?
+-	Allow the developers to self-manage and deal with the issue
+
+When must the Product Owner participate at the Daily Scrum?
+-	When the PO is actively working on items in the sprint backlog.
+
+The Sprint Backlog is updated throughout the Sprint as more is learned. However, when should it be updated?
+-	ASAP, after the update is identified 
+
+You are the Scrum Master of a new, to be developed Product. You know that the development is going to require 30 people. Which of the following is a good first question for you to suggest whenever it comes the time to form the teams?
+-	How will we make sure all items have the right amount of expertise
+
+Which statement best describes the Sprint Backlog resulting from the Sprint Planning?
+-	It is the Scrum Team’s plan for the next Sprint
+
+During the Sprint Retrospective, the Scrum Team members identify the most helpful changes to improve their effectiveness. Where are the most impactful improvements registered?
+-	Product Backlog
+
+When there is a lot more work to do than was estimated for one item in the Sprint Backlog, and the item can not be finished by the end of the Sprint, the Sprint is canceled.
+-	False
+
+You are the Scrum Master of a Scrum Team. During Sprint Planning, the Developers were about to select the Product Backlog items for the Sprint, when a Developer asked you how much work was required of the Developers to complete for each of the Product Backlog items. How should you answer her?
+-	As much as it is required to meet the Scrum Teams’s DoD
+
+When must an Increment be released?
+-	Whenever the Scrum Team judges that a release is valuable
+
+A Developer is having continuing conflicts with the other members of the Scrum Team, which is impacting its effectiveness. If necessary, who is responsible for removing the Developer from the Scrum Team?
+-	Scrum team
+
+True or False: An indicator of having a high-performing Scrum Team is that each Increment is completed by running a release Sprint.
+-	False
+
+You are the Scrum Master of a Scrum Team. For a given Sprint, at some point, the Developers realize they have selected too much work to finish in the Sprint and come ask you for advice. What should you tell them?
+-	ASAP, discuss with PO to remove some work, which might include complete Product Backlog Items or part of them
+
+What happens to undone work at the end of the Sprint?
+-	The Sprint Length keeps as is and the Scrum team uses the opportunity to lean and adapts
+
+Which of the following provides the Scrum Team with a target and overarching direction for the Sprint?
+-	Sprint Goal
+
+Which of the following statements best describes Scrum?
+-	A framework that helps people, organizations generate value through adaption solutions for complex problems
+
+Why is the Sprint Goal useful for the Developers?
+-	It gives them a shared and specific target 
+
+When should a Sprint Goal be created?
+-	During the sprint planning 
+
+
+You are the Scrum Master of a Scrum Team that is about to start working. One of the things that you need to define the Sprints’ length. Which of the following is a factor that should be considered for this purpose?
+-	The needs for feedback to learn based on the doing work and measuring results
+
+If burn-down charts are used to visualize progress, what do they track?
+-	Work remaing across time
+
+Which of the following is an indicator that a Scrum Team is cross-functional?
+-	The scrum team has all the skills necessary to create value each sprint
+
+
+
+
+
+
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 10
 1- **It's up to the self-managing team to decide which Scrum artifacts are needed in the project. (Select the best answer)**
 
