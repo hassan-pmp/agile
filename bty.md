@@ -1,77 +1,74 @@
 # Better Than Yesterday
 ---
 
-True or False: On big projects, It is good to have at least two Product Owners.
+1- **True or False: On big projects, It is good to have at least two Product Owners.**
 -	True
+-	:white_check_mark: **False**
+
+2- **Which of the following is LEAST likely to be used by a Scrum Team?**
+-	:white_check_mark: **WBS and Gantt Chart**
+
+3- **Who must participate in the Daily Scrum?**
+-	:white_check_mark: **Developers**
+
+4- **Scrum is not a definitive method or technique.**
+-	:white_check_mark: **True**
 -	False
 
-Which of the following is LEAST likely to be used by a Scrum Team?
--	WBS and Gantt Chart
-
-Who must participate in the Daily Scrum?
--	Developers
-
-True or False: Scrum is not a definitive method or technique.
--	True
+5- **True or False: The Daily Scrum is a 15-minute time-boxed event independent of the Scrum Team's size and Sprint's length.**
+-	:white_check_mark: **True**
 -	False
 
-True or False: The Daily Scrum is a 15-minute time-boxed event independent of the Scrum Team's size and Sprint's length.
--	True
+6- **What provides guidance to the Developers on why it is building the Increment?**
+-	:white_check_mark: **The Sprint Goal**
+
+7- **True or False: Scrum allows additional events that are not defined in Scrum.**
+-	:white_check_mark: **True**
 -	False
 
-What provides guidance to the Developers on why it is building the Increment?
--	The Sprint Goal
+8- **Scrum is founded on? (Select the best answer)**
+-	:white_check_mark: **Expricism and Lean Thinking**
 
-True or False: Scrum allows additional events that are not defined in Scrum.
+9- **It is a good habit to have from time to time a special technical Sprint that consists only of tasks excluding the technical debt without implementing any new functionality.**
 -	True
+-	:white_check_mark: **False**
+
+10- **How is the Product Backlog ordered?**
+-	:white_check_mark: **Clear and more detao;ed atems at the top**
+
+11- **What is a proper role of a PMO in a company that uses Scrum?**
+-	****Define a standat=rd DoD for the Organization**
+
+12- **The Product Backlog is the single source of work undertaken by the Scrum Team.**
+-	:white_check_mark: **True**
 -	False
 
-Scrum is founded on? (Select the best answer)
--	Expricism and Lean Thinking
+13- **Which of the following may change during the Sprint?**
+-	:white_check_mark: **Sprint Backlog**
 
-It is a good habit to have from time to time a special technical Sprint that consists only of tasks excluding the technical debt without implementing any new functionality.
--	True
+14- **There are no testers in Scrum.**
+-	:white_check_mark: **True**
 -	False
 
-How is the Product Backlog ordered?
--	Clear and more detao;ed atems at the top
+15- **Who is accountable for explaining the Product Backlog items**
+-	:white_check_mark: **PO**
 
-What is a proper role of a PMO in a company that uses Scrum?
--	Define a standat=rd DoD for the Organization
+16- **Who ensures that all Scrum events take place and are positive, productive, and kept within the timebox?**
+-	:white_check_mark: **SM**
 
-The Product Backlog is the single source of work undertaken by the Scrum Team.
+17- **The Developers should have a Team Leader to improve communications and collaboration.**
 -	True
--	False
+-	:white_check_mark: **False**
 
+18- **When should the product be released? (choose the best answer)**
+-	:white_check_mark: **When needed**
 
-Which of the following may change during the Sprint?
--	Sprint Backlog
+19- **The Product Backlog is an emergent, ordered list of what is needed to improve the product. Which one of the following answers is TRUE?)**
+-	:white_check_mark: **The PO is accountable for it**
 
-
-There are no testers in Scrum.
+20- **The Daily Scrum should always take precisely 15 minutes. For example, if the team managed to do it in 5 minutes, the Scrum Master has to spend ten more minutes on useful team activities. Every Daily Scrum should last 15 minutes.**
 -	True
--	False
-
-
-Who is accountable for explaining the Product Backlog items
--	PO
-
-Who ensures that all Scrum events take place and are positive, productive, and kept within the timebox?
--	SM
-
-The Developers should have a Team Leader to improve communications and collaboration.
--	True
--	False
-
-When should the product be released? (choose the best answer)
--	When needed
-
-The Product Backlog is an emergent, ordered list of what is needed to improve the product. Which one of the following answers is TRUE?)
--	The PO is accountable for it 
-
-The Daily Scrum should always take precisely 15 minutes. For example, if the team managed to do it in 5 minutes, the Scrum Master has to spend ten more minutes on useful team activities. Every Daily Scrum should last 15 minutes.
--	True
--	False
+-	:white_check_mark: **False**
 
 How often should the members of the Scrum Team be modified?
 -	As needed, but considering a short-term reduction in productivity 
@@ -96,12 +93,12 @@ Considering the context in which there are multiple Scrum Teams working on the s
 
 By the end of each Sprint, at least one Increment must have been released to customers or users.
 -	True
--	False
+-	**False**
 
 
 One of the Product Owner’s duties is to ensure that, during Sprint Planning, the Developers select enough Product Backlog items for the given Sprint to satisfy the stakeholders.
 -	True
--	False
+-	**False**
 
 You are the Scrum Master for a Scrum Team and the Developers complained to you because they do not fully understand a Product Backlog item and are not being able to deliver an Increment. What should you advise them to do?
 -	Discuss with PO to clarify what needs to be delivered
@@ -234,7 +231,7 @@ If burn-down charts are used to visualize progress, what do they track?
 -	Work remaing across time
 
 Which of the following is an indicator that a Scrum Team is cross-functional?
--	The scrum team has all the skills necessary to create value each sprint
+-	:white_check_mark: **The scrum team has all the skills necessary to create value each sprint**
 
 
 
