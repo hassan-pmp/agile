@@ -24,7 +24,11 @@
 	- Listening with the intent to undestand
 	- Enabling things to happen rather than forcasting them
 	- Staying unbiased in content 
-- 
+- **Scrum Master as Manager**
+	- The Team's processes
+	- The boundaries of self-management, driving the Scrum Team to be self-sufficient and autonomous.
+ 	- The culture, making sure the team is safe and open
+  	- Impediments, by making the team capable of removing them and being available to remove any impediments that go beyond their capability.
 
 
 
