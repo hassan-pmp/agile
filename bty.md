@@ -10,6 +10,21 @@
 	- Chairman
 	- Superhero
 	- Coffe Clerk 
+- **Level 1- Problem to solve**
+	- The conflict is seen as a practical issue with shared opionons and misunderstandings
+   
+- **Level 2- Disagreement**
+	- Conversations may become more cautions, with team members seeking support and strategies outside official discussion.
+
+- **Level 3- Contest**
+	- This level is characterzed by a desire to "win" the conflict, often at the expense of team cohesion. Previous unresolved conflicts can accumulate, leading to divisions and power politics within the team.
+
+- **Level 4- Crusade**
+	- The focuseshifts from resolving the situation to winning at all cost.
+
+- **Level 5- World War**
+	- This is most extreme level, where the goal is to destroy the other side
+
 
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 12
 - **The 7 Habits of an effective Scrum Master**
