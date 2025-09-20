@@ -2,13 +2,13 @@
 ---
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 12
 - **The 7 Habits of an effective Scrum Master**
-	1- Leading by example
-	2- Beginning with the end in mind
-	3- Setting a sustainable pace for long-term
-	4- Balancing logic with empathy 
-	5- The ability to "Pull not Push"
-	6- Listening more tham talking
-	7- Flowing like a stream
+	- 1- Leading by example
+	- 2- Beginning with the end in mind
+	- 3- Setting a sustainable pace for long-term
+	- 4- Balancing logic with empathy 
+	- 5- The ability to "Pull not Push"
+	- 6- Listening more tham talking
+	- 7- Flowing like a stream
 
 # 20.09.2025 Scrum Master II: Exam Tips: Lesson 11
 1- **It's up to the self-managing team to decide which Scrum artifacts are needed in the project. (Select the best answer)**
