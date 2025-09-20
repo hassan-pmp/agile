@@ -1,5 +1,12 @@
 # Better Than Yesterday
 ---
+# 20.09.2025 Scrum Master II: Exam Tips: Lesson 10
+- 
+
+
+
+
+
 # 19.09.2025 Scrum Master II: Exam Tips: Lesson 9
 1- **Who describe the DoD in the case od multiple Scrum Team working on a single product?**
 - :white_check_mark: **A- All the Scrum teams must mutually define the DoD**
