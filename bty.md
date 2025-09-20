@@ -110,22 +110,23 @@
 -	True
 -	:white_check_mark: **False**
 
-21- Which of the following has the most to do with capturing and using lessons learned? (Select the best answer)
+21- **Which of the following has the most to do with capturing and using lessons learned? (Select the best answer)**
 -	Sprint Planning
 -	Product Backlog Refinement
 -	:white_check_mark: **Sprint Retrospective**
 -	Sprint Review
 
-22- Which of the following is required by Scrum? (Select the best answer)
+22- **Which of the following is required by Scrum? (Select the best answer)**
 -	Burn-down charts
 -	:white_check_mark: **Sprint Retrospectives**
 -	User Stories
 -	Story Points
+
 23- **Scrum Teams are allowed to use burn-up charts instead of burn-down charts. (Select the best answer)**
 - :white_check_mark: **True**
 - False
 
-24- Who's responsible for quality? (Select the best answer)
+24- **Who's responsible for quality? (Select the best answer)**
 -	Team leaders
 -	The Developers
 -	Testers
@@ -171,7 +172,7 @@
 -	Each product should have a separate Product Owner.
 
 
-32- Which two of the following can be reasons for the Scrum Master to attend the Daily Scrum? (Select the best two answers)
+32- **Which two of the following can be reasons for the Scrum Master to attend the Daily Scrum? (Select the best two answers)**
 •	:white_check_mark: **Coach the Developers on keeping it within 15 minutes.**
 •	To tell Developers what to do.
 •	:white_check_mark: **It's not necessary for he/she to be in the meeting.**
@@ -179,13 +180,13 @@
 •	To get a report on progress of the Sprint.
 
 
-33- Which element should NOT be an attribute of Product Backlog items? (Select the best answer)
+33- **Which element should NOT be an attribute of Product Backlog items? (Select the best answer)**
 -	Description
 -	Size
 -	Order
 -	:white_check_mark: **Owner**
 
-34- How does the Product Owner determine the number of items for the Sprint Backlog? (Select the best answer)
+34- **How does the Product Owner determine the number of items for the Sprint Backlog? (Select the best answer)******
 -	Based on velocity
 -	Correct answer
 -	:white_check_mark: **He or she doesn't do it!**
@@ -199,28 +200,28 @@
 -	Summarizing and report the results of the meeting to stakeholders
 
 
-36- Sprint Planning is not a place for refining Product Backlog items. (Select the best answer)
+36- **Sprint Planning is not a place for refining Product Backlog items. (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-37- In scaled Scrum, each Scrum Team demonstrates their individual Increment. (Select the best answer)
+37- **In scaled Scrum, each Scrum Team demonstrates their individual Increment. (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-38- All of the following are possible inputs to Sprint Planning, EXCEPT: (Select the best answer)
+38- **All of the following are possible inputs to Sprint Planning, EXCEPT: (Select the best answer)**
 -	:white_check_mark: **Sprint Goal**
 -	Product Backlog Refinement
 -	Velocity
 -	Increment
 -	Definition of Done
 
-39- Which of the following is NOT mandatory in Scrum? (Select the best answer)
+39- **Which of the following is NOT mandatory in Scrum? (Select the best answer)**
 -	:white_check_mark: **Planning Poker**
 -	Timeboxing the Events
 -	Definition of Done
 -	Sprint Planning
 
-40- Which two of the following are correct about the whole Scrum Team role? (Select the best two answers)
+40- **Which two of the following are correct about the whole Scrum Team role? (Select the best two answers)**
 -	Owns the Product Backlog
 -	:white_check_mark: **Is responsible for setting the timeboxed duration of Sprints**
 -	May add new work to the Sprint Backlog during the Sprint
@@ -229,7 +230,7 @@
 -	Prioritizes tasks in the Sprint Backlog
 
 
-41- Which two of the following should be considered in setting the timeboxed duration of Sprints? (Select the best two answers)
+41- **Which two of the following should be considered in setting the timeboxed duration of Sprints? (Select the best two answers)**
 -	:white_check_mark: **It cannot be longer than one month.**
 -	:white_check_mark: **It's better to have shorter Sprints when the project is riskier.**
 -	It should be shorter when there are more Developers.
@@ -237,37 +238,37 @@
 -	It should be longer in bigger projects.
 
 
-42- Product Backlog refinement is the act of breaking down and further defining Sprint Backlog items into smaller more precise items. (Select the best answer)
+42- **Product Backlog refinement is the act of breaking down and further defining Sprint Backlog items into smaller more precise items. (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-43-  Which of the following is NOT correct about the Scrum Master? (Select the best answer)
+43-  **Which of the following is NOT correct about the Scrum Master? (Select the best answer)**
 -	:white_check_mark: **Manages the Product Backlog**
 -	Helps the organization to implement Scrum
 -	Is a true leader who serves the Scrum Team and the larger organization
 -	Causes the removal of impediments
 
-44- Which two of the following are pillars of Scrum? (Select the best two answers)
+44- **Which two of the following are pillars of Scrum? (Select the best two answers)**
 -	:white_check_mark: **Adaptation**
 -	Creativity
 -	Sustainable pace
 -	:white_check_mark: **Transparency**
 
-45- Who is responsible for engaging the stakeholders? (Select the best answer)
+45- **Who is responsible for engaging the stakeholders? (Select the best answer)**
 -	The Project Manager
 -	The Developers
 -	The Product Owner
 -	The Scrum Master
 -	:white_check_mark: **The Scrum Team**
 
-46- When is the Sprint over? (Select the best two answers)
+46- **When is the Sprint over? (Select the best two answers)**
 -	:white_check_mark: **When the Product Owner cancels the Sprint**
 -	When the Sprint Backlog tasks are done
 -	When all Sprint Backlog items are done
 -	When the Scrum Master announces the end of the Sprint
 -	:white_check_mark: **When the timeboxed duration is over**
 
-47- What are the three classical questions of Daily Scrums, if you decide to go through them? (Select the best three answers)
+47- **What are the three classical questions of Daily Scrums, if you decide to go through them? (Select the best three answers)**
 -	Are we able to deliver all Sprint Backlog items by the end of the Sprint?
 -	What problems did I have yesterday?
 -	:white_check_mark: **What impediments are in my way or in the way of the team?**
@@ -280,39 +281,39 @@
 - :white_check_mark: **True**
 - False
 
-49- Which two of the following may be done in the Sprint Retrospective event? (Select the best two answers)
+49- **Which two of the following may be done in the Sprint Retrospective event? (Select the best two answers)**
 -	Discuss the next Sprint goal
 -	Refine the Product Backlog
 -	:white_check_mark: **Discuss the composition of the team**
 -	Calculate Velocity
 -	:white_check_mark: **Discuss the Definition of Done**
 
-50- Which two statements are correct about a Product Backlog item that is undone at the end of the Sprint? (Select the best two answers)
+50- **Which two statements are correct about a Product Backlog item that is undone at the end of the Sprint? (Select the best two answers)**
 -	Demonstrate it in the Sprint Review meeting, if the item is presentable in its current state.
 -	The Sprint will be extended until we complete the item.
 -	:white_check_mark: **Do not include it in the Increment.**
 -	:white_check_mark: **Move it back to the Product Backlog.**
 -	Consider the complete part of the item in velocity calculation and then create a new item in the Product Backlog for the remaining work.
 
-51- What happens if we forecast that some of the work defined in the Sprint Backlog won't be done by the end of the Sprint? (Select the best answer)
+51- **What happens if we forecast that some of the work defined in the Sprint Backlog won't be done by the end of the Sprint? (Select the best answer)**
 -	Extend the duration of the Sprint, to be able to deliver everything.
 -	Continue to the next Sprint without a Sprint Review meeting and finish those items in the next Sprint.
 -	:white_check_mark: **Review the work with the Product Owner to see if any adjustments are required, and keep working.**
 -	Work overtime and try to complete all items.
 
-52- Which of the following are true? (Select the best three answers)
+52- **Which of the following are true? (Select the best three answers)**
 -	:white_check_mark: **The Developers are always accountable for instilling quality by adhering to a Definition of Done**
 -	:white_check_mark: **The fundamental unit of Scrum is a small team of people, a Scrum Team.**
 -	The Product Owner is responsible for the sizing Product Backlog items.
 -	:white_check_mark: *Sprints are the heartbeat of Scrum, where ideas are turned into value.**
 
-53- Which two statements are correct about Product Backlog Refinement? (Select the best two answers)
+53- **Which two statements are correct about Product Backlog Refinement? (Select the best two answers)**
 -	:white_check_mark: **Multiple teams may participate in it.**
 -	:white_check_mark: **It can take as much time as needed.**
 -	Normally, it shouldn't take more than 10% of the Scrum Team's time.
 -	Normally, it doesn't take more than 10% of the Development Team's time.
 	
-54- Which three statements are correct when four teams are working on a product? (Select the best three answers)
+54- **Which three statements are correct when four teams are working on a product? (Select the best three answers)**
 -	:white_check_mark: **There can be multiple Scrum Masters.**
 -	:white_check_mark: **There can be multiple Definitions of Done.**
 -	There can be multiple Product Backlogs.
@@ -320,72 +321,72 @@
 -	There is only one Sprint Backlog each Sprint.
 -	There is only one Definition of Done.
 
-55- When the Scrum Team becomes mature enough in using Scrum, they won't need a Scrum Master anymore. (Select the best answer)
+55- **When the Scrum Team becomes mature enough in using Scrum, they won't need a Scrum Master anymore. (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-56- The Product Backlog is baselined before the first Sprint (Select the best answer)
+56- **The Product Backlog is baselined before the first Sprint (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-57- How much time does the Scrum Team spend on Product Backlog Refinement? (Select the best answer)
+57- **How much time does the Scrum Team spend on Product Backlog Refinement? (Select the best answer)**
 -	Usually not more than 5% of their time
 -	Usually not more than 10% of their time
 -	Usually not more than 20% of their time
 -	:white_check_mark: **As much as needed**
 
-58- What's the main responsibility of a tester in Scrum? (Select the best answer)
+58- **What's the main responsibility of a tester in Scrum? (Select the best answer)**
 -	Tracking quality metrics
 -	Finding bugs
 -	Writing the test scripts as soon as the programmers start working on the code
 -	:white_check_mark: **There are no testers in Scrum**
 
-59- It's generally better to have shorter Sprints when the project is riskier. (Select the best answer)	
+59- **It's generally better to have shorter Sprints when the project is riskier. (Select the best answer)	**
 - :white_check_mark: **True**
 - False
 
-60-  What's the timeboxed duration of Daily Scrums when there are 6 developers in the team and Sprints are two weeks long? (Select the best answer)
+60-  **What's the timeboxed duration of Daily Scrums when there are 6 developers in the team and Sprints are two weeks long? (Select the best answer)**
 -	2 minutes per Developer + 2 minutes
 -	2 minutes per Developer
 -	As much as needed to answer the three standard questions
 -	:white_check_mark: **15 minutes**
 
-61-	Which two statements best describe the Product Backlog? (Select the best two answers)
+61-	**Which two statements best describe the Product Backlog? (Select the best two answers)**
 -	:white_check_mark: **It changes as we learn more about the product.**
 -	Contains all tasks identified by the Developers.
 -	It's used to create the project plan.
 -	:white_check_mark: **The Product Owner is accountable for it.**
 
-62- Which two of the following are NOT allowed in Scrum? (Select the best two answers)
+62- **Which two of the following are NOT allowed in Scrum? (Select the best two answers)**
 -	Using Story Points
 -	:white_check_mark: **Sprint 0**
 -	Refactoring
 -	:white_check_mark: **Integration Sprints**
 -	Using User Stories
 
-63- Which Scrum value is demonstrated when we continuously show the correct performance on a burn-down chart that everyone can see? (Select the best answer)
+63- **Which Scrum value is demonstrated when we continuously show the correct performance on a burn-down chart that everyone can see? (Select the best answer)**
 -	:white_check_mark: **Openness**
 -	Self-management
 -	Adaptation
 -	Trust
 
-64- The first Sprint can start as soon as the Product Backlog is complete. (Select the best answer)
+64- **The first Sprint can start as soon as the Product Backlog is complete. (Select the best answer)**
 - :white_check_mark: **False**
 - True
 
-65- Which of the following is mandatory in Scrum? (Select the best answer)
+65- **Which of the following is mandatory in Scrum? (Select the best answer)**
 -	Story Points
 -	Pair-Programming
 -	:white_check_mark: **Product Goal**
 -	User Stories
 
-66- What's the timeboxed duration of Sprint Retrospective events? (Select the best answer)
+66- **What's the timeboxed duration of Sprint Retrospective events? (Select the best answer)**
 -	:white_check_mark: **3 hours in a one-month Sprint, usually shorter for shorter Sprints.**
 -	8 hours in a one-month Sprint
 -	Maximum 8 hours
 -	3 hours
 
-67- Which two of the following actions may a Scrum Master take in starting up an initiative to develop a new product? (Select the best two answers)
+67- **Which two of the following actions may a Scrum Master take in starting up an initiative to develop a new product? (Select the best two answers)**
 -	:white_check_mark: **Ask the Developers to introduce themselves to each other and tell about their skills and background.**
 -	Ensure that a bonus system is in place for the top performance of individuals.
 -	:white_check_mark: **Ask the Product Owner to explain the product, its business need, history, goals, and context.**
@@ -393,38 +394,38 @@
 -	Ensure that there's a clear understanding of the whole scope of the project.
 
 
-68- How do changes in the product environment impact the Product Backlog? (Select the best answer)
+68- **How do changes in the product environment impact the Product Backlog? (Select the best answer)**
 -	The old baselined Product Backlog would be saved, and a new one would be created for the rest of the product.
 -	There's no effect on the Product Backlog.
 -	:white_check_mark: **It evolves to reflect the changes**
 -	The Product Backlog should be kept high-level enough to tolerate such changes.
 
-69- Which two of the following may happen when the team becomes mature enough during the product development?
+69- **Which two of the following may happen when the team becomes mature enough during the product development?**
 -	:white_check_mark: **They may improve their Definition of Done.**
 -	They may not need a Scrum Master anymore.
 -	They may not need Sprint Retrospectives anymore.
 -	:white_check_mark: **Their velocity may increase.**
 
-70- When is it time to integrate the resulting work of the Developers? (Select the best answer)
+70- **When is it time to integrate the resulting work of the Developers? (Select the best answer)**
 -	At the end of each Sprint
 -	:white_check_mark: **Frequently, during the Sprint**
 -	At the end of the project
 -	Before each release
 
-71- The Developers are ready to start the first Sprint, but the Product Backlog is not ready yet. What should the Product Owner do? (Select the best answer)
+71- **The Developers are ready to start the first Sprint, but the Product Backlog is not ready yet. What should the Product Owner do? (Select the best answer)**
 -	Ask the Developers to help you refine the Product Backlog instead of starting the first Sprint.
 -	Let the Sprint begin, but only with the goal of completing the Product Backlog.
 -	:white_check_mark: **Let the team start the first Sprint, and continue refining the Product Backlog.**
 -	Postpone the Sprint.
 
-72- Which two of the following may change during the Sprint? (Select the best two answers)
+72- **Which two of the following may change during the Sprint? (Select the best two answers)**
 -	:white_check_mark: **Sprint Backlog**
 -	:white_check_mark: **Product Backlog**
 -	Your selection is incorrect
 -	Minimum level of quality
 -	Sprint Goal
 
-73- You are the Scrum Master of a Scrum Team and management suggested having a tester on your Scrum Team. What are the two things that you would tell management? (choose the best two answers)
+73- **You are the Scrum Master of a Scrum Team and management suggested having a tester on your Scrum Team. What are the two things that you would tell management? (choose the best two answers)**
 -	:white_check_mark: **Scrum has no "tester" role**
 -	Your selection is incorrect
 -	Configuring quality tools and tracking quality metrics
@@ -433,21 +434,21 @@
 -	Performing quality assurance activities such as process assessments
 -	:white_check_mark: **The Developers perform testing activities.**
 
-74- Which three of the following are true about the Scrum Master? (choose the best three answers)
+74- **Which three of the following are true about the Scrum Master? (choose the best three answers)**
 -	The Scrum Master assigns tasks to Developers
 -	The Scrum Master is responsible for updating the Sprint Burndown
 -	:white_check_mark: **The Scrum Master helps those outside the team interact with the Scrum Team**
 -	:white_check_mark: **The Scrum Master teaches the Scrum Team to use timeboxes**
 -	:white_check_mark: **Helps the Product Owner to establish empirical product planning for a complex environment**
 
-75- Which three following are true about Scrum? (choose the best three answers)
+75- **Which three following are true about Scrum? (choose the best three answers)**
 -	The Scrum Master is Scrum's way of having a project manager for a self- managed context
 -	:white_check_mark: **Scrum is founded on empiricism and lean thinking.**
 -	:white_check_mark: **Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.**
 -	Scrum is a methodology and you can adapt to your needs as you wish.
 -	:white_check_mark: **Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum.**
 
-76- Which of the following are true regarding the Definition of Done? (choose the best three answers)
+76- **Which of the following are true regarding the Definition of Done? (choose the best three answers)**
 -	Each Product Backlog item contains a Definition of Done containing the criteria it needs to meet to be accepted
 -	:white_check_mark: **Guides the Developers on how many Product Backlog items to select for the Sprint**
 -	:white_check_mark: **Is committed to by the Increment**
@@ -455,25 +456,25 @@
 -	Your selection is correct
 -	:white_check_mark: **Increases transparency**
 
-77- Which of the following may change during the Sprint? (Select the best answer)
+77- **Which of the following may change during the Sprint? (Select the best answer)**
 -	Sprint Goal
 -	:white_check_mark: **Sprint Backlog**
 -	Minimum level of quality
 
-78- Which of the following are the responsibilities of the Developers of a Scrum Team? (choose the best three answers)
+78- **Which of the following are the responsibilities of the Developers of a Scrum Team? (choose the best three answers)**
 -	Report their progress to management
 -	:white_check_mark: **Estimate the size of Product Backlog items**
 -	:white_check_mark: **Do the work planned in the Sprint Backlog**
 -	:white_check_mark: **Select Product Backlog items for the Sprint**
 -	Order the Product Backlog
 
-79- Which of the following are aspects of Scrum that promote self-management? (choose the best three answers)
+79- **Which of the following are aspects of Scrum that promote self-management? (choose the best three answers)**
 -	:white_check_mark: **By being a lightweight framework**
 -	:white_check_mark: **By the Developers selecting items from the Product Backlog to include in the current Sprint.**
 -	:white_check_mark: **By removing title for Scrum Team members**
 -	By having the Scrum Master protect the Scrum Team from interruptions.
 
-80- Which of the following are appropriate topics for the Scrum Team to discuss during a Sprint Retrospective? (choose the best three answers)
+80- **Which of the following are appropriate topics for the Scrum Team to discuss during a Sprint Retrospective? (choose the best three answers)**
 -	:white_check_mark: **Team collaboration**
 -	Refine the Product Backlog items
 -	:white_check_mark: **The Scrum Team's processes and tools**
