@@ -9,7 +9,7 @@
 2- **Timeboxes facilitate self-management by enabling team members to concentrate concurrently on the same issue, thus preventing distractions and fostering optimal decision-making based on the current context and knowledge.**
 -	False
 -	:white_check_mark: **True**
----
+
 3- **If the Product Owner and the Developers disagree about the complexity of a Product Backlog item, the Developers should have the final say in the estimate since they are responsible for the work, and the team should further discuss the item to understand its complexity.**
 -	False
 -	:white_check_mark: **True**
@@ -35,8 +35,6 @@
 -	False
 -	:white_check_mark: **True**
 
-
-
 9- **The Scrum Master should resolve the Developers' difficulties with the Daily Scrum by imposing a fixed time and location for the meeting without consulting the team or encouraging them to find solutions.**
 -	True
 -	:white_check_mark: **False**
@@ -46,7 +44,6 @@
 -	:white_check_mark: **True**
 
  11- When the team size increases to 11 with the addition of a new Developer, the Scrum Master should ignore the situation, considering it solely the Developers’ responsibility to address any issues arising from the increased team size.
-
 -	True
 -	:white_check_mark: **False**
   
@@ -84,7 +81,7 @@
 20- **William, as the Scrum Master, should consider exploring additional scaling techniques, encouraging team members to take on technical writing tasks, and rearranging the Product Backlog to manage the demand for Mag, the technical writer, across multiple teams.**
 -	False
 -	:white_check_mark: **True**
---
+
 21- **The Increment commits to the Definition of Done. Which of the following explain what Done means?**
 - I - An Increment that could be released to end-users.
 - II - The work that the Scrum Team is capable of doing given their skills and expertise.
@@ -93,71 +90,34 @@
 - V - An Increment that is ready for the Product Owner to perform acceptance testing.
 
 -	:white_check_mark: **I and III**
---
-You are the Scrum Master of a Scrum Team from an organization that is known to consider on-time delivery and reliability very seriously. A manager detected that your team is not up to speed and that it should increase velocity by 15%. He came to you, the Scrum Master, expecting you to make it happen. How do you respond?
 
-Yes, explian how scrum team uses velocity as a forecast for the work to be done next Sprint
----
-You are the Scrum Master of a Scrum Team. During the Daily Scrum, one Developer is constantly discussing technical topics that are interesting but not relevant for the Daily Scrum. What would you do?
+22- **You are the Scrum Master of a Scrum Team from an organization that is known to consider on-time delivery and reliability very seriously. A manager detected that your team is not up to speed and that it should increase velocity by 15%. He came to you, the Scrum Master, expecting you to make it happen. How do you respond?**
 
+- :white_check_mark: **Yes, explian how scrum team uses velocity as a forecast for the work to be done next Sprint**
 
+23- **You are the Scrum Master of a Scrum Team. During the Daily Scrum, one Developer is constantly discussing technical topics that are interesting but not relevant for the Daily Scrum. What would you do?**
+- I - Manage turn-taking on the Daily Scrum by passing a token around. Each person only speaks while owning the token, which lasts an allotted amount of time.
+- II - Coach the Developers to help them find a way to solve the problem and own the solution.
+- III - Use a timer to limit the time that each Developer can speak at the Daily Scrum.
+- IV - In private, ask the Developer what he believes are the key outcomes for the Daily Scrum. Use the opportunity to coach him and help create focus during the Daily Scrum.
+- V - Raise the issue as an impediment to the Developer's manager and ask her to resolve this matter.
+- (choose the best answer)
 
-I - Manage turn-taking on the Daily Scrum by passing a token around. Each person only speaks while owning the token, which lasts an allotted amount of time.
+:white_check_mark: **II and IV**
 
-II - Coach the Developers to help them find a way to solve the problem and own the solution.
+24- **John is a Product Owner working on a Scrum Team on a new release for his product. John used the velocity of the previous release as the reference to estimate that the new release would take ten Sprints. The average velocity of the previous release was twenty Story Points per Sprint. Development is four Sprints underway, with seven more Sprints to go until the release. Further, the Product Backlog has not changed much.
+Over the first three Sprints, the average velocity is fifteen, but not all the delivered functionality was tested as needed. The Developers estimate that the unfinished testing would have required 25% of a Sprint’s time. The Developers believe that the required velocity of twenty-three is within their reach. What is the most effective way to recover? (choose the best answer)**
 
-III - Use a timer to limit the time that each Developer can speak at the Daily Scrum.
+- :white_check_mark: **The developers inform John that the progress that he has perceived date is not correct, because the delivered functionality is not fully tested**
 
-IV - In private, ask the Developer what he believes are the key outcomes for the Daily Scrum. Use the opportunity to coach him and help create focus during the Daily Scrum.
-
-V - Raise the issue as an impediment to the Developer's manager and ask her to resolve this matter.
-
-(choose the best answer)
-
-II and IV
---
-John is a Product Owner working on a Scrum Team on a new release for his product. John used the velocity of the previous release as the reference to estimate that the new release would take ten Sprints. The average velocity of the previous release was twenty Story Points per Sprint. Development is four Sprints underway, with seven more Sprints to go until the release. Further, the Product Backlog has not changed much.
-
-
-
-Over the first three Sprints, the average velocity is fifteen, but not all the delivered functionality was tested as needed. The Developers estimate that the unfinished testing would have required 25% of a Sprint’s time. The Developers believe that the required velocity of twenty-three is within their reach. What is the most effective way to recover?
-
-(choose the best answer)
-
-
-The developers inform John that the progress that he has perceived date is not correct, because the delivered functionality is not fully tested
-
---
-A Scrum Team is having a hard time scheduling the Daily Scrums because not all Developers work full time and some regularly work from home. To solve this issue, a Developer suggested having Daily Scrums twice a week, when everyone is in the office.
-
-What would be three key concerns if the frequency of the Daily Scrum is reduced?
-
-
-
-I - The opportunities to inspect progress toward the Sprint Goal and adapt the Sprint Backlog are reduced. Re-aligning is bound to become even more difficult.
-
-
-
-II - It becomes challenging for the Scrum Master to update the Burndown chart daily, which hinders the Scrum Master from fulfilling his/her duty of tracking the Sprint’s progress.
-
-
-
-III - The plan for the Sprint might become inaccurate and transparency over progress toward the Sprint Goal is reduced.
-
-
-
-IV - It becomes challenging for the Product Owner to accurately report progress about the state of the forecasted work to the stakeholders.
-
-
-
-V - Impediments are raised and resolved more slowly.
-
-(choose the best answer)
-
-
-
-
-I, III, V
+25- **A Scrum Team is having a hard time scheduling the Daily Scrums because not all Developers work full time and some regularly work from home. To solve this issue, a Developer suggested having Daily Scrums twice a week, when everyone is in the office. What would be three key concerns if the frequency of the Daily Scrum is reduced?**
+- I - The opportunities to inspect progress toward the Sprint Goal and adapt the Sprint Backlog are reduced. Re-aligning is bound to become even more difficult.
+- II - It becomes challenging for the Scrum Master to update the Burndown chart daily, which hinders the Scrum Master from fulfilling his/her duty of tracking the Sprint’s progress.
+- III - The plan for the Sprint might become inaccurate and transparency over progress toward the Sprint Goal is reduced.
+- IV - It becomes challenging for the Product Owner to accurately report progress about the state of the forecasted work to the stakeholders.
+- V - Impediments are raised and resolved more slowly.
+- (choose the best answer)
+:white_check_mark: **I, III, V**
 --
 Which of the following statements are correct regarding large-scale product development with Scrum?
 
