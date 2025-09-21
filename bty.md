@@ -1,129 +1,98 @@
 # Better Than Yesterday
 ---
-True or false: The Definition of Done in software development must encompass testing activities.
-T
---
-Timeboxes facilitate self-management by enabling team members to concentrate concurrently on the same issue, thus preventing distractions and fostering optimal decision-making based on the current context and knowledge.
+# 21.09.2025 Scrum Master II: Exam Tips: Lesson 13
 
-T
+1- **The Definition of Done in software development must encompass testing activities.**
+-	False
+-	:white_check_mark: **True**
+
+2- **Timeboxes facilitate self-management by enabling team members to concentrate concurrently on the same issue, thus preventing distractions and fostering optimal decision-making based on the current context and knowledge.**
+-	False
+-	:white_check_mark: **True**
 ---
-True or false: If the Product Owner and the Developers disagree about the complexity of a Product Backlog item, the Developers should have the final say in the estimate since they are responsible for the work, and the team should further discuss the item to understand its complexity.
+3- **If the Product Owner and the Developers disagree about the complexity of a Product Backlog item, the Developers should have the final say in the estimate since they are responsible for the work, and the team should further discuss the item to understand its complexity.**
+-	False
+-	:white_check_mark: **True**
 
-T
+4- **Self-management in a Scrum Team means that the Developers do not need to decide and replan their work during the Sprint collectively and can ignore creating a Sprint Backlog that encompasses all tasks necessary to meet the Definition of Done.
+**
+-	True
+-	:white_check_mark: **False**
+
+5- **If the Developers cannot confidently forecast Product Backlog Items due to unclear requirements, despite the Product Owner having a clear business objective, the Developers should avoid making a best-guess forecast and not discuss the issue in the upcoming Sprint Retrospective.**
+-	True
+-	:white_check_mark: **False**
+  
+6- **The Scrum Master should educate management that velocity is specific to each Scrum Team and not directly indicative of the value delivered, rather than standardizing velocity measurement across teams to compare performance.**
+-	False
+-	:white_check_mark: **True**
+
+7- The accumulation of technical debt, leading to scalability issues and extended development time, is likely due to a lack of transparency, inadequate discussions on technical debt, insufficient focus on technical quality, and ineffective use of Sprint Retrospectives within the Scrum Team.
+-	False
+-	:white_check_mark: **True**
+
+8- **To resolve disagreements about whether a Product Backlog Item is Done, the Scrum Team should clarify their Definition of Done and consider moving the contested work back to the Product Backlog for further investigation.**
+-	False
+-	:white_check_mark: **True**
+
+
+
+9- **The Scrum Master should resolve the Developers' difficulties with the Daily Scrum by imposing a fixed time and location for the meeting without consulting the team or encouraging them to find solutions.**
+-	True
+-	:white_check_mark: **False**
+
+10- **In a situation where the CEO wants to delay the next Sprint to address user feedback, but the Product Owner prefers to proceed with the new Sprint, an acceptable resolution would be to continue with the Sprints while integrating the feedback into the Product Backlog, balancing the CEO's input with Scrum practices.**
+-	False
+-	:white_check_mark: **True**
+
+ 11- When the team size increases to 11 with the addition of a new Developer, the Scrum Master should ignore the situation, considering it solely the Developers’ responsibility to address any issues arising from the increased team size.
+
+-	True
+-	:white_check_mark: **False**
+  
+12- **In a refinement session where new Product Backlog items meet higher security standards for a goal related to customer purchases and payments, it is appropriate to expand the Definition of Done to include these stringent security criteria and apply them moving forward.**
+-	False
+-	:white_check_mark: **True**
 --
+13- **The best time for the Daily Scrum is determined by the Scrum Master or the Product Owner rather than the Developers since typically they are busier.**
+-	True
+-	:white_check_mark: **False**
 
-True or false: Self-management in a Scrum Team means that the Developers do not need to decide and replan their work during the Sprint collectively and can ignore creating a Sprint Backlog that encompasses all tasks necessary to meet the Definition of Done.
+14- **In Scrum, it’s mandatory to apply a Definition of Ready (DoR) to Product Backlog items to facilitate Sprint Planning and improve forecast accuracy.**
+-	True
+-	:white_check_mark: **False**
 
 
+15- **The accumulation of technical debt and its impact on product scalability, requiring additional Sprints for resolution, could result from the Developers not prioritizing technical quality, lack of discussions on technical debt, not adhering to the Definition of Done, and prioritizing speed over quality.**
+-	False
+-	:white_check_mark: **True**
 
-F
----
-True or false: If the Developers cannot confidently forecast Product Backlog Items due to unclear requirements, despite the Product Owner having a clear business objective, the Developers should avoid making a best-guess forecast and not discuss the issue in the upcoming Sprint Retrospective.
+16- **Early customer feedback allows a Scrum Team to deliver higher-value features in the long term and increases the likelihood that the product meets customer needs.**
+-	False
+-	:white_check_mark: **True**
+17- **The Product Owner should be informed that conducting User Acceptance Testing (UAT) exclusively at the end of the release cycle will enhance transparency, shorten feedback loops, increase predictability, and reduce risk.**
+-	True
+-	:white_check_mark: **False**
+  
+18- **In a setting where several Scrum Teams work on one product, it’s the responsibility of the Developers within these teams to coordinate their work.**
+-	False
+-	:white_check_mark: **True**
+19- **Robert, the Scrum Master, should agree to remove the Daily Scrum to accommodate the team's complaint about too many meetings, assuming their weekly comprehensive progress meetings are sufficient.**
+-	True
+-	:white_check_mark: **False**
 
-
-F
----
-True or false: The Scrum Master should educate management that velocity is specific to each Scrum Team and not directly indicative of the value delivered, rather than standardizing velocity measurement across teams to compare performance.
-
-T
+20- **William, as the Scrum Master, should consider exploring additional scaling techniques, encouraging team members to take on technical writing tasks, and rearranging the Product Backlog to manage the demand for Mag, the technical writer, across multiple teams.**
+-	False
+-	:white_check_mark: **True**
 --
-True or false: The accumulation of technical debt, leading to scalability issues and extended development time, is likely due to a lack of transparency, inadequate discussions on technical debt, insufficient focus on technical quality, and ineffective use of Sprint Retrospectives within the Scrum Team.
+21- **The Increment commits to the Definition of Done. Which of the following explain what Done means?**
+- I - An Increment that could be released to end-users.
+- II - The work that the Scrum Team is capable of doing given their skills and expertise.
+- III - All work performed meets the Definition of Done.
+- IV - An Increment that is ready for quality control activities such as testing.
+- V - An Increment that is ready for the Product Owner to perform acceptance testing.
 
-
-T
---
-
-True or false: To resolve disagreements about whether a Product Backlog Item is Done, the Scrum Team should clarify their Definition of Done and consider moving the contested work back to the Product Backlog for further investigation.
-
-
-
-T
----
-							True or false: The Scrum Master should resolve the Developers' difficulties with the Daily Scrum by imposing a fixed time and location for the meeting without consulting the team or encouraging them to find solutions.
-
-
-F
---
-
-True or false: In a situation where the CEO wants to delay the next Sprint to address user feedback, but the Product Owner prefers to proceed with the new Sprint, an acceptable resolution would be to continue with the Sprints while integrating the feedback into the Product Backlog, balancing the CEO's input with Scrum practices.
-
-
-T
---
-True or false: When the team size increases to 11 with the addition of a new Developer, the Scrum Master should ignore the situation, considering it solely the Developers’ responsibility to address any issues arising from the increased team size.
-
-
-
-F
---True or false: In a refinement session where new Product Backlog items meet higher security standards for a goal related to customer purchases and payments, it is appropriate to expand the Definition of Done to include these stringent security criteria and apply them moving forward.
-
-
-
-T
---
-True or false: The best time for the Daily Scrum is determined by the Scrum Master or the Product Owner rather than the Developers since typically they are busier.
-
-
-
-F
---
-True or false: In Scrum, it’s mandatory to apply a Definition of Ready (DoR) to Product Backlog items to facilitate Sprint Planning and improve forecast accuracy.
-
-
-
-F
----
-
-True or false: The accumulation of technical debt and its impact on product scalability, requiring additional Sprints for resolution, could result from the Developers not prioritizing technical quality, lack of discussions on technical debt, not adhering to the Definition of Done, and prioritizing speed over quality.
-
-
-
-T
----
-True or false: Early customer feedback allows a Scrum Team to deliver higher-value features in the long term and increases the likelihood that the product meets customer needs.
-
-T
-
---
-True or false: The Product Owner should be informed that conducting User Acceptance Testing (UAT) exclusively at the end of the release cycle will enhance transparency, shorten feedback loops, increase predictability, and reduce risk.
-
-
-
-F
---
-True or false: In a setting where several Scrum Teams work on one product, it’s the responsibility of the Developers within these teams to coordinate their work.
-
-
-
-T
---
-True or false: Robert, the Scrum Master, should agree to remove the Daily Scrum to accommodate the team's complaint about too many meetings, assuming their weekly comprehensive progress meetings are sufficient.
-
-
-
-F
---
-True or false: William, as the Scrum Master, should consider exploring additional scaling techniques, encouraging team members to take on technical writing tasks, and rearranging the Product Backlog to manage the demand for Mag, the technical writer, across multiple teams.
-
-
-
-T
---
-The Increment commits to the Definition of Done. Which of the following explain what Done means?
-
-
-
-I - An Increment that could be released to end-users.
-
-II - The work that the Scrum Team is capable of doing given their skills and expertise.
-
-III - All work performed meets the Definition of Done.
-
-IV - An Increment that is ready for quality control activities such as testing.
-
-V - An Increment that is ready for the Product Owner to perform acceptance testing.
-
-I and III
+-	:white_check_mark: **I and III**
 --
 You are the Scrum Master of a Scrum Team from an organization that is known to consider on-time delivery and reliability very seriously. A manager detected that your team is not up to speed and that it should increase velocity by 15%. He came to you, the Scrum Master, expecting you to make it happen. How do you respond?
 
