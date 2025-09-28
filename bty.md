@@ -79,65 +79,66 @@
 - None
   
 12- **Which role in Scrum primarily defines scope and goal?**
-- Product Owner
+- :white_check_mark: **Product Owner**
 - Scrum Master
 - Developer
 - Scrum Team
 - :white_check_mark: **None**
 
 13- **Which role in Scrum assigns tasks to Developers?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
-
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
+  
 14- **Which role in Scrum prioritizes the Product Backlog?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 15- **Which role in Scrum primarily adds new Product Backlog Items to the Product Backlog?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 16- **Which role in Scrum is responsible for technical decisions i.e. how to build the product?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
 17- **Which role in Scrum defines success criteria for project/product?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 18- **Which role in Scrum tracks progress towards project/ product goal(s)?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 19- **Which role in Scrum chooses how much work fits in a Sprint?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
 20- **Which role in Scrum decides on time, scope and budget issues?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 21- **Which role in Scrum inspects & adapts to improve?**
  Product Owner
@@ -147,227 +148,227 @@
  None
 
 22- **Which role in Scrum keeps stakeholders informed?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- Product Owner
+- Scrum Master
+- Developer
+- :white_check_mark: **Scrum Team**
+- None
 
 23- **Which role in Scrum creates and communicates the Product Goal?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 24- **Which role in Scrum decides on scope of release?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
 25- **Which role in Scrum protects the Developers from interruptions?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
 26- **Which role in Scrum supports the Product Owner in refining Product Backlog Items?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-28- **Which role in Scrum represents stakeholders/ customers?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+27- **Which role in Scrum represents stakeholders/ customers?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-29- **Which role in Scrum makes sure the product is built right?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+28- **Which role in Scrum makes sure the product is built right?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-30- **Which role in Scrum makes sure the right product is built?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+29- **Which role in Scrum makes sure the right product is built?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-31- **Which role in Scrum points out other people’s mistakes?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+30- **Which role in Scrum points out other people’s mistakes?**
+- Product Owner
+- Scrum Master
+- Developer
+- Scrum Team
+- :white_check_mark: **None**
 
-32- **Which role in Scrum acts similar to a personal trainer i.e. ensures discipline to drive habit change?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+31- **Which role in Scrum acts similar to a personal trainer i.e. ensures discipline to drive habit change?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
-33- **Which role in Scrum spends a significant amount of their time with customers/ stakeholders?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+32- **Which role in Scrum spends a significant amount of their time with customers/ stakeholders?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-34- **Which role in scrum is allowed to cancel a sprint?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+33- **Which role in scrum is allowed to cancel a sprint?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-35- **Which role in Scrum decides who is on and who is off the team?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+34- **Which role in Scrum decides who is on and who is off the team?**
+- Product Owner
+- Scrum Master
+- Developer
+- Scrum Team
+- :white_check_mark: **None**
 
-36- **Which role in Scrum manages the budget of the project/ product?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+35- **Which role in Scrum manages the budget of the project/ product?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-37- **Which role in Scrum accepts a PBI as “Done”?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+36- **Which role in Scrum accepts a PBI as “Done”?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-38- **Which role in Scrum promotes cultural change within the organization?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+37- **Which role in Scrum promotes cultural change within the organization?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
-39- **Which role in Scrum is considered a servant leader?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+38- **Which role in Scrum is considered a servant leader?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
-40- **Which role in Scrum writes and agrees to Definition of Done (DoD)?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+39- **Which role in Scrum writes and agrees to Definition of Done (DoD)?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-41- **Which role in Scrum primarily writes and agrees to the Definition of Ready (DoR)?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+40- **Which role in Scrum primarily writes and agrees to the Definition of Ready (DoR)?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-42- **Which role in Scrum writes all meeting minutes?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+41- **Which role in Scrum writes all meeting minutes?**
+- Product Owner
+- Scrum Master
+- Developer
+- Scrum Team
+- :white_check_mark: **None**
 
-43- **Which role in Scrum increases Sprint duration to ensure team can deliver all PBIs?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+42- **Which role in Scrum increases Sprint duration to ensure team can deliver all PBIs?**
+- Product Owner
+- Scrum Master
+- Developer
+- Scrum Team
+- :white_check_mark: **None**
 
-44- **Which role in Scrum makes sure impediments are removed?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+43- **Which role in Scrum makes sure impediments are removed?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
-45- **Which role in Scrum decides on start time for Daily Scrum?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+44- **Which role in Scrum decides on start time for Daily Scrum?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-46- **Which role in Scrum accepts a PBI as “Ready”?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+45- **Which role in Scrum accepts a PBI as “Ready”?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-47- **Which role in Scrum self-manages to deliver the Sprint Goal?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+46- **Which role in Scrum self-manages to deliver the Sprint Goal?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-48- **Which role in Scrum facilitates Retrospectives?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+47- **Which role in Scrum facilitates Retrospectives?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
 
-49- **Which role in Scrum drives organizational change to support faster learning?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
-50- **Which role in Scrum informs about impediments and backlog issues?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+48- **Which role in Scrum drives organizational change to support faster learning?**
+- Product Owner
+- :white_check_mark: **Scrum Master**
+- Developer
+- Scrum Team
+- None
+49- **Which role in Scrum informs about impediments and backlog issues?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
-51- **Which role in Scrum is responsible for overall Return on Investment for the Product?**
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+50- **Which role in Scrum is responsible for overall Return on Investment for the Product?**
+- :white_check_mark: **Product Owner**
+- Scrum Master
+- Developer
+- Scrum Team
+- None
 
-Which role in Scrum assigns blame if Developers do not deliver?
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+51- Which role in Scrum assigns blame if Developers do not deliver?
+- Product Owner
+- Scrum Master
+- Developer
+- Scrum Team
+- :white_check_mark: **None**
 
-Which role in Scrum decides when and where the Scrum meetings take place?
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+52- Which role in Scrum decides when and where the Scrum meetings take place?
+- Product Owner
+- Scrum Master
+- Developer
+- :white_check_mark: **Scrum Team**
+- None
 
-Which role in Scrum manages the work of the Developers?
- Product Owner
- Scrum Master
- Developer
- Scrum Team
- None
+53- Which role in Scrum manages the work of the Developers?
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
 
 
