@@ -1,7 +1,7 @@
 # Better Than Yesterday
 ---
 # 28.09.2025 Scrum Master: Tips: Lesson 1
-1- Which role in Scrum facilitates meetings and events?
+1- **Which role in Scrum facilitates meetings and events?**
 	- Product Owner
 	- **Scrum Master**
 	- Developer
