@@ -8,6 +8,13 @@
 	- Scrum Team
 	- None
 
+1- **Which role in Scrum facilitates meetings and events?**
+- Product Owner
+- **Scrum Master**
+- Developer
+- Scrum Team
+- None
+- 
 Which role in Scrum coaches people & organization?
  Product Owner
 ** Scrum Master
