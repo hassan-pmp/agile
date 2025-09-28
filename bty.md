@@ -3,24 +3,24 @@
 # 28.09.2025 Scrum Master: Tips: Lesson 1
 1- **Which role in Scrum facilitates meetings and events?**
 - Product Owner
-- **Scrum Master**
+- :white_check_mark: **Scrum Master**
 - Developer
 - Scrum Team
 - None
 - 
 2- **Which role in Scrum coaches people & organization?**
   - Product Owner
-  - **Scrum Master**
+  - :white_check_mark: **Scrum Master**
   - Developer
   - Scrum Team
   - None
 
-Which role in Scrum decides how to build the product?
- Product Owner
- Scrum Master
- **Developer**
- Scrum Team
- None
+3- **Which role in Scrum decides how to build the product?**
+- Product Owner
+- Scrum Master
+- :white_check_mark: **Developer**
+- Scrum Team
+- None
 
 Which role in Scrum helps Developers to visualize their work and agreements?
  Product Owner
