@@ -26,6 +26,107 @@
 <img width="655" height="880" alt="image" src="https://github.com/user-attachments/assets/4149ef1e-985b-40c8-99b9-c85e57212de4" />
 
 
+1-	Which type of work is mostly in the complex or chaos domain?
+-	Repetitive
+-	:white_check_mark: **Innovation**
+-	Predictable
+-	Recurring
+2-	During which event do the Developers synchronize on achieving the Sprint Goal?
+-	Sprint Planning
+-	:white_check_mark: **Daily Scrum**
+-	Sprint Review
+-	Sprint Retrospective
+3- Which of the fixed dimensions in a defined process is replaced by the high-level Product Goal?
+-	Time
+-	:white_check_mark: **Scope**
+-	Budget
+-	Quality
+4- Who provides feedback in Sprint Reviews?
+-	Customer
+-	Internal Stakeholders
+-	Initiative Sponsor
+-	:white_check_mark: **All of the above**
+5- Which of these are pillars of Empirical Process Control?
+-	:white_check_mark: **Transparency**
+-	Retrospective
+-	Reviews
+-	None of the above
+6- Which event does a Scrum Master use to drive a Scrum Team’s quest for continuous improvement with regard to their way of working?
+-	Sprint Planning
+-	Daily Scrum
+-	Sprint Review
+-	:white_check_mark: **Sprint Retrospective**
+7- What type of service does a Scrum Master provide to the Developers?
+-	:white_check_mark: **Facilitating Retrospectives**
+-	Prioritizing the Product Backlog
+-	Prioritizing the Sprint Backlog
+-	Assigning tasks
+8- What type of leadership is associated with the Scrum Master?
+-	:white_check_mark: **Servant Leadership**
+-	Directive Leadership
+-	Situational Leadership
+-	Laissez Faire
+9- What percentage of their time should Developers block for Product Backlog Refinement?
+-	5%
+-	:white_check_mark: **10%**
+-	15%
+-	20%
+10- Who determines how to deliver the items in the current Sprint?
+-	:white_check_mark: **Developers**
+-	Lead Architect
+-	Scrum Master
+-	CTO
+11- Which role in Scrum prioritizes the Product Backlog?
+-	Stakeholder
+-	Scrum Master
+-	Project Manager
+-	:white_check_mark: **Product Owner**
+12- Which approach is best suited for a complex domain?
+-	Defined Process Control
+-	Predictible Planning
+-	:white_check_mark: **Empirical Process Control**
+-	Traditional Project Management
+13- What should be considered in creating a Sprint Backlog?
+-	Team Velocity
+-	Sprint Goal
+-	Definition of Done
+-	:white_check_mark: **All of the above**
+14- Which of these dimensions can be fixed in a Defined Process Control?
+-	Time
+-	Scope
+-	Budget
+-	:white_check_mark: **All of the above**
+15- During which event does the Scrum Team plan what to work on and how to deliver the work for the Sprint?
+-	:white_check_mark: **Sprint Planning**
+-	Daily Scrum
+-	Sprint Review
+-	Sprint Retrospective
+16- Which artifact in Scrum captures the work to be done within one Sprint?
+-	Product Backlog
+-	:white_check_mark: **Sprint Backlog**
+-	Sprint Goal
+-	Definition of Done
+17- During which event does the Scrum Team collect feedback from stakeholders?
+-	Sprint Planning
+-	Daily Scrum
+-	:white_check_mark: **Sprint Review**
+-	Sprint Retrospective
+18- Which of these is the commitment towards the Product Backlog?
+-	:white_check_mark: **Product Goal**
+-	Product Vision
+-	Business Goal
+-	Definition of Ready
+19- Which of these is a correct link between artifact and commitment?
+-	Product Goal – Sprint Backlog
+-	Definition of Done – Product Backlog
+-	Product Backlog – Sprint Backlog
+-	:white_check_mark: **Definition of Done – Product Increment**
+20- Which tool can help a team track progress throughout a Sprint?
+-	:white_check_mark: **Sprint Burndown Chart**
+-	Release Burnup Chart
+-	Definition of Done
+-	Definition of Ready
+
 
 
 
